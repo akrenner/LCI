@@ -1,0 +1,87 @@
+* Sea-Bird SBE19plus Data File:
+* FileName = C:\Users\Chris\Desktop\EVOSTC GWA LTM\CTD Data\2019_11-15_AlongBay\2019_11-15_AirCast_Cast.hex
+* Software Version 1.59
+* Temperature SN =  4141
+* Conductivity SN =  4141
+* System UpLoad Time = Nov 20 2019 09:59:30
+** Cook Inlet LTM AlongBay
+** Date: 2019_11-15
+** Station:13
+** Start Time: (AKST):10:50
+** Depth (m):
+** Comment:Air cast.
+** Comment:
+* ds
+* SeacatPlus V 1.6  SERIAL NO. 4141    20 Nov 2019  10:57:57
+* vbatt = 12.3, vlith =  8.2, ioper =  62.1 ma, ipump =  75.2 ma, 
+* iext01 =  78.1 ma
+* iext23 =   5.3 ma
+* 
+* status = not logging
+* number of scans to average = 1
+* samples = 51649, free = 389856, casts = 45
+* number of correctable FLASH read errors = 2
+* mode = profile, minimum cond freq = 3178, pump delay = 60 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.3 volts
+* pressure sensor = strain gauge, range = 508.0
+* SBE 38 = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
+* echo commands = yes
+* output format = raw HEX
+
+* S>
+* 
+* SeacatPlus V 1.6  SERIAL NO. 4141    20 Nov 2019  10:58:21
+* temperature:  10-aug-18
+*     TA0 = 1.253305e-03
+*     TA1 = 2.670874e-04
+*     TA2 = -1.359567e-06
+*     TA3 = 2.072011e-07
+*     TOFFSET = 0.000000e+00
+* conductivity:  10-aug-18
+*     G = -1.002660e+00
+*     H = 1.404203e-01
+*     I = -3.312627e-04
+*     J = 4.504648e-05
+*     CF0 = 2.677689e+03
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     CSLOPE = 1.000000e+00
+* pressure S/N = 194, range = 508 psia:  09-aug-18
+*     PA0 = 5.434087e-02
+*     PA1 = 1.546535e-03
+*     PA2 = 6.096674e-12
+*     PTCA0 = 5.241250e+05
+*     PTCA1 = 1.857802e+00
+*     PTCA2 = -1.963816e-02
+*     PTCB0 = 2.509750e+01
+*     PTCB1 = -9.000000e-04
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = -5.861378e+01
+*     PTEMPA1 = 5.388717e+01
+*     PTEMPA2 = -3.373971e-01
+*     POFFSET = 0.000000e+00
+* volt 0: offset = -4.762667e-02, slope = 1.251779e+00
+* volt 1: offset = -4.762667e-02, slope = 1.250671e+00
+* volt 2: offset = -4.803000e-02, slope = 1.250671e+00
+* volt 3: offset = 0.000000e+00, slope = 1.000000e+00
+*     EXTFREQSF = 9.999936e-01
+* dh
+* cast  24 15 Nov 2019 11:50:22 samples 26614 to 26626, avg = 1, stop = mag switch
+
+* S> 
+*END*
+0908EE0A757A0823263C56AD51088890A44B73
+0908EB0A75770823253C56B02A088B90A54C15
+0908ED0A75780823253C58B001089A90A14BFA
+0908ED0A75770823263C59AEF7089D90A24B93
+0908EC0A75780823263C5AAE58089190A04B2C
+0908E30A75770823253C59AE5E088F90AA4BAB
+0908DF0A75780823253C5AAEA1089590A14BFE
+0908D50A75770823263C5BAEDD089490A24CB6
+0908CD0A75750823273C5BAECC089F90AE4C02
+0908C40A75740823273C5BAECF089F90A54C42
+0908BA0A75750823263C5BAED3089E90A44B98
+0908AD0A75770823273C5BAEDD089590AA4B0E
+0908930A75750823273C5DAEF308A790AA4CE9

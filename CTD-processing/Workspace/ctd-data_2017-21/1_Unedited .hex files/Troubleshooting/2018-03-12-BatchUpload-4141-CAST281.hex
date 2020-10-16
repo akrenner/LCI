@@ -1,0 +1,88 @@
+* Sea-Bird SBE19plus Data File:
+* FileName = P:\My Documents\kasitsna\Research-KBL\Oceanography-AK\CTD-Data-ALL-to-2017-02\2018-03-TEST-CTD4141\2018-03-12-BatchUpload-4141-CAST281.hex
+* Software Version 1.59
+* Temperature SN =  4141
+* Conductivity SN =  4141
+* System UpLoad Time = Mar 12 2018 18:27:20
+** Cook Inlet LTM - Batch upload of CTD4141
+** Date: 
+** Station: (eg. 9-01): to add
+** Start time (AKDT): to add
+** Depth (ft): to add
+** Comment: Batch upload to find missing Feb 2018 survey files
+** Comment: 
+* ds
+* SeacatPlus V 1.6  SERIAL NO. 4141    12 Mar 2018  15:21:14
+* vbatt = 13.3, vlith =  8.3, ioper =  62.2 ma, ipump = 223.6 ma, 
+* iext01 =  67.2 ma
+* iext23 =   4.9 ma
+* 
+* status = not logging
+* number of scans to average = 1
+* samples = 262144, free = 179361, casts = 294
+* number of correctable FLASH read errors = 1
+* mode = profile, minimum cond freq = 3178, pump delay = 60 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.3 volts
+* pressure sensor = strain gauge, range = 508.0
+* SBE 38 = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
+* echo commands = yes
+* output format = raw HEX
+
+* S>
+* 
+* SeacatPlus V 1.6  SERIAL NO. 4141    12 Mar 2018  15:22:20
+* temperature:  09-jun-16
+*     TA0 = 1.247821e-03
+*     TA1 = 2.689404e-04
+*     TA2 = -1.566827e-06
+*     TA3 = 2.149502e-07
+*     TOFFSET = 0.000000e+00
+* conductivity:  09-jun-16
+*     G = -1.001810e+00
+*     H = 1.401951e-01
+*     I = -2.841947e-04
+*     J = 4.231439e-05
+*     CF0 = 2.677689e+03
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     CSLOPE = 1.000000e+00
+* pressure S/N = 194, range = 508 psia:  26-may-16
+*     PA0 = 9.988248e-02
+*     PA1 = 1.546319e-03
+*     PA2 = 5.942947e-12
+*     PTCA0 = 5.241609e+05
+*     PTCA1 = 3.204467e-01
+*     PTCA2 = 1.037371e-01
+*     PTCB0 = 2.509750e+01
+*     PTCB1 = -9.000000e-04
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = -5.839310e+01
+*     PTEMPA1 = 5.348542e+01
+*     PTEMPA2 = -1.788664e-01
+*     POFFSET = 0.000000e+00
+* volt 0: offset = -4.762667e-02, slope = 1.251779e+00
+* volt 1: offset = -4.762667e-02, slope = 1.250671e+00
+* volt 2: offset = -4.803000e-02, slope = 1.250671e+00
+* volt 3: offset = 0.000000e+00, slope = 1.000000e+00
+*     EXTFREQSF = 9.999936e-01
+* dh
+* cast 281 14 Aug 2017 10:39:01 samples 299901 to 299914, avg = 1, stop = mag switch
+
+* S> 
+*END*
+08245CA448A803DB41544EA0FE392847C0AE03
+75D40524610A48C20822A5038A53DDA08A3C26
+FB47C008E97E14D80626D2C7080D3B50A83F06
+601A5708E9BC14D7F827A4C408703C64A53906
+62535708E9B714D7F32877C608D53C7BA33C06
+636A5708E9B514D807294FC608123CD1A33E06
+63455708E9B314D8022A24C408F23B50A23E06
+64805708E9B014D8022AEFC408B83CC1A23E06
+66335708E9AF14D7FD2BCCC5080D3B7BA35406
+67F65708E9B414D8012CB9C508D53C62A24006
+69615708E9B514D8072DBBC7089E3CA8A24206
+6A8D5708E9B514D81A2EB8C608503C5BA24C06
+6BE95708E9B914D8682F9AC7088B3C8DA24606
+6D375708E9B214D8723073C508EB3C4EA24206

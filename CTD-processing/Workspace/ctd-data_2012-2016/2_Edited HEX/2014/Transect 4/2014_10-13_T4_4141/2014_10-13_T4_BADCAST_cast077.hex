@@ -1,0 +1,72 @@
+* Sea-Bird SBE19plus Data File:
+* FileName = C:\Users\kris.holderied\Documents\kasitsna\Research-Projects-and-Data\Oceanography-AK\CTD-Data-ALL-to-2014-10\2014-CTD-KachemakBay-CookInlet\2014-10-EVOSTC-CookInlet\2014-10-13-CookInlet-Tran4-Barabara\2014-10-13-CookInlet-Tran4-cast077.hex
+* Software Version 1.59
+* Temperature SN =  4141
+* Conductivity SN =  4141
+* System UpLoad Time = Oct 13 2014 12:10:40
+** Cook Inlet LTM Tran4 (Barabara)  south to north
+** Date: 10-13
+** Station: N/A
+** Start time: N/A
+** Depth: N/A
+** Comment: BAD CAST
+** Comment:  CTD time is Alaska Daylight time.  R/V Pandalus. Transducer  depth.
+* ds
+* SeacatPlus V 1.6  SERIAL NO. 4141    13 Oct 2014  12:05:37
+* vbatt = 13.3, vlith =  7.9, ioper =  62.1 ma, ipump =  62.7 ma, 
+* iext01 =  65.0 ma
+* iext23 =   4.3 ma
+* 
+* status = not logging
+* number of scans to average = 1
+* samples = 82393, free = 359112, casts = 82
+* number of correctable FLASH read errors = 2
+* mode = profile, minimum cond freq = 3178, pump delay = 60 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.3 volts
+* pressure sensor = strain gauge, range = 508.0
+* SBE 38 = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
+* echo commands = yes
+* output format = raw HEX
+* S>
+* 
+* SeacatPlus V 1.6  SERIAL NO. 4141    13 Oct 2014  12:06:08
+* temperature:  10-apr-12
+*     TA0 = 1.250409e-03
+*     TA1 = 2.681181e-04
+*     TA2 = -1.482029e-06
+*     TA3 = 2.120941e-07
+*     TOFFSET = 0.000000e+00
+* conductivity:  10-apr-12
+*     G = -1.002643e+00
+*     H = 1.404338e-01
+*     I = -3.400636e-04
+*     J = 4.595535e-05
+*     CF0 = 2.677689e+03
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     CSLOPE = 1.000000e+00
+* pressure S/N = 194, range = 508 psia:  09-apr-12
+*     PA0 = 4.756208e-02
+*     PA1 = 1.545815e-03
+*     PA2 = 5.977538e-12
+*     PTCA0 = 5.241993e+05
+*     PTCA1 = 2.047562e+00
+*     PTCA2 = -3.571836e-02
+*     PTCB0 = 2.509750e+01
+*     PTCB1 = -9.000000e-04
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = -5.855989e+01
+*     PTEMPA1 = 5.388650e+01
+*     PTEMPA2 = -3.373971e-01
+*     POFFSET = 0.000000e+00
+* volt 0: offset = -4.762667e-02, slope = 1.251779e+00
+* volt 1: offset = -4.762667e-02, slope = 1.250671e+00
+* volt 2: offset = -4.803000e-02, slope = 1.250671e+00
+* volt 3: offset = 0.000000e+00, slope = 1.000000e+00
+*     EXTFREQSF = 9.999936e-01* dh
+* cast  77 13 Oct 2014 10:24:16 samples 78853 to 78853, avg = 1, stop = mag switch
+* S> 
+*END*
+0785350B9E630824014107C7E504BD89EB5CE4

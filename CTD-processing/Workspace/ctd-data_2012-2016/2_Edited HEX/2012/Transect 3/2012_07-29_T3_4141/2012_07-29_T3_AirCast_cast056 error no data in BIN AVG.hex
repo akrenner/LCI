@@ -1,0 +1,89 @@
+* Sea-Bird SBE19plus Data File:
+* FileName = C:\Documents and Settings\kris.holderied.local\My Documents\2012-07-EVOS-CookInlet-Ocean\2012-07-29-Tran3-CookInlet-LTM-cast056.hex
+* Software Version 1.54
+* Temperature SN =  4141
+* Conductivity SN =  4141
+* System UpLoad Time = Jul 29 2012 20:41:28
+** Cook Inlet LTM Transect 3 from Anchor Pt west
+** Date:  2012-07-29
+** Station:  Air cast
+** Start time (AKDT-24 hr): 1920  CTD time 1 hr later than AKDT.
+** Depth (m): n/a
+** Air cast. 
+* ds
+* SeacatPlus V 1.6  SERIAL NO. 4141    29 Jul 2012  21:08:38
+* vbatt = 12.4, vlith =  8.2, ioper =  62.2 ma, ipump = 100.6 ma, 
+* iext01 =  72.7 ma
+* iext23 =   5.4 ma
+* 
+* status = not logging
+* number of scans to average = 1
+* samples = 69959, free = 371546, casts = 58
+* mode = profile, minimum cond freq = 3178, pump delay = 60 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.3 volts
+* pressure sensor = strain gauge, range = 508.0
+* SBE 38 = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
+* echo commands = yes
+* output format = raw HEX
+
+* S>
+* 
+* SeacatPlus V 1.6  SERIAL NO. 4141    29 Jul 2012  21:08:54
+* temperature:  10-apr-12
+*     TA0 = 1.250409e-03
+*     TA1 = 2.681181e-04
+*     TA2 = -1.482029e-06
+*     TA3 = 2.120941e-07
+*     TOFFSET = 0.000000e+00
+* conductivity:  10-apr-12
+*     G = -1.002643e+00
+*     H = 1.404338e-01
+*     I = -3.400636e-04
+*     J = 4.595535e-05
+*     CF0 = 2.677689e+03
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     CSLOPE = 1.000000e+00
+* pressure S/N = 194, range = 508 psia:  09-apr-12
+*     PA0 = 4.756208e-02
+*     PA1 = 1.545815e-03
+*     PA2 = 5.977538e-12
+*     PTCA0 = 5.241993e+05
+*     PTCA1 = 2.047562e+00
+*     PTCA2 = -3.571836e-02
+*     PTCB0 = 2.509750e+01
+*     PTCB1 = -9.000000e-04
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = -5.855989e+01
+*     PTEMPA1 = 5.388650e+01
+*     PTEMPA2 = -3.373971e-01
+*     POFFSET = 0.000000e+00
+* volt 0: offset = -4.762667e-02, slope = 1.251779e+00
+* volt 1: offset = -4.762667e-02, slope = 1.250671e+00
+* volt 2: offset = -4.803000e-02, slope = 1.250671e+00
+* volt 3: offset = 0.000000e+00, slope = 1.000000e+00
+*     EXTFREQSF = 9.999936e-01
+* dh
+* cast  56 29 Jul 2012 20:20:48 samples 68857 to 68873, avg = 1, stop = mag switch
+
+* S> 
+*END*
+865708248642567D53040E988A5685
+072FAD0A8661082487425680A70401988D5656
+072FA80A866B08248542578128041898925662
+072FA60A8673082484425680050412988D5632
+072FA40A867808248842577F29040D988C565D
+072FA40A867C08248642597F2F04149891564E
+072F9F0A8683082487425A7FC7044798985629
+072FA00A86870824854259803B0422989E565C
+072F9D0A8690082485425B805E0422989B561A
+072F9C0A8693082486425A80590424989B55F2
+072F9B0A869B082484425C805704209899564F
+072F970A86A2082487425C806C041998A25604
+072F970A86A2082485425B809A042098975629
+072F970A86A8082486425C80C4040C989955DF
+072F940A86B0082485425D80D7041798A05613
+072F940A86B4082486425B8108040F989D5664
+072F900A86B7082486425F812C041E989A5626

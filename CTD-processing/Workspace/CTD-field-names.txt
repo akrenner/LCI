@@ -1,0 +1,14 @@
+time h
+time min
+time s
+pressure, strain gauge [db]
+specific conductance [uS/cm]
+Salinity, Practical [PSU]
+Temperature [ITS-90, degC]
+Depth [salt water, m]
+Oxygen Saturation, Garcia & Gordon [ml/l]
+Potential Temperature [ITS-90, deg C]
+Density [sigma-theta, kg/m^3]
+Nitrogen Saturation [ml/l]
+PAR/Irradiance, Biospherical/Licor
+Turbidity  /   Fluorescence

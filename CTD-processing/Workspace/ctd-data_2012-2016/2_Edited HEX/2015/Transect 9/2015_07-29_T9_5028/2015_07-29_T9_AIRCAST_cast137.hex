@@ -1,0 +1,94 @@
+* Sea-Bird SBE19plus Data File:
+* FileName = C:\Users\Kris.Holderied\Documents\kasitsna\Research-KBL\Oceanography-AK\CTD-Data-ALL-to-2015-06\2015-CTD-KachemakBay-CookInlet\2015-07-29-CookInlet-HomerSpit-Monthly\2015-07-29-CookInlet-Tran9-cast137.hex
+* Software Version 1.59
+* Temperature SN =  5028
+* Conductivity SN =  5028
+* System UpLoad Time = Aug 13 2015 18:38:28
+** Cook Inlet LTM Transect 9 (monthly) North to South
+** Date (YYYY-MM-DD): 2015-07-29
+** Station (ie. 9-01):  9-10
+** Start time (AKDT): 13:30
+** Depth (m): 64
+** Comment:  R/V Barnacle
+** Comment: 
+* ds
+* SeacatPlus V 1.6a  SERIAL NO. 5028    13 Aug 2015  18:36:44
+* vbatt = 12.3, vlith =  8.3, ioper =  63.3 ma, ipump =  56.1 ma, 
+* iext01 =  38.6 ma
+* iext23 =   5.1 ma
+* 
+* status = not logging
+* number of scans to average = 1
+* samples = 157907, free = 283598, casts = 149
+* mode = profile, minimum cond freq = 3041, pump delay = 60 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.3 volts
+* pressure sensor = strain gauge, range = 508.0
+* SBE 38 = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
+* echo commands = yes
+* output format = raw HEX
+
+* S>
+* 
+* SeacatPlus V 1.6a  SERIAL NO. 5028    13 Aug 2015  18:37:30
+* temperature:  05-sep-14
+*     TA0 = 1.265528e-03
+*     TA1 = 2.662258e-04
+*     TA2 = -2.095697e-07
+*     TA3 = 1.611500e-07
+*     TOFFSET = 0.000000e+00
+* conductivity:  05-sep-14
+*     G = -9.980582e-01
+*     H = 1.555381e-01
+*     I = -5.457609e-04
+*     J = 6.753086e-05
+*     CF0 = 2.540930e+03
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     CSLOPE = 1.000000e+00
+* pressure S/N = 10145, range = 508 psia:  03-sep-14
+*     PA0 = 3.788290e-02
+*     PA1 = 1.547661e-03
+*     PA2 = 1.228683e-11
+*     PTCA0 = 5.238490e+05
+*     PTCA1 = 3.332868e+00
+*     PTCA2 = -9.533136e-02
+*     PTCB0 = 2.493175e+01
+*     PTCB1 = 5.500000e-04
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = -6.761473e+01
+*     PTEMPA1 = 5.094529e+01
+*     PTEMPA2 = -2.572689e-01
+*     POFFSET = 0.000000e+00
+* volt 0: offset = -4.654947e-02, slope = 1.249004e+00
+* volt 1: offset = -4.700947e-02, slope = 1.248613e+00
+* volt 2: offset = -4.668421e-02, slope = 1.248633e+00
+* volt 3: offset = 0.000000e+00, slope = 1.000000e+00
+*     EXTFREQSF = 9.999914e-01
+* dh
+* cast 137 29 Jul 2015 13:20:24 samples 139302 to 139322, avg = 1, stop = mag switch
+
+* S> 
+*END*
+04F9AC09ECE5082363550B02A9058183F826FA
+04F9CD09ECE5082366550B02A5058183FF272E
+04F9F509ECE2082365550D02A5058383F8272E
+04FA1609ECE2082364550E036805B283F626FF
+04FA3E09ECE5082362550C036605AD83F5275C
+04FA6309ECE2082364550C036805B483FB2A7D
+04FA6209ECE5082365550D036805B183F633C7
+04FA5609ECE5082365550D0268041483FA3814
+04FA4709ECE5082366550F0269041683F7392D
+04FA3C09ECE5082364550E0265041583F8394F
+04FA2E09ECE2082366550E0268041983F539C0
+04FA1909ECE5082367550F03B801D883FB3A6D
+04FA0409ECE2082366550F03B801D583F73BAC
+04F9E909ECE5082364550F03B801D983F83B06
+04F9C809ECE5082366550F03B901D683F83A73
+04F9B109ECE2082364550F03B801D783F83A5E
+04F99709ECE5082366551003B701D283F73A68
+04F97D09ECE5082365551103B801D583F93AA5
+04F96F09ECE5082365551103B501D583F73B05
+04F96409ECE5082365551103B701D283FA3B21
+04F94A09ECE2082365551203B401D583FC3B13

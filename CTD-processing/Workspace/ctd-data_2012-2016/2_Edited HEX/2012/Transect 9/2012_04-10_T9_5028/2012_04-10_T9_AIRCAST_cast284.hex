@@ -1,0 +1,95 @@
+* Sea-Bird SBE19plus Data File:
+* FileName = C:\Documents and Settings\glenn.seaman\My Documents\KHolderied-files\CTD-DATA-FILES\2011-KBay-CTD\2012-04-10-HomerSpit-CTD\2012-04-10-HomerSpit-cast284.hex
+* Software Version 1.59
+* Temperature SN =  5028
+* Conductivity SN =  5028
+* System UpLoad Time = Apr 29 2012 20:43:52
+** Cruise: Homer Spit Transect
+** Date: 2012-04-10
+** Station: AIR CAST
+** Start time (AKDT): 1757
+** Depth (feet): N/A
+* ds
+* SeacatPlus V 1.6a  SERIAL NO. 5028    30 Apr 2012  04:49:20
+* vbatt = 12.7, vlith =  8.2, ioper =  63.4 ma, ipump =  52.7 ma, 
+* iext01 =  43.9 ma
+* iext23 =   5.1 ma
+* 
+* status = not logging
+* number of scans to average = 1
+* samples = 310875, free = 130630, casts = 299
+* mode = profile, minimum cond freq = 3041, pump delay = 60 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.3 volts
+* pressure sensor = strain gauge, range = 508.0
+* SBE 38 = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
+* echo commands = yes
+* output format = raw HEX
+
+* S>
+* 
+* SeacatPlus V 1.6a  SERIAL NO. 5028    30 Apr 2012  04:50:10
+* temperature:  11-jun-09
+*     TA0 = 1.267569e-03
+*     TA1 = 2.655729e-04
+*     TA2 = -1.412290e-07
+*     TA3 = 1.587861e-07
+*     TOFFSET = 0.000000e+00
+* conductivity:  11-jun-09
+*     G = -9.975830e-01
+*     H = 1.554037e-01
+*     I = -5.068124e-04
+*     J = 6.392953e-05
+*     CF0 = 2.540930e+03
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     CSLOPE = 1.000000e+00
+* pressure S/N = 10145, range = 508 psia:  11-jun-09
+*     PA0 = 3.670560e-02
+*     PA1 = 1.546094e-03
+*     PA2 = 1.380210e-11
+*     PTCA0 = 5.238977e+05
+*     PTCA1 = 3.863396e+00
+*     PTCA2 = -1.251602e-01
+*     PTCB0 = 2.493175e+01
+*     PTCB1 = 5.500000e-04
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = -6.658720e+01
+*     PTEMPA1 = 4.995316e+01
+*     PTEMPA2 = 2.781122e-02
+*     POFFSET = 0.000000e+00
+* volt 0: offset = -4.654947e-02, slope = 1.249004e+00
+* volt 1: offset = -4.700947e-02, slope = 1.248613e+00
+* volt 2: offset = -4.668421e-02, slope = 1.248633e+00
+* volt 3: offset = 0.000000e+00, slope = 1.000000e+00
+*     EXTFREQSF = 9.999914e-01
+* dh
+* cast 284 11 Apr 2012 01:59:21 samples 283239 to 283262, avg = 1, stop = mag switch
+
+* S> 
+*END*
+06C5F209ECD308234D4D520418057174B54713
+06C65609ECD208234E4D52041D057274B4465F
+06C6BB09ECD208234F4D54048005C574AA4636
+06C71A09ECD208234D4D55048705C474A3470B
+06C79B09ECD308234E4D54048105BF74A44830
+06C7F509ECD008234C4D56048505C1749A488F
+06C80409ECD208234D4D55047106B6748E4880
+06C7F409ECD208234F4D55047206B7748A4927
+06C7DF09ECD008234E4D54046A06B4747D4950
+06C7D009ECD008234D4D56047206B7747449A3
+06C7C309ECD008234D4D57045306F5746E49A4
+06C7BD09ECD008234C4D58045C06F5746449E6
+06C7B409ECD008234E4D54045506F47468492E
+06C7A309ECD008234D4D57042906C8745A4917
+06C79509ECD508234E4D58042706C7745E48C9
+06C78B09ECD008234C4D58042B06C87457495D
+06C78709ECD208234C4D56042806CA745348E8
+06C77F09ECD008234C4D59046006D4745248C5
+06C77609ECD208234D4D59046106D4745B485E
+06C77309ECD208234C4D58046506D9745848EA
+06C77E09ECD008234C4D59046006D774594986
+06C78609ECD208234B4D5B045506DB74564A30
+06C79B09ECD208234D4D59045606D174594A35
+06C7B809ECD208234D4D59045606D6745B4ACA
