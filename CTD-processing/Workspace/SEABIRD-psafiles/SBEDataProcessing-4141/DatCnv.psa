@@ -2,342 +2,19 @@
 <Data_Conversion >
   <Version value="7.26.7.129" />
   <ServerName value="Data Conversion" />
-  <InstrumentPath value="C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-startover\allCTD\hex2process\SBE19plus_4141_Apr-2012\SBE19plus_4141_Apr-2012.xmlcon" />
+  <InstrumentPath value="C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\allCTD\hex2test\SBE19plus_4141_Oct-2018\SBE19plus_4141_Oct-2018.xmlcon" />
   <InstrumentMatch value="0" />
-  <InputDir value="C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-startover\allCTD\hex2process\SBE19plus_4141_Apr-2012" />
-  <InputFileArray size="330" GrowBy="-1" >
-    <ArrayItem index="0" value="2012-07-30-cookinlet-tran6-cast071-s01_4141.hex" />
-    <ArrayItem index="1" value="2012-07-30-cookinlet-tran6-cast072-s02_4141.hex" />
-    <ArrayItem index="2" value="2012-07-30-cookinlet-tran6-cast073-s03_4141.hex" />
-    <ArrayItem index="3" value="2012-07-30-cookinlet-tran6-cast074-s04_4141.hex" />
-    <ArrayItem index="4" value="2012-07-30-cookinlet-tran6-cast075-s05_4141.hex" />
-    <ArrayItem index="5" value="2012-07-30-cookinlet-tran6-cast076-s06_4141.hex" />
-    <ArrayItem index="6" value="2012-07-30-cookinlet-tran6-cast077-s07_4141.hex" />
-    <ArrayItem index="7" value="2012-07-30-cookinlet-tran6-cast078-s08_4141.hex" />
-    <ArrayItem index="8" value="2012-07-30-cookinlet-tran6-cast079-s09_4141.hex" />
-    <ArrayItem index="9" value="2012-07-30-cookinlet-tran6-cast080-s10_4141.hex" />
-    <ArrayItem index="10" value="2012-07-30-cookinlet-tran6-cast081-s11_4141.hex" />
-    <ArrayItem index="11" value="2012-07-30-cookinlet-tran6-cast082-s12_4141.hex" />
-    <ArrayItem index="12" value="2012-07-30-cookinlet-tran6-cast083-s13_4141.hex" />
-    <ArrayItem index="13" value="2012-07-30-cookinlet-tran6-cast084-s14_4141.hex" />
-    <ArrayItem index="14" value="2012-07-30-cookinlet-tran6-cast085-s15_4141.hex" />
-    <ArrayItem index="15" value="2012-07-30-cookinlet-tran6-cast086-s16_4141.hex" />
-    <ArrayItem index="16" value="2012-07-30-cookinlet-tran6-cast087-s17_4141.hex" />
-    <ArrayItem index="17" value="2012-07-30-cookinlet-tran6-cast088-s18_4141.hex" />
-    <ArrayItem index="18" value="2012-07-30-cookinlet-tran6-cast089-s19_4141.hex" />
-    <ArrayItem index="19" value="2012-07-30-cookinlet-tran6-cast090-s20_4141.hex" />
-    <ArrayItem index="20" value="2012-07-30-cookinlet-tran6-cast092-s22_4141.hex" />
-    <ArrayItem index="21" value="2012-07-30-cookinlet-tran6-cast093-s23_4141.hex" />
-    <ArrayItem index="22" value="2012-07-30-cookinlet-tran6-cast094-s24_4141.hex" />
-    <ArrayItem index="23" value="2012-07-30-cookinlet-tran6-cast095-s25_4141.hex" />
-    <ArrayItem index="24" value="2012-07-31-cookinlet-tran4-cast099-s01_4141.hex" />
-    <ArrayItem index="25" value="2012-07-31-cookinlet-tran4-cast100-s02_4141.hex" />
-    <ArrayItem index="26" value="2012-07-31-cookinlet-tran4-cast101-s03_4141.hex" />
-    <ArrayItem index="27" value="2012-07-31-cookinlet-tran4-cast102-s04_4141.hex" />
-    <ArrayItem index="28" value="2012-07-31-cookinlet-tran4-cast103-s05_4141.hex" />
-    <ArrayItem index="29" value="2012-07-31-cookinlet-tran4-cast104-s06_4141.hex" />
-    <ArrayItem index="30" value="2012-07-31-cookinlet-tran4-cast105-s07_4141.hex" />
-    <ArrayItem index="31" value="2012-07-31-cookinlet-tran4-cast106-s08_4141.hex" />
-    <ArrayItem index="32" value="2012-07-31-cookinlet-tran4-cast107-s09_4141.hex" />
-    <ArrayItem index="33" value="2012-07-31-cookinlet-tran4-cast108-s10_4141.hex" />
-    <ArrayItem index="34" value="2012-07-31-cookinlet-tran6-cast096-s26_4141.hex" />
-    <ArrayItem index="35" value="2012-07-31-cookinlet-tran6-cast097-s27_4141.hex" />
-    <ArrayItem index="36" value="2012-07-31-cookinlet-tran6-cast098-s28_4141.hex" />
-    <ArrayItem index="37" value="2012-08-15-cookinlet-tran4-cast123-s01_4141.hex" />
-    <ArrayItem index="38" value="2012-08-15-cookinlet-tran4-cast124-s02_4141.hex" />
-    <ArrayItem index="39" value="2012-08-15-cookinlet-tran4-cast125-s03_4141.hex" />
-    <ArrayItem index="40" value="2012-08-15-cookinlet-tran4-cast126-s04_4141.hex" />
-    <ArrayItem index="41" value="2012-08-15-cookinlet-tran4-cast127-s05_4141.hex" />
-    <ArrayItem index="42" value="2012-08-15-cookinlet-tran4-cast128-s06_4141.hex" />
-    <ArrayItem index="43" value="2012-08-15-cookinlet-tran4-cast129-s07_4141.hex" />
-    <ArrayItem index="44" value="2012-08-15-cookinlet-tran4-cast130-s08_4141.hex" />
-    <ArrayItem index="45" value="2012-08-15-cookinlet-tran4-cast131-s09_4141.hex" />
-    <ArrayItem index="46" value="2012-08-15-cookinlet-tran4-cast132-s10_4141.hex" />
-    <ArrayItem index="47" value="2012-10-28_t6-s01_4141.hex" />
-    <ArrayItem index="48" value="2012-10-28_t6-s02_4141.hex" />
-    <ArrayItem index="49" value="2012-10-28_t6-s03_4141.hex" />
-    <ArrayItem index="50" value="2012-10-28_t6-s04_4141.hex" />
-    <ArrayItem index="51" value="2012-10-28_t6-s05_4141.hex" />
-    <ArrayItem index="52" value="2012-10-28_t6-s06_4141.hex" />
-    <ArrayItem index="53" value="2012-10-28_t6-s07_4141.hex" />
-    <ArrayItem index="54" value="2012-10-28_t6-s08_4141.hex" />
-    <ArrayItem index="55" value="2012-10-28_t6-s09_4141.hex" />
-    <ArrayItem index="56" value="2012-10-28_t6-s10_4141.hex" />
-    <ArrayItem index="57" value="2012-10-28_t6-s11_4141.hex" />
-    <ArrayItem index="58" value="2012-10-28_t6-s12_4141.hex" />
-    <ArrayItem index="59" value="2012-10-28_t6-s13_4141.hex" />
-    <ArrayItem index="60" value="2012-10-28_t6-s14_4141.hex" />
-    <ArrayItem index="61" value="2012-10-28_t6-s15_4141.hex" />
-    <ArrayItem index="62" value="2012-10-28_t6-s16_4141.hex" />
-    <ArrayItem index="63" value="2012-10-28_t6-s17_4141.hex" />
-    <ArrayItem index="64" value="2012-10-28_t6-s18_4141.hex" />
-    <ArrayItem index="65" value="2012-10-28_t6-s19_4141.hex" />
-    <ArrayItem index="66" value="2012-10-28_t6-s20_4141.hex" />
-    <ArrayItem index="67" value="2012-10-28_t6-s21_4141.hex" />
-    <ArrayItem index="68" value="2012-10-28_t6-s22_4141.hex" />
-    <ArrayItem index="69" value="2012-10-28_t6-s23_4141.hex" />
-    <ArrayItem index="70" value="2012-10-28_t6-s24_4141.hex" />
-    <ArrayItem index="71" value="2012-10-28_t6-s25_4141.hex" />
-    <ArrayItem index="72" value="2012-10-28_t6-s26_4141.hex" />
-    <ArrayItem index="73" value="2012-10-28_t6-s27_4141.hex" />
-    <ArrayItem index="74" value="2012-10-28_t6-s28_4141.hex" />
-    <ArrayItem index="75" value="2012-10-28_t7-cast029-s23_4141.hex" />
-    <ArrayItem index="76" value="2012-10-28_t7-cast030-s22_4141.hex" />
-    <ArrayItem index="77" value="2012-10-28_t7-cast031-s21_4141.hex" />
-    <ArrayItem index="78" value="2012-10-28_t7-cast032-s20_4141.hex" />
-    <ArrayItem index="79" value="2012-10-28_t7-cast033-s19_4141.hex" />
-    <ArrayItem index="80" value="2012-10-28_t7-cast034-s17_4141.hex" />
-    <ArrayItem index="81" value="2012-10-28_t7-cast035-s15_4141.hex" />
-    <ArrayItem index="82" value="2012-10-28_t7-cast036-s13_4141.hex" />
-    <ArrayItem index="83" value="2012-10-28_t7-cast037-s11_4141.hex" />
-    <ArrayItem index="84" value="2012-10-28_t7-cast038-s10_4141.hex" />
-    <ArrayItem index="85" value="2012-10-28_t7-cast039-s09_4141.hex" />
-    <ArrayItem index="86" value="2012-10-28_t7-cast040-s07_4141.hex" />
-    <ArrayItem index="87" value="2012-10-28_t7-cast041-s05_4141.hex" />
-    <ArrayItem index="88" value="2012-10-28_t7-cast042-s04_4141.hex" />
-    <ArrayItem index="89" value="2012-10-28_t7-cast043-s03_4141.hex" />
-    <ArrayItem index="90" value="2012-10-28_t7-cast044-s02_4141.hex" />
-    <ArrayItem index="91" value="2012-10-28_t7-cast045-s01_4141.hex" />
-    <ArrayItem index="92" value="2012-10-29-cookinlet-tran3-cast046-s01_4141.hex" />
-    <ArrayItem index="93" value="2012-10-29-cookinlet-tran3-cast047-s02_4141.hex" />
-    <ArrayItem index="94" value="2012-10-29-cookinlet-tran3-cast048-s03_4141.hex" />
-    <ArrayItem index="95" value="2012-10-29-cookinlet-tran3-cast049-s04_4141.hex" />
-    <ArrayItem index="96" value="2012-10-29-cookinlet-tran3-cast050-s05_4141.hex" />
-    <ArrayItem index="97" value="2012-10-29-cookinlet-tran3-cast051-s06_4141.hex" />
-    <ArrayItem index="98" value="2012-10-29-cookinlet-tran3-cast052-s07_4141.hex" />
-    <ArrayItem index="99" value="2012-10-29-cookinlet-tran3-cast053-s08_4141.hex" />
-    <ArrayItem index="100" value="2012-10-29-cookinlet-tran3-cast054-s09_4141.hex" />
-    <ArrayItem index="101" value="2012-10-29-cookinlet-tran3-cast055-s10_4141.hex" />
-    <ArrayItem index="102" value="2012-10-29-cookinlet-tran3-cast056-s11_4141.hex" />
-    <ArrayItem index="103" value="2012-10-29-cookinlet-tran3-cast057-s12_4141.hex" />
-    <ArrayItem index="104" value="2012-10-29-cookinlet-tran3-cast058-s13_4141.hex" />
-    <ArrayItem index="105" value="2012-10-29-cookinlet-tran3-cast059-s14_4141.hex" />
-    <ArrayItem index="106" value="2012-10-29-cookinlet-tran3-cast060-s15_4141.hex" />
-    <ArrayItem index="107" value="2012-10-29-cookinlet-tran3-cast061-s16_4141.hex" />
-    <ArrayItem index="108" value="2012-10-29-cookinlet-tran4-cast062-s10_4141.hex" />
-    <ArrayItem index="109" value="2012-10-29-cookinlet-tran4-cast063-s09_4141.hex" />
-    <ArrayItem index="110" value="2012-10-29-cookinlet-tran4-cast064-s08_4141.hex" />
-    <ArrayItem index="111" value="2012-10-29-cookinlet-tran4-cast066-s07_4141.hex" />
-    <ArrayItem index="112" value="2012-10-29-cookinlet-tran4-cast067-s06_4141.hex" />
-    <ArrayItem index="113" value="2012-10-29-cookinlet-tran4-cast068-s05_4141.hex" />
-    <ArrayItem index="114" value="2012-10-29-cookinlet-tran4-cast069-s04_4141.hex" />
-    <ArrayItem index="115" value="2012-10-29-cookinlet-tran4-cast070-s03_4141.hex" />
-    <ArrayItem index="116" value="2012-10-29-cookinlet-tran4-cast071-s02_4141.hex" />
-    <ArrayItem index="117" value="2012-10-29-cookinlet-tran4-cast072-s01_4141.hex" />
-    <ArrayItem index="118" value="2012-10-29-cookinlet-tran9-cast073-s01_4141.hex" />
-    <ArrayItem index="119" value="2012-10-29-cookinlet-tran9-cast074-s02_4141.hex" />
-    <ArrayItem index="120" value="2012-10-29-cookinlet-tran9-cast075-s03_4141.hex" />
-    <ArrayItem index="121" value="2012-10-29-cookinlet-tran9-cast076-s04_4141.hex" />
-    <ArrayItem index="122" value="2012-10-29-cookinlet-tran9-cast077-s05_4141.hex" />
-    <ArrayItem index="123" value="2012-10-29-cookinlet-tran9-cast078-s06_4141.hex" />
-    <ArrayItem index="124" value="2012-10-29-cookinlet-tran9-cast079-s07_4141.hex" />
-    <ArrayItem index="125" value="2012-10-29-cookinlet-tran9-cast080-s08_4141.hex" />
-    <ArrayItem index="126" value="2012-10-29-cookinlet-tran9-cast081-s09_4141.hex" />
-    <ArrayItem index="127" value="2012-10-29-cookinlet-tran9-cast082-s10_4141.hex" />
-    <ArrayItem index="128" value="2012-_7-29_t3_s01_cast058_4141.hex" />
-    <ArrayItem index="129" value="2012_05-31a_t9_s01a_cast002_4141.hex" />
-    <ArrayItem index="130" value="2012_05-31a_t9_s02a_cast003_4141.hex" />
-    <ArrayItem index="131" value="2012_05-31a_t9_s03a_cast004_4141.hex" />
-    <ArrayItem index="132" value="2012_05-31a_t9_s04a_cast005_4141.hex" />
-    <ArrayItem index="133" value="2012_05-31a_t9_s05a_cast006_4141.hex" />
-    <ArrayItem index="134" value="2012_05-31a_t9_s06a_cast007_4141.hex" />
-    <ArrayItem index="135" value="2012_05-31a_t9_s07a_cast008_4141.hex" />
-    <ArrayItem index="136" value="2012_05-31a_t9_s08a_cast009_4141.hex" />
-    <ArrayItem index="137" value="2012_05-31a_t9_s09a_cast010_4141.hex" />
-    <ArrayItem index="138" value="2012_05-31a_t9_s10a_cast011_4141.hex" />
-    <ArrayItem index="139" value="2012_05-31b_t9_s01b_cast021_4141.hex" />
-    <ArrayItem index="140" value="2012_05-31b_t9_s02b_cast020_4141.hex" />
-    <ArrayItem index="141" value="2012_05-31b_t9_s03b_cast019_4141.hex" />
-    <ArrayItem index="142" value="2012_05-31b_t9_s04b_cast018_4141.hex" />
-    <ArrayItem index="143" value="2012_05-31b_t9_s05b_cast017_4141.hex" />
-    <ArrayItem index="144" value="2012_05-31b_t9_s06b_cast016_4141.hex" />
-    <ArrayItem index="145" value="2012_05-31b_t9_s07b_cast015_4141.hex" />
-    <ArrayItem index="146" value="2012_05-31b_t9_s08b_cast014_4141.hex" />
-    <ArrayItem index="147" value="2012_05-31b_t9_s09b_cast013_4141.hex" />
-    <ArrayItem index="148" value="2012_05-31b_t9_s10b_cast012_4141.hex" />
-    <ArrayItem index="149" value="2012_06-05a_t9_s01a_cast032_4141.hex" />
-    <ArrayItem index="150" value="2012_06-05a_t9_s02a_cast033_4141.hex" />
-    <ArrayItem index="151" value="2012_06-05a_t9_s03a_cast034_4141.hex" />
-    <ArrayItem index="152" value="2012_06-05a_t9_s04a_cast035_4141.hex" />
-    <ArrayItem index="153" value="2012_06-05a_t9_s05a_cast036_4141.hex" />
-    <ArrayItem index="154" value="2012_06-05a_t9_s06a_cast037_4141.hex" />
-    <ArrayItem index="155" value="2012_06-05a_t9_s07a_cast038_4141.hex" />
-    <ArrayItem index="156" value="2012_06-05a_t9_s08a_cast039_4141.hex" />
-    <ArrayItem index="157" value="2012_06-05a_t9_s09a_cast040_4141.hex" />
-    <ArrayItem index="158" value="2012_06-05a_t9_s10a_cast041_4141.hex" />
-    <ArrayItem index="159" value="2012_06-05b_t9_s01b_cast022_4141.hex" />
-    <ArrayItem index="160" value="2012_06-05b_t9_s02b_cast023_4141.hex" />
-    <ArrayItem index="161" value="2012_06-05b_t9_s03b_cast024_4141.hex" />
-    <ArrayItem index="162" value="2012_06-05b_t9_s04b_cast025_4141.hex" />
-    <ArrayItem index="163" value="2012_06-05b_t9_s05b_cast026_4141.hex" />
-    <ArrayItem index="164" value="2012_06-05b_t9_s06b_cast027_4141.hex" />
-    <ArrayItem index="165" value="2012_06-05b_t9_s07b_cast028_4141.hex" />
-    <ArrayItem index="166" value="2012_06-05b_t9_s08b_cast029_4141.hex" />
-    <ArrayItem index="167" value="2012_06-05b_t9_s09b_cast030_4141.hex" />
-    <ArrayItem index="168" value="2012_06-05b_t9_s10b_cast031_4141.hex" />
-    <ArrayItem index="169" value="2012_07-29_t3_s02_cast057_4141.hex" />
-    <ArrayItem index="170" value="2012_07-29_t3_s03_cast055_4141.hex" />
-    <ArrayItem index="171" value="2012_07-29_t3_s04_cast054_4141.hex" />
-    <ArrayItem index="172" value="2012_07-29_t3_s05_cast053_4141.hex" />
-    <ArrayItem index="173" value="2012_07-29_t3_s06_cast052_4141.hex" />
-    <ArrayItem index="174" value="2012_07-29_t3_s07_cast051_4141.hex" />
-    <ArrayItem index="175" value="2012_07-29_t3_s08_cast050_4141.hex" />
-    <ArrayItem index="176" value="2012_07-29_t3_s09_cast049_4141.hex" />
-    <ArrayItem index="177" value="2012_07-29_t3_s10_cast048_4141.hex" />
-    <ArrayItem index="178" value="2012_07-29_t3_s11_cast047_4141.hex" />
-    <ArrayItem index="179" value="2012_07-29_t3_s12_cast046_4141.hex" />
-    <ArrayItem index="180" value="2012_07-29_t3_s13_cast045_4141.hex" />
-    <ArrayItem index="181" value="2012_07-29_t3_s14_cast044_4141.hex" />
-    <ArrayItem index="182" value="2012_07-29_t3_s15_cast043_4141.hex" />
-    <ArrayItem index="183" value="2012_07-29_t3_s16_cast042_4141.hex" />
-    <ArrayItem index="184" value="2012_07-30_t6_s01_cast071_4141.hex" />
-    <ArrayItem index="185" value="2012_07-30_t6_s02_cast072_4141.hex" />
-    <ArrayItem index="186" value="2012_07-30_t6_s03_cast073_4141.hex" />
-    <ArrayItem index="187" value="2012_07-30_t6_s04_cast074_4141.hex" />
-    <ArrayItem index="188" value="2012_07-30_t6_s05_cast075_4141.hex" />
-    <ArrayItem index="189" value="2012_07-30_t6_s06_cast076_4141.hex" />
-    <ArrayItem index="190" value="2012_07-30_t6_s07_cast077_4141.hex" />
-    <ArrayItem index="191" value="2012_07-30_t6_s08_cast078_4141.hex" />
-    <ArrayItem index="192" value="2012_07-30_t6_s09_cast079_4141.hex" />
-    <ArrayItem index="193" value="2012_07-30_t6_s10_cast080_4141.hex" />
-    <ArrayItem index="194" value="2012_07-30_t6_s11_cast081_4141.hex" />
-    <ArrayItem index="195" value="2012_07-30_t6_s12_cast082_4141.hex" />
-    <ArrayItem index="196" value="2012_07-30_t6_s13_cast083_4141.hex" />
-    <ArrayItem index="197" value="2012_07-30_t6_s14_cast084_4141.hex" />
-    <ArrayItem index="198" value="2012_07-30_t6_s15_cast085_4141.hex" />
-    <ArrayItem index="199" value="2012_07-30_t6_s16_cast086_4141.hex" />
-    <ArrayItem index="200" value="2012_07-30_t6_s17_cast087_4141.hex" />
-    <ArrayItem index="201" value="2012_07-30_t6_s18_cast088_4141.hex" />
-    <ArrayItem index="202" value="2012_07-30_t6_s19_cast089_4141.hex" />
-    <ArrayItem index="203" value="2012_07-30_t6_s20_cast090_4141.hex" />
-    <ArrayItem index="204" value="2012_07-30_t6_s22_cast092_4141.hex" />
-    <ArrayItem index="205" value="2012_07-30_t6_s23_cast093_4141.hex" />
-    <ArrayItem index="206" value="2012_07-30_t6_s24_cast094_4141.hex" />
-    <ArrayItem index="207" value="2012_07-30_t6_s25_cast095_4141.hex" />
-    <ArrayItem index="208" value="2012_07-30_t7_s09_cast070_4141.hex" />
-    <ArrayItem index="209" value="2012_07-30_t7_s10_cast069_4141.hex" />
-    <ArrayItem index="210" value="2012_07-30_t7_s12_cast068_4141.hex" />
-    <ArrayItem index="211" value="2012_07-30_t7_s14_cast067_4141.hex" />
-    <ArrayItem index="212" value="2012_07-30_t7_s16_cast066_4141.hex" />
-    <ArrayItem index="213" value="2012_07-30_t7_s17_cast065_4141.hex" />
-    <ArrayItem index="214" value="2012_07-30_t7_s18_cast064_4141.hex" />
-    <ArrayItem index="215" value="2012_07-30_t7_s19_cast063_4141.hex" />
-    <ArrayItem index="216" value="2012_07-30_t7_s20_cast062_4141.hex" />
-    <ArrayItem index="217" value="2012_07-30_t7_s21_cast061_4141.hex" />
-    <ArrayItem index="218" value="2012_07-30_t7_s22_cast060_4141.hex" />
-    <ArrayItem index="219" value="2012_07-30_t7_s23_cast059_4141.hex" />
-    <ArrayItem index="220" value="2012_07-31_t4_s01_cast099_4141.hex" />
-    <ArrayItem index="221" value="2012_07-31_t4_s02_cast100_4141.hex" />
-    <ArrayItem index="222" value="2012_07-31_t4_s03_cast101_4141.hex" />
-    <ArrayItem index="223" value="2012_07-31_t4_s04_cast102_4141.hex" />
-    <ArrayItem index="224" value="2012_07-31_t4_s05_cast103_4141.hex" />
-    <ArrayItem index="225" value="2012_07-31_t4_s06_cast104_4141.hex" />
-    <ArrayItem index="226" value="2012_07-31_t4_s07_cast105_4141.hex" />
-    <ArrayItem index="227" value="2012_07-31_t4_s08_cast106_4141.hex" />
-    <ArrayItem index="228" value="2012_07-31_t4_s09_cast107_4141.hex" />
-    <ArrayItem index="229" value="2012_07-31_t4_s10_cast108_4141.hex" />
-    <ArrayItem index="230" value="2012_07-31_t6_s26_cast096_4141.hex" />
-    <ArrayItem index="231" value="2012_07-31_t6_s27_cast097_4141.hex" />
-    <ArrayItem index="232" value="2012_07-31_t6_s28_cast098_4141.hex" />
-    <ArrayItem index="233" value="2012_08-15_alongbay_s01_outer_cast111_4141.hex" />
-    <ArrayItem index="234" value="2012_08-15_alongbay_s02_outer_cast112_4141.hex" />
-    <ArrayItem index="235" value="2012_08-15_alongbay_s03_outer_cast113_4141.hex" />
-    <ArrayItem index="236" value="2012_08-15_alongbay_s04_outer_cast114_4141.hex" />
-    <ArrayItem index="237" value="2012_08-15_alongbay_s05_outer_cast115_4141.hex" />
-    <ArrayItem index="238" value="2012_08-15_alongbay_s06_outer_cast116_4141.hex" />
-    <ArrayItem index="239" value="2012_08-15_subbays_sadiea_outer_cast119_4141.hex" />
-    <ArrayItem index="240" value="2012_08-15_subbays_sadieb_outer_cast118_4141.hex" />
-    <ArrayItem index="241" value="2012_08-15_subbays_sadiec_outer_cast117_4141.hex" />
-    <ArrayItem index="242" value="2012_08-15_subbays_seldoviaa_outer_cast110_4141.hex" />
-    <ArrayItem index="243" value="2012_08-15_subbays_seldoviab_outer_cast109_4141.hex" />
-    <ArrayItem index="244" value="2012_08-15_subbays_tutkaa_outer_cast120_4141.hex" />
-    <ArrayItem index="245" value="2012_08-15_subbays_tutkab_outer_cast121_4141.hex" />
-    <ArrayItem index="246" value="2012_08-15_subbays_tutkac_outer_cast122_4141.hex" />
-    <ArrayItem index="247" value="2012_08-15_t4_s01_cast123_4141.hex" />
-    <ArrayItem index="248" value="2012_08-15_t4_s02_cast124_4141.hex" />
-    <ArrayItem index="249" value="2012_08-15_t4_s03_cast125_4141.hex" />
-    <ArrayItem index="250" value="2012_08-15_t4_s04_cast126_4141.hex" />
-    <ArrayItem index="251" value="2012_08-15_t4_s05_cast127_4141.hex" />
-    <ArrayItem index="252" value="2012_08-15_t4_s06_cast128_4141.hex" />
-    <ArrayItem index="253" value="2012_08-15_t4_s07_cast129_4141.hex" />
-    <ArrayItem index="254" value="2012_08-15_t4_s08_cast130_4141.hex" />
-    <ArrayItem index="255" value="2012_08-15_t4_s09_cast131_4141.hex" />
-    <ArrayItem index="256" value="2012_08-15_t4_s10b_cast132_4141.hex" />
-    <ArrayItem index="257" value="2012_08-31_t9_s02_cast134_4141.hex" />
-    <ArrayItem index="258" value="2012_08-31_t9_s03_cast135_4141.hex" />
-    <ArrayItem index="259" value="2012_08-31_t9_s04_cast136_4141.hex" />
-    <ArrayItem index="260" value="2012_08-31_t9_s05_cast137_4141.hex" />
-    <ArrayItem index="261" value="2012_08-31_t9_s06_cast138_4141.hex" />
-    <ArrayItem index="262" value="2012_08-31_t9_s07_cast139_4141.hex" />
-    <ArrayItem index="263" value="2012_08-31_t9_s08_cast140_4141.hex" />
-    <ArrayItem index="264" value="2012_08-31_t9_s09_cast141_4141.hex" />
-    <ArrayItem index="265" value="2012_08-31_t9_s10_cast142_4141.hex" />
-    <ArrayItem index="266" value="2012_09-21_t9_s01a_repeat1_cast153_4141.hex" />
-    <ArrayItem index="267" value="2012_09-21_t9_s01b_repeat1_cast152_4141.hex" />
-    <ArrayItem index="268" value="2012_09-21_t9_s01_repeat2_cast163_4141.hex" />
-    <ArrayItem index="269" value="2012_09-21_t9_s01_repeat3_cast173_4141.hex" />
-    <ArrayItem index="270" value="2012_09-21_t9_s01_repeat4_cast183_4141.hex" />
-    <ArrayItem index="271" value="2012_09-21_t9_s01_repeat5_cast190_4141.hex" />
-    <ArrayItem index="272" value="2012_09-21_t9_s01_repeat6_cast200_4141.hex" />
-    <ArrayItem index="273" value="2012_09-21_t9_s02_repeat1_cast151_4141.hex" />
-    <ArrayItem index="274" value="2012_09-21_t9_s02_repeat2_cast162_4141.hex" />
-    <ArrayItem index="275" value="2012_09-21_t9_s02_repeat3_cast172_4141.hex" />
-    <ArrayItem index="276" value="2012_09-21_t9_s02_repeat4_cast182_4141.hex" />
-    <ArrayItem index="277" value="2012_09-21_t9_s02_repeat5_cast189_4141.hex" />
-    <ArrayItem index="278" value="2012_09-21_t9_s02_repeat6_cast199_4141.hex" />
-    <ArrayItem index="279" value="2012_09-21_t9_s03_repeat1_cast150_4141.hex" />
-    <ArrayItem index="280" value="2012_09-21_t9_s03_repeat2_cast161_4141.hex" />
-    <ArrayItem index="281" value="2012_09-21_t9_s03_repeat3_cast171_4141.hex" />
-    <ArrayItem index="282" value="2012_09-21_t9_s03_repeat4_cast181_4141.hex" />
-    <ArrayItem index="283" value="2012_09-21_t9_s03_repeat5_cast188_4141.hex" />
-    <ArrayItem index="284" value="2012_09-21_t9_s03_repeat6_cast198_4141.hex" />
-    <ArrayItem index="285" value="2012_09-21_t9_s04_repeat1_cast149_4141.hex" />
-    <ArrayItem index="286" value="2012_09-21_t9_s04_repeat2_cast160_4141.hex" />
-    <ArrayItem index="287" value="2012_09-21_t9_s04_repeat3_cast170_4141.hex" />
-    <ArrayItem index="288" value="2012_09-21_t9_s04_repeat4_cast180_4141.hex" />
-    <ArrayItem index="289" value="2012_09-21_t9_s04_repeat5_cast187_4141.hex" />
-    <ArrayItem index="290" value="2012_09-21_t9_s04_repeat6_cast197_4141.hex" />
-    <ArrayItem index="291" value="2012_09-21_t9_s05_repeat1_cast148_4141.hex" />
-    <ArrayItem index="292" value="2012_09-21_t9_s05_repeat2_cast159_4141.hex" />
-    <ArrayItem index="293" value="2012_09-21_t9_s05_repeat3_cast169_4141.hex" />
-    <ArrayItem index="294" value="2012_09-21_t9_s05_repeat4_cast179_4141.hex" />
-    <ArrayItem index="295" value="2012_09-21_t9_s05_repeat6_cast196_4141.hex" />
-    <ArrayItem index="296" value="2012_09-21_t9_s06_repeat1_cast147_4141.hex" />
-    <ArrayItem index="297" value="2012_09-21_t9_s06_repeat2_cast158_4141.hex" />
-    <ArrayItem index="298" value="2012_09-21_t9_s06_repeat3_cast168_4141.hex" />
-    <ArrayItem index="299" value="2012_09-21_t9_s06_repeat4_cast178_4141.hex" />
-    <ArrayItem index="300" value="2012_09-21_t9_s06_repeat5_cast186_4141.hex" />
-    <ArrayItem index="301" value="2012_09-21_t9_s06_repeat6_cast195_4141.hex" />
-    <ArrayItem index="302" value="2012_09-21_t9_s07_repeat1_cast146_4141.hex" />
-    <ArrayItem index="303" value="2012_09-21_t9_s07_repeat2_cast157_4141.hex" />
-    <ArrayItem index="304" value="2012_09-21_t9_s07_repeat3_cast167_4141.hex" />
-    <ArrayItem index="305" value="2012_09-21_t9_s07_repeat4_cast177_4141.hex" />
-    <ArrayItem index="306" value="2012_09-21_t9_s07_repeat6_cast194_4141.hex" />
-    <ArrayItem index="307" value="2012_09-21_t9_s08_repeat1_cast145_4141.hex" />
-    <ArrayItem index="308" value="2012_09-21_t9_s08_repeat2_cast156_4141.hex" />
-    <ArrayItem index="309" value="2012_09-21_t9_s08_repeat3_cast166_4141.hex" />
-    <ArrayItem index="310" value="2012_09-21_t9_s08_repeat4_cast176_4141.hex" />
-    <ArrayItem index="311" value="2012_09-21_t9_s08_repeat5_cast185_4141.hex" />
-    <ArrayItem index="312" value="2012_09-21_t9_s08_repeat6_cast193_4141.hex" />
-    <ArrayItem index="313" value="2012_09-21_t9_s09_repeat1_cast144_4141.hex" />
-    <ArrayItem index="314" value="2012_09-21_t9_s09_repeat2_cast155_4141.hex" />
-    <ArrayItem index="315" value="2012_09-21_t9_s09_repeat3_cast165_4141.hex" />
-    <ArrayItem index="316" value="2012_09-21_t9_s09_repeat4_cast175_4141.hex" />
-    <ArrayItem index="317" value="2012_09-21_t9_s09_repeat6_cast192_4141.hex" />
-    <ArrayItem index="318" value="2012_09-21_t9_s10_repeat1_cast143_4141.hex" />
-    <ArrayItem index="319" value="2012_09-21_t9_s10_repeat2_cast154_4141.hex" />
-    <ArrayItem index="320" value="2012_09-21_t9_s10_repeat3_cast164_4141.hex" />
-    <ArrayItem index="321" value="2012_09-21_t9_s10_repeat4_cast174_4141.hex" />
-    <ArrayItem index="322" value="2012_09-21_t9_s10_repeat5_cast184_4141.hex" />
-    <ArrayItem index="323" value="2012_09-21_t9_s10_repeat6_cast191_4141.hex" />
-    <ArrayItem index="324" value="2012_10-12_t9_s01_cast201_4141.hex" />
-    <ArrayItem index="325" value="2012_10-12_t9_s02_cast202_4141.hex" />
-    <ArrayItem index="326" value="2012_10-12_t9_s03_cast203_4141.hex" />
-    <ArrayItem index="327" value="2012_10-12_t9_s04_cast204_4141.hex" />
-    <ArrayItem index="328" value="2012_10-12_t9_s05_cast205_4141.hex" />
-    <ArrayItem index="329" value="2012_10-12_t9_s06_cast206_4141.hex" />
+  <InputDir value="C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\allCTD\hex2test\SBE19plus_4141_Oct-2018" />
+  <InputFileArray size="7" GrowBy="-1" >
+    <ArrayItem index="0" value="2018_11-08_AlongBay_SKB03.5_cast011_4141.hex" />
+    <ArrayItem index="1" value="2018_11-08_AlongBay_SKB04_cast010_4141.hex" />
+    <ArrayItem index="2" value="2018_11-08_AlongBay_SKB05_cast009_4141.hex" />
+    <ArrayItem index="3" value="2018_11-08_AlongBay_SKB10_cast004_4141.hex" />
+    <ArrayItem index="4" value="2020_10-15_T9_S07_cast066_4141.hex" />
+    <ArrayItem index="5" value="2020_10-15_T9_S08_cast067_4141.hex" />
+    <ArrayItem index="6" value="2020_10-15_T9_S09_cast068_4141.hex" />
   </InputFileArray>
-  <OutputDir value="C:\Users\Martin.Renner\Documents\tmp\ctd\cnv1" />
+  <OutputDir value="C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\allCTD\hex2test\SBE19plus_4141_Oct-2018" />
   <NameAppend value="" />
   <OutputFile value="" />
   <LastProcessed value="0" />
@@ -353,7 +30,7 @@
   <ScanRangeDuration value="2.000000" />
   <StartTimeOption value="0" />
   <PromptForNoteAndOrStartTime value="0" />
-  <CalcArray Size="16" >
+  <CalcArray Size="17" >
     <CalcArrayItem index="0" CalcID="72" >
       <Calc UnitID="-1" Ordinal="0" >
         <FullName value="Scan Count" />
@@ -405,33 +82,41 @@
         <Latitude value="59.000000" />
       </Calc>
     </CalcArrayItem>
-    <CalcArrayItem index="10" CalcID="127" >
-      <Calc UnitID="40" Ordinal="0" >
-        <FullName value="Oxygen Saturation, Garcia &amp; Gordon [ml/l]" />
+    <CalcArrayItem index="10" CalcID="55" >
+      <Calc UnitID="37" Ordinal="0" >
+        <FullName value="Oxygen, SBE 43 [mg/l]" />
+        <WindowSize value="2.000000" />
+        <ApplyHysteresisCorrection value="1" />
+        <ApplyTauCorrection value="1" />
       </Calc>
     </CalcArrayItem>
-    <CalcArrayItem index="11" CalcID="62" >
+    <CalcArrayItem index="11" CalcID="127" >
+      <Calc UnitID="37" Ordinal="0" >
+        <FullName value="Oxygen Saturation, Garcia &amp; Gordon [mg/l]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="12" CalcID="62" >
       <Calc UnitID="6" Ordinal="0" >
         <FullName value="Potential Temperature [ITS-90, deg C]" />
       </Calc>
     </CalcArrayItem>
-    <CalcArrayItem index="12" CalcID="15" >
-      <Calc UnitID="54" Ordinal="0" >
-        <FullName value="Density [sigma-t, kg/m^3 ]" />
+    <CalcArrayItem index="13" CalcID="15" >
+      <Calc UnitID="53" Ordinal="0" >
+        <FullName value="Density [sigma-theta, kg/m^3]" />
       </Calc>
     </CalcArrayItem>
-    <CalcArrayItem index="13" CalcID="108" >
-      <Calc UnitID="40" Ordinal="0" >
-        <FullName value="Nitrogen Saturation [ml/l]" />
+    <CalcArrayItem index="14" CalcID="108" >
+      <Calc UnitID="37" Ordinal="0" >
+        <FullName value="Nitrogen Saturation [mg/l]" />
       </Calc>
     </CalcArrayItem>
-    <CalcArrayItem index="14" CalcID="59" >
+    <CalcArrayItem index="15" CalcID="59" >
       <Calc UnitID="-1" Ordinal="0" >
         <FullName value="PAR/Irradiance, Biospherical/Licor" />
         <PAR_Units value="0" />
       </Calc>
     </CalcArrayItem>
-    <CalcArrayItem index="15" CalcID="35" >
+    <CalcArrayItem index="16" CalcID="35" >
       <Calc UnitID="38" Ordinal="0" >
         <FullName value="Fluorescence, WET Labs WETstar [mg/m^3]" />
       </Calc>
