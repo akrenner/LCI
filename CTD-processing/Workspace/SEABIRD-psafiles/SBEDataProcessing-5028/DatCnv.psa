@@ -5,21 +5,19 @@
   <InstrumentPath value="C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\allCTD\hex2test\SBE19plus_5028_Sep-2014\SBE19plus_5028_Sep-2014.xmlcon" />
   <InstrumentMatch value="0" />
   <InputDir value="C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\allCTD\hex2test\SBE19plus_5028_Sep-2014" />
-  <InputFileArray size="9" GrowBy="-1" >
-    <ArrayItem index="0" value="2015_03-31_T9_S01_cast001_5028.hex" />
-    <ArrayItem index="1" value="2015_03-31_T9_S02_cast002_5028.hex" />
-    <ArrayItem index="2" value="2018-03-27-CookInlet-Tran9-cast021_5028.hex" />
-    <ArrayItem index="3" value="2018-03-27-CookInlet-Tran9-cast022_5028.hex" />
-    <ArrayItem index="4" value="2018-03-27-CookInlet-Tran9-cast023_5028.hex" />
-    <ArrayItem index="5" value="2018-03-27-CookInlet-Tran9-cast029_5028.hex" />
-    <ArrayItem index="6" value="2018-03-27-CookInlet-Tran9-cast030_5028.hex" />
-    <ArrayItem index="7" value="2018_10-17_T9_S09_cast073_5028.hex" />
-    <ArrayItem index="8" value="2018_10-17_T9_S10_cast074_5028.hex" />
+  <InputFileArray size="7" GrowBy="-1" >
+    <ArrayItem index="0" value="2015_07-29_t9_s07_cast141_5028.hex" />
+    <ArrayItem index="1" value="2016_04-10_t6_s26_cast192_5028.hex" />
+    <ArrayItem index="2" value="2016_04-11_t3_s13_cast207_5028.hex" />
+    <ArrayItem index="3" value="2016_10-13_t4_s03_cast152_5028.hex" />
+    <ArrayItem index="4" value="2016_12-12_t6_s16_cast171_5028.hex" />
+    <ArrayItem index="5" value="2018_09-17_t6_s05_cast030_5028.hex" />
+    <ArrayItem index="6" value="2018_10-17_alongbay_skb02_cast063_5028.hex" />
   </InputFileArray>
-  <OutputDir value="C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\allCTD\hex2test\SBE19plus_5028_Sep-2014" />
+  <OutputDir value="C:\Users\Martin.Renner\Documents\tmp\LCI_noaa\CTD-cache\1-converted" />
   <NameAppend value="" />
   <OutputFile value="" />
-  <LastProcessed value="0" />
+  <LastProcessed value="2" />
   <ProcessScansToEnd value="1" />
   <ScansToSkip value="0" />
   <ScansToProcess value="1" />
@@ -32,7 +30,7 @@
   <ScanRangeDuration value="2.000000" />
   <StartTimeOption value="0" />
   <PromptForNoteAndOrStartTime value="0" />
-  <CalcArray Size="17" >
+  <CalcArray Size="18" >
     <CalcArrayItem index="0" CalcID="72" >
       <Calc UnitID="-1" Ordinal="0" >
         <FullName value="Scan Count" />
@@ -118,7 +116,12 @@
         <PAR_Units value="0" />
       </Calc>
     </CalcArrayItem>
-    <CalcArrayItem index="16" CalcID="150" >
+    <CalcArrayItem index="16" CalcID="93" >
+      <Calc UnitID="38" Ordinal="0" >
+        <FullName value="Fluorescence, WET Labs ECO-AFL/FL [mg/m^3]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="17" CalcID="150" >
       <Calc UnitID="45" Ordinal="0" >
         <FullName value="Turbidity, WET Labs ECO [NTU]" />
       </Calc>
