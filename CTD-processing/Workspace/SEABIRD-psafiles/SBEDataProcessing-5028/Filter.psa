@@ -2,25 +2,14 @@
 <Filter >
   <Version value="7.26.7.129" />
   <ServerName value="Filter" />
-  <InputDir value="C:\Users\Martin.Renner\Documents\tmp\LCI_noaa\CTD-cache\converted" />
-  <InputFileArray size="15" GrowBy="-1" >
-    <ArrayItem index="0" value="2012-10-28_t7-cast038-s10_4141.cnv" />
-    <ArrayItem index="1" value="2012_09-21_t9_s09_repeat6_cast192_4141.cnv" />
-    <ArrayItem index="2" value="2014_08-13_t9_s07_cast026_4141.cnv" />
-    <ArrayItem index="3" value="2017-07-25-cookinlet-tran3-cast235_4141.cnv" />
-    <ArrayItem index="4" value="2017_04-18_t6_s14_cast083_4141.cnv" />
-    <ArrayItem index="5" value="2018_01-17_alongbay_skb07_cast139_4141.cnv" />
-    <ArrayItem index="6" value="2018_01-17_transect_station_cast152_4141.cnv" />
-    <ArrayItem index="7" value="2018_11-08_alongbay_skb04_cast010_4141.cnv" />
-    <ArrayItem index="8" value="2019_02-07_alongbay_skb12_cast063_4141.cnv" />
-    <ArrayItem index="9" value="2019_03-19_t9_s03_cast106_4141.cnv" />
-    <ArrayItem index="10" value="2020_07-23_t4_s02_cast101_4141.cnv" />
-    <ArrayItem index="11" value="2020_07-24_t7_s23_cast121_4141.cnv" />
-    <ArrayItem index="12" value="2020_07-24_t9_s05_cast130_4141.cnv" />
-    <ArrayItem index="13" value="2020_09-20_alongbay_skb04_cast017_4141.cnv" />
-    <ArrayItem index="14" value="2020_09-20_t6_s01_cast001_4141.cnv" />
+  <InputDir value="C:\Users\Martin.Renner\Documents\tmp\LCI_noaa\CTD-cache\1-converted" />
+  <InputFileArray size="4" GrowBy="-1" >
+    <ArrayItem index="0" value="2013_04-20_t3_s13_cast109_5028.cnv" />
+    <ArrayItem index="1" value="2013_07-18_t7_s04_cast020_5028.cnv" />
+    <ArrayItem index="2" value="2013_10-29_t9_s01_cast113_5028.cnv" />
+    <ArrayItem index="3" value="2014_02-15_t4_s02_cast181_5028.cnv" />
   </InputFileArray>
-  <OutputDir value="C:\Users\Martin.Renner\Documents\tmp\LCI_noaa\CTD-cache\filtered" />
+  <OutputDir value="C:\Users\Martin.Renner\Documents\tmp\LCI_noaa\CTD-cache\2-filtered" />
   <NameAppend value="" />
   <OutputFile value="" />
   <LastProcessed value="0" />
@@ -87,14 +76,14 @@
         <PAR_Units value="0" />
       </Calc>
     </CalcArrayItem>
-    <CalcArrayItem index="11" CalcID="35" >
+    <CalcArrayItem index="11" CalcID="93" >
       <Calc UnitID="38" Ordinal="0" >
-        <FullName value="Fluorescence, WET Labs WETstar [mg/m^3]" />
+        <FullName value="Fluorescence, WET Labs ECO-AFL/FL [mg/m^3]" />
       </Calc>
     </CalcArrayItem>
-    <CalcArrayItem index="12" CalcID="178" >
-      <Calc UnitID="24" Ordinal="0" >
-        <FullName value="Beam Attenuation, WET Labs C-Star [1/m]" />
+    <CalcArrayItem index="12" CalcID="150" >
+      <Calc UnitID="45" Ordinal="0" >
+        <FullName value="Turbidity, WET Labs ECO [NTU]" />
       </Calc>
     </CalcArrayItem>
   </CalcArray>
