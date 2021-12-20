@@ -78,11 +78,11 @@
       </Sensor>
       <Sensor index="3" SensorID="71" >
         <WET_LabsCStar SensorID="71" >
-          <SerialNumber></SerialNumber>
+          <SerialNumber>CST-192PR</SerialNumber>
           <CalibrationDate>2021-11-18</CalibrationDate>
           <M>21.9389</M>
           <B>-1.26533</B>
-          <PathLength>0.000</PathLength>
+          <PathLength>0.250</PathLength>
         </WET_LabsCStar>
       </Sensor>
       <Sensor index="4" SensorID="21" >
