@@ -2,34 +2,27 @@
 <Data_Conversion >
   <Version value="7.26.7.129" />
   <ServerName value="Data Conversion" />
-  <InstrumentPath value="C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\allCTD\hex2process\SBE19plus_4141_Oct-2018\SBE19plus_4141_Oct-2018.xmlcon" />
+  <InstrumentPath value="C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\allCTD\hex2test\SBE19plus_4141_Apr-2012\SBE19plus_4141_Apr-2012.xmlcon" />
   <InstrumentMatch value="0" />
-  <InputDir value="C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\allCTD\hex2test\SBE19plus_4141_June-2016" />
-  <InputFileArray size="22" GrowBy="-1" >
-    <ArrayItem index="0" value="2017-07-24-KachemakBay-AlongBay-cast222_4141.hex" />
-    <ArrayItem index="1" value="2017-07-25-CookInlet-Tran3-cast235_4141.hex" />
-    <ArrayItem index="2" value="2017_01-11_T9_S02_cast019_4141.hex" />
-    <ArrayItem index="3" value="2017_02-07_T9_S04_cast032_4141.hex" />
-    <ArrayItem index="4" value="2017_04-18_T6_S14_cast083_4141.hex" />
-    <ArrayItem index="5" value="2017_08-24_AlongBay_SKB08_cast006_4141.hex" />
-    <ArrayItem index="6" value="2017_09-22_AlongBay_SKB08_cast027_4141.hex" />
-    <ArrayItem index="7" value="2017_09-22_AlongBay_SKB11_cast024_4141.hex" />
-    <ArrayItem index="8" value="2017_10-17_T4_S10_cast045_4141.hex" />
-    <ArrayItem index="9" value="2017_10-20_AlongBay_SKB13_cast076_4141.hex" />
-    <ArrayItem index="10" value="2017_11-02_AlongBay_Pogi_cast085_4141.hex" />
-    <ArrayItem index="11" value="2017_11-02_AlongBay_SKB02_cast087_4141.hex" />
-    <ArrayItem index="12" value="2017_11-02_AlongBay_SKB05_cast090_4141.hex" />
-    <ArrayItem index="13" value="2017_11-07_AlongBay_SKB08_cast097_4141.hex" />
-    <ArrayItem index="14" value="2017_11-07_AlongBay_SKB11_cast094_4141.hex" />
-    <ArrayItem index="15" value="2017_12-14_AlongBay_SKB10_cast134_4141.hex" />
-    <ArrayItem index="16" value="2017_12-14_T9_S03_cast124_4141.hex" />
-    <ArrayItem index="17" value="2017_12-14_T9_S08_cast118_4141.hex" />
-    <ArrayItem index="18" value="2018_01-17_AlongBay_SKB04_cast142_4141.hex" />
-    <ArrayItem index="19" value="2018_01-17_AlongBay_SKB07_cast139_4141.hex" />
-    <ArrayItem index="20" value="2018_01-17_TRANSECT_STATION_cast144_4141.hex" />
-    <ArrayItem index="21" value="2018_01-17_TRANSECT_STATION_cast152_4141.hex" />
+  <InputDir value="C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\allCTD\hex2test\SBE19plus_4141_Apr-2012" />
+  <InputFileArray size="15" GrowBy="-1" >
+    <ArrayItem index="0" value="2012-10-28_t6-s14_4141.hex" />
+    <ArrayItem index="1" value="2012-10-28_t7-cast038-s10_4141.hex" />
+    <ArrayItem index="2" value="2012_07-30_t6_s06_cast076_4141.hex" />
+    <ArrayItem index="3" value="2012_09-21_t9_s09_repeat6_cast192_4141.hex" />
+    <ArrayItem index="4" value="2014_08-13_t4_s01_cast033_4141.hex" />
+    <ArrayItem index="5" value="2014_08-13_t9_s07_cast026_4141.hex" />
+    <ArrayItem index="6" value="2014_08-14_alongbay_skb03_cast045_4141.hex" />
+    <ArrayItem index="7" value="2015_01-16_t9_s01_cast182_4141.hex" />
+    <ArrayItem index="8" value="2017-07-25-cookinlet-tran3-cast235_4141.hex" />
+    <ArrayItem index="9" value="2017_01-11_t9_s06_cast015_4141.hex" />
+    <ArrayItem index="10" value="2017_04-18_t6_s14_cast083_4141.hex" />
+    <ArrayItem index="11" value="2017_10-17_t9_s07_cast061_4141.hex" />
+    <ArrayItem index="12" value="2018_01-17_alongbay_skb07_cast139_4141.hex" />
+    <ArrayItem index="13" value="2018_01-17_transect_station_cast150_4141.hex" />
+    <ArrayItem index="14" value="2018_01-17_transect_station_cast152_4141.hex" />
   </InputFileArray>
-  <OutputDir value="C:\Users\Martin.Renner\Documents\tmp\LCI_noaa\CTD-cache\1-converted" />
+  <OutputDir value="C:\Users\Martin.Renner\Documents\tmp\LCI_noaa\CTD-cache\1-converted\1" />
   <NameAppend value="" />
   <OutputFile value="" />
   <LastProcessed value="0" />
