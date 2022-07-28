@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Bin_Average >
+  <Version value="5.31a" />
+  <ServerName value="Bin Average" />
+  <InputDir value="C:\Data\CMI\Kennedy\41904" />
+  <InputFileArray size="22" GrowBy="-1" >
+    <ArrayItem index="0" value="K404k1.cnv" />
+    <ArrayItem index="1" value="K404k10.cnv" />
+    <ArrayItem index="2" value="K404k11.cnv" />
+    <ArrayItem index="3" value="K404k12.cnv" />
+    <ArrayItem index="4" value="K404k2.cnv" />
+    <ArrayItem index="5" value="K404k3.cnv" />
+    <ArrayItem index="6" value="K404k4.cnv" />
+    <ArrayItem index="7" value="K404k5.cnv" />
+    <ArrayItem index="8" value="K404k6.cnv" />
+    <ArrayItem index="9" value="K404k7.cnv" />
+    <ArrayItem index="10" value="K404k8.cnv" />
+    <ArrayItem index="11" value="K404k9.cnv" />
+    <ArrayItem index="12" value="k404k13.cnv" />
+    <ArrayItem index="13" value="k404k14.cnv" />
+    <ArrayItem index="14" value="k404k15.cnv" />
+    <ArrayItem index="15" value="k404k16.cnv" />
+    <ArrayItem index="16" value="k404k17.cnv" />
+    <ArrayItem index="17" value="k404k18.cnv" />
+    <ArrayItem index="18" value="k404k19.cnv" />
+    <ArrayItem index="19" value="k404k20.cnv" />
+    <ArrayItem index="20" value="k404k21.cnv" />
+    <ArrayItem index="21" value="k404k22.cnv" />
+  </InputFileArray>
+  <OutputDir value="C:\Data\CMI\Kennedy\41904\binned" />
+  <NameAppend value="bin" />
+  <OutputFile value="" />
+  <LastProcessed value="0" />
+  <BinType value="0" />
+  <BinSize value="1.000000" />
+  <IncludeNumberScans value="0" />
+  <ExcludeMarkedBad value="1" />
+  <ScansToSkip value="1" />
+  <CastToProcess value="1" high="2" low="0" initialValue="0" />
+  <IncludeSurfaceBin value="1" />
+  <SurfaceBinMinVal value="0.000000" />
+  <SurfaceBinMaxVal value="0.500000" />
+  <SurfaceBinVal value="0.000000" />
+</Bin_Average>

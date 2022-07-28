@@ -1,0 +1,57 @@
+ds
+SBE 25 CTD  V 4.0 SN 146   12/B1/>5  G1:B0:=4.554
+externajl pressure sensor, range =
+ 500 psia,  tcval = 647
+xtal = 9437401   clk = 32768.064   vmain = 12.0   iop = 301   vlith = 5.2
+ncasts = 1   samples = 267   free = 47036   lwait = 0 msec
+
+CTD configuration:
+number of scans averaged = 1,  data stored at 8 scans per second
+real time data transmitted at 1 scans per second
+minimum conductivity frequency for pump turn on = 2000
+battery type = ALKALINE
+
+2 external voltages sampled
+stored voltage # 0 = external voltage 0
+stored voltage # 1 = external voltage 1
+
+S>please wait 10 seconds
+
+
+
+SBE 25 SEALOGGER CTD power on
+
+quiescent current = 144  microamps
+
+
+
+
+S>fr
+t = 8418.503   c = 2991.491
+t = 8418.753   c = 2991.486
+t = 8419.004   c = 2991.492
+t = 8419.238   c = 2991.511
+t = 8419.505   c = 2991.519
+t = 8419.762   c = 2991.520
+t = 8420.003   c = 2991.531
+t = 8420.279   c = 2991.551
+t = 8420.488   c = 2991.550
+t = 8420.748   c = 2991.558
+t = 8421.002   c = 2991.568
+t = 8421.271   c = 2991.580
+t = 8421.541   c = 2991.591
+t = 8421.757   c = 2991.588
+t = 8421.991   c = 2991.599
+t = 8422.263^C
+vr
+   c = 2991.620
+S>2.372   1.358   4.412   1.203   3.184   0.867   
+2.375   1.355   4.411   1.203   3.183   0.868   
+2.376   1.353   4.411   1.202   3.182   0.867   
+2.375   1.351   4.411   1.202   3.181   0.867   
+2.375   1.349   4.411   1.202   3.181   0.866   
+2.375   1.347   4.412   1.202   3.180   0.866   
+2.375   1.345   4.411   1.201   3.180   0.868   
+2.374   1.344   4.411   1.201   3.179   0.866   
+2.374   1.342   4.411   1.201   3.179   ^C
+0.86

@@ -1,0 +1,23 @@
+ODV4.0
+Collection: kennedy04
+      Type: HYD
+     Nstat: 22
+ Variables: 17
+
+Cruise                                                       8.2
+Station                                                      8.2
+Type                                                         8.2
+mon/day/yr                                                   8.2
+hh:mm                                                        8.2
+Lon (E)                                                      8.2
+Lat (N)                                                      8.2
+Bot. Depth [m]                                               8.2
+Press                                                        8.2
+Depth [m]                                                    8.2
+Sigma                                                        8.2
+Salinity [psu]                                               8.2
+oxper [%]                                                    8.2
+oxconc                                                       8.2
+Temperature [C]                                              8.2
+tran [v]                                                     8.2
+flour [v]                                                    8.2

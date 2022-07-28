@@ -1,0 +1,14 @@
+* Sea-Bird SBE25 Data File:
+* FileName = C:\Data\CMI\Anchor\71704\an.hex
+* Software Version 1.48
+* Temperature SN = 578
+* Conductivity SN = 171
+* System UpLoad Time = Jul 17 2004 20:33:32
+* ds
+* SBE 25 CTD  V 4.0 SN 146   07/18/04  20:33:59.685
+* external pressure sensor, range = 500 psia,  tcval = 823
+* xtal = 9437401   clk = 32768.025   vmain = 13.3   iop = 197   vlith = 5.2
+* ncasts = 16   samples = 23816   free = 28218   lwait = 0 msec
+* 
+* CTD configuration:
+* number of scans averaged = 1,

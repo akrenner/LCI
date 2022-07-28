@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Align_CTD >
+  <Version value="5.31a" />
+  <ServerName value="Align CTD" />
+  <InputDir value="C:\Data\CMI\shelikof\71804" />
+  <InputFileArray size="1" GrowBy="-1" >
+    <ArrayItem index="0" value="shel011.cnv" />
+  </InputFileArray>
+  <OutputDir value="C:\Data\CMI\shelikof\71804" />
+  <NameAppend value="" />
+  <OutputFile value="shel011.cnv" />
+  <LastProcessed value="0" />
+  <CalcArray Size="3" >
+    <CalcArrayItem index="0" CalcID="81" >
+      <Calc UnitID="6" Ordinal="0" >
+        <FullName value="Temperature [ITS-90, deg C]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="1" CalcID="12" >
+      <Calc UnitID="62" Ordinal="0" >
+        <FullName value="Conductivity [uS/cm]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="2" CalcID="89" >
+      <Calc UnitID="63" Ordinal="0" >
+        <FullName value="Voltage 0" />
+      </Calc>
+    </CalcArrayItem>
+  </CalcArray>
+  <ValArray size="3" >
+    <ValArrayItem index="0" value="0.125000" />
+    <ValArrayItem index="1" value="0.000000" />
+    <ValArrayItem index="2" value="2.000000" />
+  </ValArray>
+</Align_CTD>

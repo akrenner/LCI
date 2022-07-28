@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Section >
+  <Version value="5.33" />
+  <ServerName value="Section" />
+  <InputDir value="C:\Data\otf\2005\ctd" />
+  <InputFileArray size="0" GrowBy="-1" />
+  <OutputDir value="C:\Data\otf\2005\ctd" />
+  <NameAppend value="" />
+  <OutputFile value="" />
+  <LastProcessed value="0" />
+  <SectionVariable value="0" high="1" low="0" initialValue="0" />
+  <PressureCast value="0" high="1" low="0" initialValue="0" />
+  <MinValue value="0.000000" />
+  <MaxValue value="0.000000" />
+</Section>

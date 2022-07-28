@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Split >
+  <Version value="5.33" />
+  <ServerName value="Split" />
+  <InputDir value="C:\Data\otf\2005\ctd" />
+  <InputFileArray size="0" GrowBy="-1" />
+  <OutputDir value="C:\Data\otf\2005\ctd" />
+  <NameAppend value="" />
+  <OutputFile value="" />
+  <LastProcessed value="0" />
+  <OutputFiles value="0" high="1" low="0" initialValue="0" />
+  <ExcludeMarkedBad value="1" />
+</Split>

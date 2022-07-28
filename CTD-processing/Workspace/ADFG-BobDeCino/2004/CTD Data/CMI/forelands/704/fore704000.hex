@@ -1,0 +1,14 @@
+* Sea-Bird  Data File:
+* FileName = C:\Data\CMI\forelands\fore704000.hex
+* Software Version 1.43
+* Temperature SN = 578
+* Conductivity SN = 171
+* System UpLoad Time = Aug 30 2004 09:14:39
+* ds
+* SBE 25 CTD  V 4.0 SN 146   08/30/04  09:15:54.806
+* external pressure sensor, range = 500 psia,  tcval = 853
+* xtal = 9437401   clk = 32768.186   vmain = 12.7   iop = 202   vlith = 5.3
+* ncasts = 9   samples = 21763   free = 30271   lwait = 0 msec
+* 
+* CTD configuration:
+* number of scans averaged = 1, 

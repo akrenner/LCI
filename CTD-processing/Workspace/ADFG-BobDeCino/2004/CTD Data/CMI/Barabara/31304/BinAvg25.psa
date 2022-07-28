@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Bin_Average >
+  <Version value="5.31a" />
+  <ServerName value="Bin Average" />
+  <InputDir value="C:\Data\CMI\Anchor\71704" />
+  <InputFileArray size="12" GrowBy="-1" >
+    <ArrayItem index="0" value="anc001.cnv" />
+    <ArrayItem index="1" value="anc005.cnv" />
+    <ArrayItem index="2" value="anc008.cnv" />
+    <ArrayItem index="3" value="anc009.cnv" />
+    <ArrayItem index="4" value="anc010.cnv" />
+    <ArrayItem index="5" value="anc011.cnv" />
+    <ArrayItem index="6" value="anc012.cnv" />
+    <ArrayItem index="7" value="anc013.cnv" />
+    <ArrayItem index="8" value="anc014.cnv" />
+    <ArrayItem index="9" value="anc015.cnv" />
+    <ArrayItem index="10" value="anc016.cnv" />
+    <ArrayItem index="11" value="anc017.cnv" />
+  </InputFileArray>
+  <OutputDir value="C:\Data\CMI\Anchor\71704\binned" />
+  <NameAppend value="bin" />
+  <OutputFile value="" />
+  <LastProcessed value="0" />
+  <BinType value="0" />
+  <BinSize value="1.000000" />
+  <IncludeNumberScans value="0" />
+  <ExcludeMarkedBad value="1" />
+  <ScansToSkip value="1" />
+  <CastToProcess value="1" high="2" low="0" initialValue="0" />
+  <IncludeSurfaceBin value="1" />
+  <SurfaceBinMinVal value="0.000000" />
+  <SurfaceBinMaxVal value="0.500000" />
+  <SurfaceBinVal value="0.000000" />
+</Bin_Average>

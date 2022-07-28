@@ -1,0 +1,73 @@
+* Sea-Bird SBE19plus Data File:
+* FileName = C:\data\otf\2007\ctd-07003.hex
+* Software Version 1.55
+* Temperature SN =  5061
+* Conductivity SN =  5061
+* System UpLoad Time = Aug 15 2007 15:33:12
+* ds
+* SeacatPlus V 1.6a  SERIAL NO. 5061    15 Aug 2007  15:31:53
+* vbatt = 10.9, vlith =  8.7, ioper =  61.6 ma, ipump =  57.5 ma, 
+* iext01 =  95.2 ma
+* iext23 =  58.1 ma
+* 
+* status = not logging
+* number of scans to average = 1
+* samples = 153039, free = 288466, casts = 154
+* mode = profile, minimum cond freq = 3000, pump delay = 60 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.3 volts
+* pressure sensor = strain gauge, range = 870.0
+* SBE 38 = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
+* echo commands = yes
+* output format = raw HEX
+
+* S>
+* 
+* SeacatPlus V 1.6a  SERIAL NO. 5061    15 Aug 2007  15:32:18
+* temperature:  05-oct-06
+*     TA0 = 1.254184e-03
+*     TA1 = 2.596730e-04
+*     TA2 = 5.165612e-07
+*     TA3 = 1.318931e-07
+*     TOFFSET = 0.000000e+00
+* conductivity:  05-oct-06
+*     G = -9.978144e-01
+*     H = 1.555200e-01
+*     I = -4.839108e-04
+*     J = 6.121100e-05
+*     CF0 = 2.539936e+03
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     CSLOPE = 1.000000e+00
+* pressure S/N = 2362539, range = 870 psia:  24-aug-06
+*     PA0 = 2.171091e-01
+*     PA1 = 2.647085e-03
+*     PA2 = 1.419397e-11
+*     PTCA0 = 5.242437e+05
+*     PTCA1 = 7.545345e+00
+*     PTCA2 = -1.835354e-01
+*     PTCB0 = 2.537125e+01
+*     PTCB1 = -1.750000e-03
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = -5.753989e+01
+*     PTEMPA1 = 5.235813e+01
+*     PTEMPA2 = -4.015521e-02
+*     POFFSET = 0.000000e+00
+* volt 0: offset = -4.682842e-02, slope = 1.249147e+00
+* volt 1: offset = -4.695158e-02, slope = 1.248145e+00
+* volt 2: offset = -4.685263e-02, slope = 1.248783e+00
+* volt 3: offset = -4.690316e-02, slope = 1.249508e+00
+*     EXTFREQSF = 1.000002e+00
+* dh
+* cast   3 03 Jul 2007 08:51:08 samples 1001 to 1007, avg = 1, stop = mag switch
+
+* S> 
+*END*
+077AD50A1C280815AE405D829FA24B04BE04F4
+077AB60A1C2C0815B2405C8312A23704C404F1
+077AB00A1C390815B0405D838CA22D04BB04EC
+077A920A1C520815B0405C83E2A21D04C204EF
+077A840A1C730815B040598436A20C0BC40665
+077A620A1CAC0815B1405B8481A20B0BC50668
+077A560A1D210815B2405A84C2A1FE0BBF0662

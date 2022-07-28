@@ -1,0 +1,73 @@
+* Sea-Bird SBE19plus Data File:
+* FileName = C:\Sea-Bird\Northern OTF Data 2013\2021\so_2021_otf068.hex
+* Software Version 1.59
+* Temperature SN =  5061
+* Conductivity SN =  5061
+* System UpLoad Time = Aug 16 2021 17:01:22
+* ds
+* SeacatPlus V 1.6a  SERIAL NO. 5061    16 Aug 2021  14:58:34
+* vbatt = 12.7, vlith =  8.3, ioper =  61.9 ma, ipump =  45.9 ma, 
+* iext01 =  70.9 ma
+* iext23 =  44.9 ma
+* 
+* status = not logging
+* number of scans to average = 1
+* samples = 106536, free = 334969, casts = 141
+* mode = profile, minimum cond freq = 3000, pump delay = 60 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.3 volts
+* pressure sensor = strain gauge, range = 870.0
+* SBE 38 = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
+* echo commands = yes
+* output format = raw HEX
+
+* S>
+* 
+* SeacatPlus V 1.6a  SERIAL NO. 5061    16 Aug 2021  14:58:57
+* temperature:  03-oct-19
+*     TA0 = 1.250833e-03
+*     TA1 = 2.608609e-04
+*     TA2 = 3.764468e-07
+*     TA3 = 1.374095e-07
+*     TOFFSET = 0.000000e+00
+* conductivity:  03-oct-19
+*     G = -9.992340e-01
+*     H = 1.558881e-01
+*     I = -5.989661e-04
+*     J = 7.070572e-05
+*     CF0 = 2.539936e+03
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     CSLOPE = 1.000000e+00
+* pressure S/N = 2362539, range = 870 psia:  01-oct-19
+*     PA0 = 1.734850e-01
+*     PA1 = 2.648064e-03
+*     PA2 = 2.504916e-11
+*     PTCA0 = 5.243292e+05
+*     PTCA1 = 5.319785e+00
+*     PTCA2 = -1.315585e-01
+*     PTCB0 = 2.537125e+01
+*     PTCB1 = -1.750000e-03
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = -5.821800e+01
+*     PTEMPA1 = 5.288649e+01
+*     PTEMPA2 = -2.620123e-01
+*     POFFSET = 0.000000e+00
+* volt 0: offset = -4.682842e-02, slope = 1.249147e+00
+* volt 1: offset = -4.695158e-02, slope = 1.248145e+00
+* volt 2: offset = -4.685263e-02, slope = 1.248783e+00
+* volt 3: offset = -4.690316e-02, slope = 1.249508e+00
+*     EXTFREQSF = 1.000002e+00
+* dh
+* cast  68 15 Jul 2021 13:53:13 samples 53773 to 53779, avg = 1, stop = mag switch
+
+* S> 
+*END*
+06476D0A3A7C081568447CBEDF88BA7C3DFCB4
+06475B0A3A5208156C447DBEEF88B57C55FC89
+0647580A3A5208156D447CBF0088B37C5DFCB5
+06474B0A3A4F08156A447DBF0588697C60FCBE
+0647480A3A5108156A447DBF0B88B47CB6FCB6
+06473C0A3A5D08156B447DBF0D88AD7CA1FC9D
+0647370A3A6B081569447EBF0788717CA0FCB4

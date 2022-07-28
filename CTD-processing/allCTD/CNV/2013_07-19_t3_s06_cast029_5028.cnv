@@ -262,26 +262,26 @@
 #     </PAR_BiosphericalLicorChelseaSensor>
 #   </sensor>
 # </Sensors>
-# datcnv_date = Jul 10 2022 04:00:50, 7.26.7.129 [datcnv_vars = 26]
+# datcnv_date = Jul 27 2022 17:54:58, 7.26.7.129 [datcnv_vars = 26]
 # datcnv_in = C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\allCTD\hex2process\SBE19plus_5028_Oct-2012\2013_07-19_t3_s06_cast029_5028.hex C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\allCTD\hex2process\SBE19plus_5028_Oct-2012\SBE19plus_5028_Oct-2012.xmlcon
 # datcnv_skipover = 0
 # datcnv_ox_hysteresis_correction = yes
 # datcnv_ox_tau_correction = yes
-# filter_date = Jul 10 2022 04:03:33, 7.26.7.129
+# filter_date = Jul 27 2022 17:57:22, 7.26.7.129
 # filter_in = C:\Users\Martin.Renner\Documents\tmp\LCI_noaa\CTD-cache\1-converted\6\2013_07-19_t3_s06_cast029_5028.cnv
 # filter_low_pass_tc_A = 0.500
 # filter_low_pass_tc_B = 1.000
 # filter_low_pass_A_vars = prdM specc sal00 tv290C depSM potemp090C sigma-é00 sbeox0ML/L sbeox0Mg/L sbeox0PS sbox0Mm/Kg sbeox0Mm/L sbox0dV/dT oxsolML/L oxsolMg/L oxsolMm/Kg potemp090C n2satMg/L par flECO-AFL turbWETntu0
 # filter_low_pass_B_vars =
-# alignctd_date = Jul 10 2022 04:04:13, 7.26.7.129
+# alignctd_date = Jul 27 2022 17:57:39, 7.26.7.129
 # alignctd_in = C:\Users\Martin.Renner\Documents\tmp\LCI_noaa\CTD-cache\2-filtered\6\2013_07-19_t3_s06_cast029_5028.cnv
 # alignctd_adv = potemp090C 0.500                                                                                                                                                                                                    
-# loopedit_date = Jul 10 2022 04:04:45, 7.26.7.129
+# loopedit_date = Jul 27 2022 17:57:53, 7.26.7.129
 # loopedit_in = C:\Users\Martin.Renner\Documents\tmp\LCI_noaa\CTD-cache\3-aligned\6\2013_07-19_t3_s06_cast029_5028.cnv
 # loopedit_minVelocity = 0.250                                                                                            
 # loopedit_surfaceSoak: minDepth = 0.5, maxDepth = 5, useDeckPress = 1                                                    
 # loopedit_excl_bad_scans = yes
-# binavg_date = Jul 10 2022 04:05:16, 7.26.7.129
+# binavg_date = Jul 27 2022 17:58:06, 7.26.7.129
 # binavg_in = C:\Users\Martin.Renner\Documents\tmp\LCI_noaa\CTD-cache\4-looped\6\2013_07-19_t3_s06_cast029_5028.cnv
 # binavg_bintype = meters
 # binavg_binsize = 1

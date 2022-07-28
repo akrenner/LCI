@@ -1,0 +1,346 @@
+* Sea-Bird SBE19plus Data File:
+* FileName = C:\Sea-Bird\Northern OTF Data 2013\2021\so_2021_otf.hex
+* Software Version 1.59
+* Temperature SN =  5061
+* Conductivity SN =  5061
+* System UpLoad Time = Aug 16 2021 15:46:36
+* ds
+* SeacatPlus V 1.6a  SERIAL NO. 5061    16 Aug 2021  14:32:34
+* vbatt = 12.8, vlith =  8.3, ioper =  61.9 ma, ipump =  46.1 ma, 
+* iext01 =  71.1 ma
+* iext23 =  46.5 ma
+* 
+* status = not logging
+* number of scans to average = 1
+* samples = 106536, free = 334969, casts = 141
+* mode = profile, minimum cond freq = 3000, pump delay = 60 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.3 volts
+* pressure sensor = strain gauge, range = 870.0
+* SBE 38 = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
+* echo commands = yes
+* output format = raw HEX
+
+* S>
+* 
+* SeacatPlus V 1.6a  SERIAL NO. 5061    16 Aug 2021  14:33:04
+* temperature:  03-oct-19
+*     TA0 = 1.250833e-03
+*     TA1 = 2.608609e-04
+*     TA2 = 3.764468e-07
+*     TA3 = 1.374095e-07
+*     TOFFSET = 0.000000e+00
+* conductivity:  03-oct-19
+*     G = -9.992340e-01
+*     H = 1.558881e-01
+*     I = -5.989661e-04
+*     J = 7.070572e-05
+*     CF0 = 2.539936e+03
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     CSLOPE = 1.000000e+00
+* pressure S/N = 2362539, range = 870 psia:  01-oct-19
+*     PA0 = 1.734850e-01
+*     PA1 = 2.648064e-03
+*     PA2 = 2.504916e-11
+*     PTCA0 = 5.243292e+05
+*     PTCA1 = 5.319785e+00
+*     PTCA2 = -1.315585e-01
+*     PTCB0 = 2.537125e+01
+*     PTCB1 = -1.750000e-03
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = -5.821800e+01
+*     PTEMPA1 = 5.288649e+01
+*     PTEMPA2 = -2.620123e-01
+*     POFFSET = 0.000000e+00
+* volt 0: offset = -4.682842e-02, slope = 1.249147e+00
+* volt 1: offset = -4.695158e-02, slope = 1.248145e+00
+* volt 2: offset = -4.685263e-02, slope = 1.248783e+00
+* volt 3: offset = -4.690316e-02, slope = 1.249508e+00
+*     EXTFREQSF = 1.000002e+00
+* cast   1 01 Jul 2021 10:32:27 samples 1 to 1207, avg = 1, stop = mag switch
+* cast   2 01 Jul 2021 11:34:56 samples 1208 to 2280, avg = 1, stop = mag switch
+* cast   3 01 Jul 2021 12:44:53 samples 2281 to 3593, avg = 1, stop = mag switch
+* cast   4 01 Jul 2021 14:50:18 samples 3594 to 4806, avg = 1, stop = mag switch
+* cast   5 01 Jul 2021 16:00:08 samples 4807 to 5765, avg = 1, stop = mag switch
+* cast   6 02 Jul 2021 08:25:41 samples 5766 to 6874, avg = 1, stop = mag switch
+* cast   7 02 Jul 2021 08:30:32 samples 6875 to 6876, avg = 1, stop = mag switch
+* cast   8 02 Jul 2021 09:22:18 samples 6877 to 8254, avg = 1, stop = mag switch
+* cast   9 02 Jul 2021 10:14:15 samples 8255 to 9308, avg = 1, stop = mag switch
+* cast  10 02 Jul 2021 11:32:15 samples 9309 to 10346, avg = 1, stop = mag switch
+* cast  11 02 Jul 2021 12:35:52 samples 10347 to 11364, avg = 1, stop = mag switch
+* cast  12 02 Jul 2021 13:12:16 samples 11365 to 12124, avg = 1, stop = mag switch
+* cast  13 03 Jul 2021 10:16:13 samples 12125 to 12854, avg = 1, stop = mag switch
+* cast  14 03 Jul 2021 11:14:23 samples 12855 to 13752, avg = 1, stop = mag switch
+* cast  15 03 Jul 2021 12:28:52 samples 13753 to 14862, avg = 1, stop = mag switch
+* cast  16 03 Jul 2021 13:18:09 samples 14863 to 15912, avg = 1, stop = mag switch
+* cast  17 03 Jul 2021 14:21:46 samples 15913 to 17095, avg = 1, stop = mag switch
+* cast  18 03 Jul 2021 15:11:29 samples 17096 to 17870, avg = 1, stop = mag switch
+* cast  19 04 Jul 2021 07:51:24 samples 17871 to 18587, avg = 1, stop = mag switch
+* cast  20 04 Jul 2021 08:41:29 samples 18588 to 19617, avg = 1, stop = mag switch
+* cast  21 04 Jul 2021 09:45:40 samples 19618 to 20659, avg = 1, stop = mag switch
+* cast  22 04 Jul 2021 10:36:34 samples 20660 to 21595, avg = 1, stop = mag switch
+* cast  23 04 Jul 2021 12:22:15 samples 21596 to 22046, avg = 1, stop = mag switch
+* cast  24 05 Jul 2021 10:42:36 samples 22047 to 22685, avg = 1, stop = mag switch
+* cast  25 05 Jul 2021 11:36:32 samples 22686 to 23442, avg = 1, stop = mag switch
+* cast  26 05 Jul 2021 12:41:18 samples 23443 to 24501, avg = 1, stop = mag switch
+* cast  27 05 Jul 2021 13:40:40 samples 24502 to 25379, avg = 1, stop = mag switch
+* cast  28 05 Jul 2021 14:42:13 samples 25380 to 26371, avg = 1, stop = mag switch
+* cast  29 05 Jul 2021 15:52:55 samples 26372 to 27102, avg = 1, stop = mag switch
+* cast  30 07 Jul 2021 10:46:27 samples 27103 to 27802, avg = 1, stop = mag switch
+* cast  31 07 Jul 2021 11:20:39 samples 27803 to 28502, avg = 1, stop = mag switch
+* cast  32 07 Jul 2021 12:28:21 samples 28503 to 29396, avg = 1, stop = mag switch
+* cast  33 07 Jul 2021 14:25:42 samples 29397 to 30037, avg = 1, stop = mag switch
+* cast  34 07 Jul 2021 15:36:32 samples 30038 to 30709, avg = 1, stop = mag switch
+* cast  35 08 Jul 2021 08:08:32 samples 30710 to 31226, avg = 1, stop = mag switch
+* cast  36 08 Jul 2021 09:10:45 samples 31227 to 32204, avg = 1, stop = mag switch
+* cast  37 08 Jul 2021 10:23:44 samples 32205 to 32946, avg = 1, stop = mag switch
+* cast  38 08 Jul 2021 11:14:44 samples 32947 to 33760, avg = 1, stop = mag switch
+* cast  39 08 Jul 2021 13:15:09 samples 33761 to 34457, avg = 1, stop = mag switch
+* cast  40 08 Jul 2021 14:41:01 samples 34458 to 35415, avg = 1, stop = mag switch
+* cast  41 09 Jul 2021 11:23:18 samples 35416 to 35977, avg = 1, stop = mag switch
+* cast  42 09 Jul 2021 12:24:23 samples 35978 to 37088, avg = 1, stop = mag switch
+* cast  43 09 Jul 2021 13:19:51 samples 37089 to 37835, avg = 1, stop = mag switch
+* cast  44 11 Jul 2021 10:46:46 samples 37836 to 38475, avg = 1, stop = mag switch
+* cast  45 11 Jul 2021 12:45:09 samples 38476 to 39304, avg = 1, stop = mag switch
+* cast  46 11 Jul 2021 13:51:47 samples 39305 to 40200, avg = 1, stop = mag switch
+* cast  47 11 Jul 2021 14:48:46 samples 40201 to 41550, avg = 1, stop = mag switch
+* cast  48 11 Jul 2021 16:01:55 samples 41551 to 42112, avg = 1, stop = mag switch
+* cast  49 12 Jul 2021 08:06:58 samples 42113 to 42908, avg = 1, stop = mag switch
+* cast  50 12 Jul 2021 09:13:28 samples 42909 to 43607, avg = 1, stop = mag switch
+* cast  51 12 Jul 2021 10:28:27 samples 43608 to 44465, avg = 1, stop = mag switch
+* cast  52 12 Jul 2021 12:07:29 samples 44466 to 45354, avg = 1, stop = mag switch
+* cast  53 12 Jul 2021 13:19:10 samples 45355 to 45808, avg = 1, stop = mag switch
+* cast  54 12 Jul 2021 14:06:53 samples 45809 to 46271, avg = 1, stop = mag switch
+* cast  55 13 Jul 2021 11:44:42 samples 46272 to 46855, avg = 1, stop = mag switch
+* cast  56 13 Jul 2021 12:46:15 samples 46856 to 47368, avg = 1, stop = mag switch
+* cast  57 13 Jul 2021 13:46:01 samples 47369 to 48216, avg = 1, stop = mag switch
+* cast  58 13 Jul 2021 15:35:23 samples 48217 to 48645, avg = 1, stop = mag switch
+* cast  59 13 Jul 2021 16:37:31 samples 48646 to 49109, avg = 1, stop = mag switch
+* cast  60 14 Jul 2021 08:25:30 samples 49110 to 49650, avg = 1, stop = mag switch
+* cast  61 14 Jul 2021 09:10:55 samples 49651 to 50305, avg = 1, stop = mag switch
+* cast  62 14 Jul 2021 10:15:02 samples 50306 to 50996, avg = 1, stop = mag switch
+* cast  63 14 Jul 2021 11:44:47 samples 50997 to 51481, avg = 1, stop = mag switch
+* cast  64 14 Jul 2021 13:00:30 samples 51482 to 52059, avg = 1, stop = mag switch
+* cast  65 14 Jul 2021 13:59:42 samples 52060 to 52601, avg = 1, stop = mag switch
+* cast  66 15 Jul 2021 12:31:14 samples 52602 to 53138, avg = 1, stop = mag switch
+* cast  67 15 Jul 2021 13:41:02 samples 53139 to 53772, avg = 1, stop = mag switch
+* cast  68 15 Jul 2021 13:53:13 samples 53773 to 53779, avg = 1, stop = mag switch
+* cast  69 15 Jul 2021 15:11:31 samples 53780 to 54840, avg = 1, stop = mag switch
+* cast  70 15 Jul 2021 17:12:37 samples 54841 to 55676, avg = 1, stop = mag switch
+* cast  71 16 Jul 2021 08:08:39 samples 55677 to 56138, avg = 1, stop = mag switch
+* cast  72 16 Jul 2021 10:34:31 samples 56139 to 56854, avg = 1, stop = mag switch
+* cast  73 16 Jul 2021 11:08:53 samples 56855 to 57517, avg = 1, stop = mag switch
+* cast  74 16 Jul 2021 12:53:58 samples 57518 to 57934, avg = 1, stop = mag switch
+* cast  75 16 Jul 2021 13:40:34 samples 57935 to 58278, avg = 1, stop = mag switch
+* cast  76 17 Jul 2021 10:39:59 samples 58279 to 58884, avg = 1, stop = mag switch
+* cast  77 17 Jul 2021 11:32:11 samples 58885 to 59497, avg = 1, stop = mag switch
+* cast  78 17 Jul 2021 13:30:51 samples 59498 to 60085, avg = 1, stop = mag switch
+* cast  79 17 Jul 2021 14:26:15 samples 60086 to 60763, avg = 1, stop = mag switch
+* cast  80 17 Jul 2021 15:52:34 samples 60764 to 61502, avg = 1, stop = mag switch
+* cast  81 17 Jul 2021 16:48:56 samples 61503 to 62108, avg = 1, stop = mag switch
+* cast  82 18 Jul 2021 07:58:32 samples 62109 to 62716, avg = 1, stop = mag switch
+* cast  83 18 Jul 2021 08:56:29 samples 62717 to 63376, avg = 1, stop = mag switch
+* cast  84 18 Jul 2021 10:30:55 samples 63377 to 64141, avg = 1, stop = mag switch
+* cast  85 18 Jul 2021 11:17:44 samples 64142 to 64723, avg = 1, stop = mag switch
+* cast  86 18 Jul 2021 12:10:37 samples 64724 to 65392, avg = 1, stop = mag switch
+* cast  87 18 Jul 2021 13:18:39 samples 65393 to 65852, avg = 1, stop = mag switch
+* cast  88 19 Jul 2021 11:31:53 samples 65853 to 66316, avg = 1, stop = mag switch
+* cast  89 19 Jul 2021 12:33:37 samples 66317 to 67039, avg = 1, stop = mag switch
+* cast  90 19 Jul 2021 13:38:06 samples 67040 to 67677, avg = 1, stop = mag switch
+* cast  91 19 Jul 2021 14:59:22 samples 67678 to 68198, avg = 1, stop = mag switch
+* cast  92 19 Jul 2021 16:12:40 samples 68199 to 68799, avg = 1, stop = mag switch
+* cast  93 20 Jul 2021 07:33:37 samples 68800 to 69331, avg = 1, stop = mag switch
+* cast  94 20 Jul 2021 08:51:43 samples 69332 to 69850, avg = 1, stop = mag switch
+* cast  95 20 Jul 2021 09:40:31 samples 69851 to 70652, avg = 1, stop = mag switch
+* cast  96 20 Jul 2021 10:36:07 samples 70653 to 71345, avg = 1, stop = mag switch
+* cast  97 21 Jul 2021 11:35:36 samples 71346 to 71878, avg = 1, stop = mag switch
+* cast  98 21 Jul 2021 12:43:40 samples 71879 to 72516, avg = 1, stop = mag switch
+* cast  99 21 Jul 2021 13:51:17 samples 72517 to 73329, avg = 1, stop = mag switch
+* cast 100 21 Jul 2021 15:12:45 samples 73330 to 74246, avg = 1, stop = mag switch
+* cast 101 21 Jul 2021 16:07:57 samples 74247 to 74878, avg = 1, stop = mag switch
+* cast 102 21 Jul 2021 17:17:11 samples 74879 to 75365, avg = 1, stop = mag switch
+* cast 103 22 Jul 2021 07:31:55 samples 75366 to 75809, avg = 1, stop = mag switch
+* cast 104 22 Jul 2021 08:49:08 samples 75810 to 76328, avg = 1, stop = mag switch
+* cast 105 22 Jul 2021 10:09:36 samples 76329 to 77056, avg = 1, stop = mag switch
+* cast 106 22 Jul 2021 11:24:22 samples 77057 to 77741, avg = 1, stop = mag switch
+* cast 107 22 Jul 2021 12:43:24 samples 77742 to 78307, avg = 1, stop = mag switch
+* cast 108 22 Jul 2021 13:48:56 samples 78308 to 78784, avg = 1, stop = mag switch
+* cast 109 23 Jul 2021 10:41:46 samples 78785 to 79244, avg = 1, stop = mag switch
+* cast 110 23 Jul 2021 11:36:04 samples 79245 to 79703, avg = 1, stop = mag switch
+* cast 111 23 Jul 2021 12:36:28 samples 79704 to 80385, avg = 1, stop = mag switch
+* cast 112 23 Jul 2021 13:30:56 samples 80386 to 80954, avg = 1, stop = mag switch
+* cast 113 23 Jul 2021 14:42:12 samples 80955 to 91974, avg = 1, stop = mag switch
+* cast 114 23 Jul 2021 15:51:21 samples 91975 to 92488, avg = 1, stop = mag switch
+* cast 115 24 Jul 2021 07:29:14 samples 92489 to 92970, avg = 1, stop = mag switch
+* cast 116 24 Jul 2021 08:21:04 samples 92971 to 93578, avg = 1, stop = mag switch
+* cast 117 24 Jul 2021 09:37:48 samples 93579 to 94020, avg = 1, stop = mag switch
+* cast 118 24 Jul 2021 10:53:10 samples 94021 to 94571, avg = 1, stop = mag switch
+* cast 119 24 Jul 2021 12:09:17 samples 94572 to 95122, avg = 1, stop = mag switch
+* cast 120 24 Jul 2021 13:08:15 samples 95123 to 95538, avg = 1, stop = mag switch
+* cast 121 25 Jul 2021 11:55:34 samples 95539 to 95940, avg = 1, stop = mag switch
+* cast 122 25 Jul 2021 12:53:45 samples 95941 to 96536, avg = 1, stop = mag switch
+* cast 123 25 Jul 2021 13:34:49 samples 96537 to 97163, avg = 1, stop = mag switch
+* cast 124 25 Jul 2021 14:49:02 samples 97164 to 97732, avg = 1, stop = mag switch
+* cast 125 25 Jul 2021 16:05:03 samples 97733 to 98305, avg = 1, stop = mag switch
+* cast 126 25 Jul 2021 17:40:17 samples 98306 to 98773, avg = 1, stop = mag switch
+* cast 127 26 Jul 2021 07:38:09 samples 98774 to 99292, avg = 1, stop = mag switch
+* cast 128 26 Jul 2021 08:28:54 samples 99293 to 99872, avg = 1, stop = mag switch
+* cast 129 26 Jul 2021 09:53:10 samples 99873 to 100420, avg = 1, stop = mag switch
+* cast 130 26 Jul 2021 11:22:21 samples 100421 to 100972, avg = 1, stop = mag switch
+* cast 131 26 Jul 2021 13:05:41 samples 100973 to 101560, avg = 1, stop = mag switch
+* cast 132 26 Jul 2021 14:10:33 samples 101561 to 101959, avg = 1, stop = mag switch
+* cast 133 27 Jul 2021 12:51:06 samples 101960 to 102595, avg = 1, stop = mag switch
+* cast 134 27 Jul 2021 13:27:45 samples 102596 to 103190, avg = 1, stop = mag switch
+* cast 135 29 Jul 2021 13:40:47 samples 103191 to 103676, avg = 1, stop = mag switch
+* cast 136 29 Jul 2021 14:32:28 samples 103677 to 103978, avg = 1, stop = mag switch
+* cast 137 30 Jul 2021 07:38:47 samples 103979 to 104445, avg = 1, stop = mag switch
+* cast 138 30 Jul 2021 08:42:01 samples 104446 to 105042, avg = 1, stop = mag switch
+* cast 139 30 Jul 2021 09:49:35 samples 105043 to 105704, avg = 1, stop = mag switch
+* cast 140 30 Jul 2021 10:41:34 samples 105705 to 106126, avg = 1, stop = mag switch
+* cast 141 30 Jul 2021 12:22:28 samples 106127 to 106536, avg = 1, stop = mag switch
+
+* S> 
+*END*
+06B2AB0A165908156C4333A68384AA860DFCB5
+06B2840A164408156B4334A6C584A7860CFCB5
+06B25B0A167208156C4332A68F84A88600FCAE
+06B2310A16C908156D4332A62884AD860AFCBB
+06B2040A169B08156C4332A5C784BB8605FC9E
+06B1D80A162608156B4333A5B184A98628FCCF
+06B1C20A15D20815694334A5BF84AD8609FC7E
+06B1BA0A15FE08156D4334A58184B3862CFCAF
+06B1B40A165108156B4333A5E884B3860BFCBD
+06B1A30A160008156B4332A60384AF860BFCBD
+06B19F0A163608156A4333A64184AD85FAFCD7
+06B1960A16C308156B4331A62784AB8604FCB8
+06B1870A16F208156C4333A61F84B28654FCC2
+06B1760A16D408156D4333A5D584B08666FCC4
+06B1620A172008156C4334A61184AE865AFCD2
+06B14D0A169808156C4334A58984B4866FFCBB
+06B1420A15F808156D4336A5B684A98653FC5A
+06B1400A15FB08156C4334A62A84AD8643FCB5
+06B13B0A15E608156E4333AA2B84B18660FCD2
+06B1400A15FD08156C4337A53484B58655FCB8
+06B1450A161608156D4334A44084B28657FC6E
+06B1430A160008156E4336A42C84B28642FCB5
+06B14C0A15EA08156C4335A48C84B1865CFCA4
+06B1570A164408156D4337A71484B2864DFCB9
+06B1580A168508156C4337A46184AE865AFC7E
+06B1540A16B30815794337A4FE84B88643FCA9
+06B1530A17180815924337A54884B58659FC90
+06B14D0A172D0815954336A57C84B6865EFC99
+06B1440A17150815914335A5B284B4865EFCC1
+06B13E0A174B0815944336A5DD84B585FAFC9B
+06B1320A17680815A34338A5F584B8861EFCD0
+06B1280A175E0815C44336A61384B3860CFCBB
+06B1220A173E0815CA4337A62584B5861CFCB6
+06B11E0A17480815CC4338A63384B476C1FCB1
+06B11A0A17280815C74337A63D84B676C4FCBE
+06B1180A17330815C24337A64284B476ADFCBC
+06B1170A173E0815C74338A64C84B176BDFCC2
+06B11A0A17150815E64335A65184B66D49FC5B
+06B11D0A16CC0816054337A65484B56D37FCBD
+06B11E0A16750816364336A66584B76D3EFC9D
+06B1260A163C08167C4339A5F784B86D31FCC1
+06B1300A15DF0816BB43359BCD84BF88F4FCCF
+06B13D0A15A90816F14338935384B888EEFCBF
+06B14D0A156B08171A43388EB384B488F4FCA6
+06B1640A150C08171F43388DCF84BD88F7FCB9
+06B1840A14EE08170843378E0884C9875FFCAF
+06B1BC0A14CE0816ED43398D5584D7874DFCB4
+06B2020A14970816D2433A8CFA84E88766FC9C
+06B2530A147C0816BF4337991C84EE875BFCAC
+06B2AE0A14590816AC4338A1BD85058846FCB8
+06B3110A1443081699433AA3FE850A8825FCBF
+06B3760A14390816904339A49E85108842FCCA
+06B3D00A14280816974337A4B585148824FC89
+06B41F0A140B0816A843399F29851887C0FCC6
+06B4680A13F20816B1433C9D95852487A6FC86
+06B4B20A13EF0816AF4338A1D9852487C1FCC0
+06B4FE0A13DF0816A6433AA3C9851E87CAFC67
+06B53B0A13CC08169F433AA451852787C6FCBE
+06B57F0A13C10816AE4339A487852E889DFCD0
+06B5B80A13AC0816C543389F41852F88A3FCBE
+06B5FE0A13AC0816EB4338944C853688AAFCBC
+06B63D0A13A608171C433B8EC1853088A4FCBF
+06B6720A139608174943388BA3853C87EAFCDE
+06B6A30A1391081771433B8A13853D87EEFCC3
+06B6D50A138908178A433B8A1B854587E7FC93
+06B7030A138E08178C43398B0B855387E8FCBC
+06B7260A139D081774433C8AB5855A8743FCB9
+06B7400A13AC081745433A89A985668715FCB3
+06B7520A13B108170943398D35857B8740FC91
+06B75E0A13B70816C6433A9E4785908741FCB5
+06B7620A13B7081681433DA3498597865BFCBA
+06B7690A13D2081651433AA4D585A28651FCBA
+06B76D0A13E2081647433AA55385A4865DFC87
+06B76A0A13DD0816614339A56785AE8645FC85
+06B76D0A13D2081685433CA50F85A286EEFC7E
+06B76A0A13D40816A6433AA04285A986D3FC93
+06B7750A13ED0816C0433A9712859986EAFCB6
+06B77B0A14020816D3433990C9859D86DCFCBB
+06B7770A14050816E143388D9E859D867CFCC5
+06B7770A14040816EF43398BE285998672FC98
+06B7750A14050816F343398DF4859A8678FCC6
+06B7780A14080816E9433A8DA985A1866AFCD7
+06B7780A14130816CD433992A485A48605FCC4
+06B7780A14100816A4433CA003859F8609FCD8
+06B77B0A141008167D4338A31C85B98606FCC2
+06B77E0A14100816774338A40885B4860AFCB6
+06B7820A14020816A8433AA3C1859E8612FCC7
+06B7870A13FD0816E4433B974D85B68629FC6A
+06B79B0A140508171C433B8E9585A08606FCBB
+06B7A00A1408081753433B8C0D85B08627FC88
+06B7AB0A13DF08177E433B8ABC85BA8612FCBD
+06B7C10A13B1081799433C893585B586DDFC9E
+06B7D50A13910817A9433A891585B986B2FCBD
+06B7E80A138E0817A0433B884085D186DDFC95
+06B8050A13A9081781433B8BCA85DB86C6FC99
+06B8220A13C1081754433A8D0085EF860EFCA7
+06B83A0A13D408171A433A8CCC85FF860AFCC7
+06B8500A13E20816D9433A9758860D860FFCBA
+06B8580A13F208168C433BA196861985F8FC7F
+06B8680A140D0816454339A45686258747FC96
+06B87C0A142308161C433BA55886228731FC97
+06B88B0A1423081613433AA5B0861D8743FCBB
+06B89B0A142B08161E433AA5A1861F872BFCC9
+06B8A80A142E081633433BA57686138656FCBF
+06B8BB0A1430081652433CA51D86138657FCB4
+06B8C90A143E081678433BA4A586048653FCB4
+06B8D30A145608169C433BA1DD86008658FC9C
+06B8CB0A14740816B24339A2FA85FD86D2FCB5
+06B8C60A14950816BD433BA32285F386CCFC52
+06B8A10A14A00816D3433B9CAA85F086C1FCB9
+06B87F0A14820816FB4338932C85FA86E0FC91
+06B86E0A145108172E43398E7485F086A4FCB8
+06B8700A142B081762433C8C1185F586B2FC7B
+06B8890A13FD08178D433C8ADE85F68696FCAF
+06B8A00A13CC0817A1433B8A39860286ABFC9D
+06B8CC0A138E0817A5433C8866860686AFFCC2
+06B9110A136308179A433C868D861586F5FC8B
+06B95E0A135E081790433A8A3F862B86F4FCBE
+06B99F0A1376081777433B8D59863786F8FC88
+06B9D20A13B108174D433C8EB4864C870BFCBE
+06B9FA0A13FA081714433B8F61865A8698FCD2
+06BA170A14260816D8433B9EC68667868CFC91
+06BA230A14510816964338A34586758698FCB0
+06BA330A1495081675433CA4EA86698690FC6F
+06BA420A146C0816624339A5A3867E8688FC9A
+06BA5D0A144C081656433AA5D486808680FC5A
+06BA800A143B08164B4338A5A086718687FCBD
+06BA9B0A146908163E433AA55D866C867FFC67
+06BAB80A1667081638433BA534865B864BFCB7
+06BAD80A1A2F081637433CA50886478641FCD9
+06BAF20A203C081635433CA4E886358648FCBD
+06BAF60A27FD08163A433CA4A486268643FC80
+06BAF70A313808165B433CA4528611875DFCC2
+06BADC0A3245081696433EA3EB860A8762FC9F
+06BAA40A36510816E1433C980B8600874EFCB5
+06BA670A3689081737433A900C85F58762FC82
+06BA3C0A2E3208177E433C8BB085E586A9FCB6
+06BA3B0A2BB90817B24339891285ED86ADFC91
+06BA550A2DF50817CB433C86DE85EF869DFCB2
+06BA6F0A31280817D0433A872B85F086A9FC89
+06BA8E0A37050817BC433A89CC860386BAFCB0

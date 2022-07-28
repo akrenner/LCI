@@ -1,0 +1,485 @@
+* Sea-Bird SBE19plus Data File:
+* FileName = C:\Sea-Bird\Northern OTF Data 2013\SO_OTF_2018.hex
+* Software Version 1.59
+* Temperature SN =  5061
+* Conductivity SN =  5061
+* System UpLoad Time = Feb 14 2019 17:05:28
+* ds
+* SeacatPlus V 1.6a  SERIAL NO. 5061    14 Feb 2019  18:16:49
+* vbatt = 14.1, vlith =  8.0, ioper =  61.9 ma, ipump =  74.8 ma,
+* iext01 =  87.9 ma
+* iext23 =  41.5 ma
+*
+* status = not logging
+* number of scans to average = 1
+* samples = 31866, free = 409639, casts = 165
+* mode = profile, minimum cond freq = 3000, pump delay = 60 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.3 volts
+* pressure sensor = strain gauge, range = 870.0
+* SBE 38 = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
+* echo commands = yes
+* output format = raw HEX
+
+* S>
+*
+* SeacatPlus V 1.6a  SERIAL NO. 5061    14 Feb 2019  18:17:10
+* temperature:  25-apr-17
+*     TA0 = 1.248478e-03
+*     TA1 = 2.616585e-04
+*     TA2 = 2.876528e-07
+*     TA3 = 1.406518e-07
+*     TOFFSET = 0.000000e+00
+* conductivity:  25-apr-17
+*     G = -9.973643e-01
+*     H = 1.554390e-01
+*     I = -4.908290e-04
+*     J = 6.287134e-05
+*     CF0 = 2.539936e+03
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     CSLOPE = 1.000000e+00
+* pressure S/N = 2362539, range = 870 psia:  24-apr-17
+*     PA0 = 1.457550e-01
+*     PA1 = 2.652112e-03
+*     PA2 = 1.455089e-11
+*     PTCA0 = 5.242576e+05
+*     PTCA1 = 5.481884e+00
+*     PTCA2 = -1.373726e-01
+*     PTCB0 = 2.537125e+01
+*     PTCB1 = -1.750000e-03
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = -5.821722e+01
+*     PTEMPA1 = 5.288534e+01
+*     PTEMPA2 = -2.616018e-01
+*     POFFSET = 0.000000e+00
+* volt 0: offset = -4.682842e-02, slope = 1.249147e+00
+* volt 1: offset = -4.695158e-02, slope = 1.248145e+00
+* volt 2: offset = -4.685263e-02, slope = 1.248783e+00
+* volt 3: offset = -4.690316e-02, slope = 1.249508e+00
+*     EXTFREQSF = 1.000002e+00
+* cast   1 01 Jul 2018 11:51:14 samples 1 to 274, avg = 1, stop = low batt
+* cast   2 01 Jul 2018 12:43:48 samples 275 to 548, avg = 1, stop = low batt
+* cast   3 01 Jul 2018 13:55:19 samples 549 to 822, avg = 1, stop = low batt
+* cast   4 01 Jul 2018 15:00:02 samples 823 to 1110, avg = 1, stop = low batt
+* cast   5 01 Jul 2018 15:52:56 samples 1111 to 1402, avg = 1, stop = low batt
+* cast   6 01 Jul 2018 16:53:05 samples 1403 to 1678, avg = 1, stop = low batt
+* cast   7 02 Jul 2018 09:59:43 samples 1679 to 1926, avg = 1, stop = low batt
+* cast   8 02 Jul 2018 11:01:29 samples 1927 to 2422, avg = 1, stop = low batt
+* cast   9 02 Jul 2018 13:12:40 samples 2423 to 2704, avg = 1, stop = low batt
+* cast  10 02 Jul 2018 14:35:09 samples 2705 to 2980, avg = 1, stop = low batt
+* cast  11 02 Jul 2018 15:52:24 samples 2981 to 3051, avg = 1, stop = low batt
+* cast  12 03 Jul 2018 11:27:04 samples 3052 to 3609, avg = 1, stop = low batt
+* cast  13 03 Jul 2018 12:27:43 samples 3610 to 3942, avg = 1, stop = low batt
+* cast  14 03 Jul 2018 13:46:38 samples 3943 to 4224, avg = 1, stop = low batt
+* cast  15 03 Jul 2018 15:10:04 samples 4225 to 4632, avg = 1, stop = low batt
+* cast  16 03 Jul 2018 16:11:09 samples 4633 to 4943, avg = 1, stop = low batt
+* cast  17 03 Jul 2018 17:41:01 samples 4944 to 5187, avg = 1, stop = low batt
+* cast  18 04 Jul 2018 08:13:50 samples 5188 to 5463, avg = 1, stop = low batt
+* cast  19 04 Jul 2018 09:08:48 samples 5464 to 5789, avg = 1, stop = low batt
+* cast  20 04 Jul 2018 10:02:20 samples 5790 to 6100, avg = 1, stop = low batt
+* cast  21 04 Jul 2018 11:19:31 samples 6101 to 6383, avg = 1, stop = low batt
+* cast  22 04 Jul 2018 12:29:56 samples 6384 to 6690, avg = 1, stop = low batt
+* cast  23 04 Jul 2018 13:04:07 samples 6691 to 7002, avg = 1, stop = low batt
+* cast  24 05 Jul 2018 11:48:10 samples 7003 to 7283, avg = 1, stop = low batt
+* cast  25 05 Jul 2018 12:45:24 samples 7284 to 7577, avg = 1, stop = low batt
+* cast  26 05 Jul 2018 13:53:17 samples 7578 to 7882, avg = 1, stop = low batt
+* cast  27 05 Jul 2018 15:04:21 samples 7883 to 8181, avg = 1, stop = low batt
+* cast  28 05 Jul 2018 16:06:36 samples 8182 to 8439, avg = 1, stop = low batt
+* cast  29 05 Jul 2018 17:11:34 samples 8440 to 8735, avg = 1, stop = low batt
+* cast  30 06 Jul 2018 08:11:55 samples 8736 to 9010, avg = 1, stop = low batt
+* cast  31 06 Jul 2018 09:08:49 samples 9011 to 9286, avg = 1, stop = low batt
+* cast  32 06 Jul 2018 09:58:19 samples 9287 to 9588, avg = 1, stop = low batt
+* cast  33 06 Jul 2018 10:53:35 samples 9589 to 9917, avg = 1, stop = low batt
+* cast  34 06 Jul 2018 12:03:51 samples 9918 to 10189, avg = 1, stop = low batt
+* cast  35 06 Jul 2018 13:00:05 samples 10190 to 10462, avg = 1, stop = low batt
+* cast  36 07 Jul 2018 11:20:18 samples 10463 to 10763, avg = 1, stop = low batt
+* cast  37 07 Jul 2018 12:20:41 samples 10764 to 11039, avg = 1, stop = low batt
+* cast  38 07 Jul 2018 13:22:31 samples 11040 to 11327, avg = 1, stop = low batt
+* cast  39 07 Jul 2018 14:28:20 samples 11328 to 11603, avg = 1, stop = low batt
+* cast  40 07 Jul 2018 15:29:26 samples 11604 to 11883, avg = 1, stop = low batt
+* cast  41 07 Jul 2018 16:36:44 samples 11884 to 12149, avg = 1, stop = low batt
+* cast  42 08 Jul 2018 09:50:50 samples 12150 to 12429, avg = 1, stop = low batt
+* cast  43 08 Jul 2018 11:26:11 samples 12430 to 12662, avg = 1, stop = mag switch
+* cast  44 09 Jul 2018 11:32:53 samples 12663 to 12901, avg = 1, stop = mag switch
+* cast  45 09 Jul 2018 12:35:49 samples 12902 to 13194, avg = 1, stop = low batt
+* cast  46 09 Jul 2018 13:52:49 samples 13195 to 13525, avg = 1, stop = low batt
+* cast  47 09 Jul 2018 15:56:04 samples 13526 to 13774, avg = 1, stop = low batt
+* cast  48 09 Jul 2018 17:06:56 samples 13775 to 14046, avg = 1, stop = low batt
+* cast  49 09 Jul 2018 18:14:19 samples 14047 to 14302, avg = 1, stop = low batt
+* cast  50 10 Jul 2018 08:59:00 samples 14303 to 14587, avg = 1, stop = low batt
+* cast  51 10 Jul 2018 10:10:37 samples 14588 to 14880, avg = 1, stop = low batt
+* cast  52 10 Jul 2018 11:14:58 samples 14881 to 15170, avg = 1, stop = low batt
+* cast  53 10 Jul 2018 12:15:20 samples 15171 to 15449, avg = 1, stop = low batt
+* cast  54 10 Jul 2018 13:22:43 samples 15450 to 15716, avg = 1, stop = low batt
+* cast  55 10 Jul 2018 14:35:28 samples 15717 to 15965, avg = 1, stop = mag switch
+* cast  56 11 Jul 2018 11:20:50 samples 15966 to 16207, avg = 1, stop = mag switch
+* cast  57 11 Jul 2018 12:26:13 samples 16208 to 16514, avg = 1, stop = low batt
+* cast  58 11 Jul 2018 13:40:18 samples 16515 to 16518, avg = 1, stop = low batt
+* cast  59 11 Jul 2018 15:08:21 samples 16519 to 16853, avg = 1, stop = low batt
+* cast  60 11 Jul 2018 16:22:40 samples 16854 to 17128, avg = 1, stop = low batt
+* cast  61 11 Jul 2018 17:27:55 samples 17129 to 17423, avg = 1, stop = low batt
+* cast  62 12 Jul 2018 08:27:23 samples 17424 to 17803, avg = 1, stop = mag switch
+* cast  63 12 Jul 2018 09:46:00 samples 17804 to 18164, avg = 1, stop = low batt
+* cast  64 12 Jul 2018 11:20:19 samples 18165 to 18468, avg = 1, stop = low batt
+* cast  65 12 Jul 2018 12:26:16 samples 18469 to 18825, avg = 1, stop = low batt
+* cast  66 12 Jul 2018 13:30:41 samples 18826 to 19120, avg = 1, stop = low batt
+* cast  67 13 Jul 2018 14:58:43 samples 19121 to 19354, avg = 1, stop = mag switch
+* cast  68 13 Jul 2018 16:07:07 samples 19355 to 19678, avg = 1, stop = low batt
+* cast  69 13 Jul 2018 17:27:41 samples 19679 to 20107, avg = 1, stop = low batt
+* cast  70 13 Jul 2018 18:37:14 samples 20108 to 20461, avg = 1, stop = low batt
+* cast  71 13 Jul 2018 20:26:58 samples 20462 to 20715, avg = 1, stop = low batt
+* cast  72 14 Jul 2018 08:38:04 samples 20716 to 21092, avg = 1, stop = low batt
+* cast  73 14 Jul 2018 10:13:43 samples 21093 to 21429, avg = 1, stop = low batt
+* cast  74 14 Jul 2018 12:10:31 samples 21430 to 21712, avg = 1, stop = low batt
+* cast  75 14 Jul 2018 13:32:22 samples 21713 to 22014, avg = 1, stop = low batt
+* cast  76 14 Jul 2018 14:55:33 samples 22015 to 22265, avg = 1, stop = mag switch
+* cast  77 14 Jul 2018 16:50:50 samples 22266 to 22571, avg = 1, stop = low batt
+* cast  78 15 Jul 2018 12:15:20 samples 22572 to 22575, avg = 1, stop = low batt
+* cast  79 15 Jul 2018 13:25:17 samples 22576 to 22900, avg = 1, stop = low batt
+* cast  80 15 Jul 2018 14:32:16 samples 22901 to 23155, avg = 1, stop = low batt
+* cast  81 15 Jul 2018 15:21:29 samples 23156 to 23444, avg = 1, stop = low batt
+* cast  82 15 Jul 2018 16:31:43 samples 23445 to 23763, avg = 1, stop = low batt
+* cast  83 15 Jul 2018 17:47:40 samples 23764 to 24039, avg = 1, stop = low batt
+* cast  84 16 Jul 2018 08:28:44 samples 24040 to 24462, avg = 1, stop = low batt
+* cast  85 16 Jul 2018 09:21:40 samples 24463 to 24795, avg = 1, stop = low batt
+* cast  86 16 Jul 2018 10:04:09 samples 24796 to 25097, avg = 1, stop = low batt
+* cast  87 16 Jul 2018 11:17:13 samples 25098 to 25372, avg = 1, stop = low batt
+* cast  88 16 Jul 2018 12:47:47 samples 25373 to 25651, avg = 1, stop = low batt
+* cast  89 16 Jul 2018 13:40:42 samples 25652 to 25898, avg = 1, stop = mag switch
+* cast  90 17 Jul 2018 14:50:44 samples 25899 to 26200, avg = 1, stop = mag switch
+* cast  91 17 Jul 2018 15:48:19 samples 26201 to 26508, avg = 1, stop = low batt
+* cast  92 17 Jul 2018 16:43:16 samples 26509 to 26783, avg = 1, stop = low batt
+* cast  93 17 Jul 2018 18:17:29 samples 26784 to 27076, avg = 1, stop = low batt
+* cast  94 17 Jul 2018 19:27:33 samples 27077 to 27326, avg = 1, stop = low batt
+* cast  95 18 Jul 2018 09:03:30 samples 27327 to 27608, avg = 1, stop = low batt
+* cast  96 18 Jul 2018 10:01:55 samples 27609 to 27901, avg = 1, stop = low batt
+* cast  97 18 Jul 2018 11:29:20 samples 27902 to 28184, avg = 1, stop = low batt
+* cast  98 18 Jul 2018 12:25:35 samples 28185 to 28463, avg = 1, stop = low batt
+* cast  99 18 Jul 2018 13:41:18 samples 28464 to 28735, avg = 1, stop = low batt
+* cast 100 18 Jul 2018 14:46:55 samples 28736 to 28977, avg = 1, stop = mag switch
+* cast 101 19 Jul 2018 13:40:41 samples 28978 to 29291, avg = 1, stop = low batt
+* cast 102 19 Jul 2018 14:49:34 samples 29292 to 29571, avg = 1, stop = low batt
+* cast 103 19 Jul 2018 16:39:35 samples 29572 to 29826, avg = 1, stop = low batt
+* cast 104 19 Jul 2018 17:30:50 samples 29827 to 30137, avg = 1, stop = low batt
+* cast 105 20 Jul 2018 08:48:50 samples 30138 to 30232, avg = 1, stop = low batt
+* cast 106 20 Jul 2018 09:36:51 samples 30233 to 30346, avg = 1, stop = low batt
+* cast 107 20 Jul 2018 10:31:00 samples 30347 to 30462, avg = 1, stop = low batt
+* cast 108 20 Jul 2018 11:30:29 samples 30463 to 30811, avg = 1, stop = low batt
+* cast 109 20 Jul 2018 12:55:46 samples 30812 to 30883, avg = 1, stop = low batt
+* cast 110 20 Jul 2018 13:30:18 samples 30884 to 30976, avg = 1, stop = low batt
+* cast 111 21 Jul 2018 13:05:55 samples 30977 to 31007, avg = 1, stop = low batt
+* cast 112 21 Jul 2018 14:02:44 samples 31008 to 31037, avg = 1, stop = low batt
+* cast 113 21 Jul 2018 15:07:23 samples 31038 to 31051, avg = 1, stop = low batt
+* cast 114 21 Jul 2018 16:28:11 samples 31052 to 31071, avg = 1, stop = low batt
+* cast 115 21 Jul 2018 17:23:05 samples 31072 to 31107, avg = 1, stop = low batt
+* cast 116 21 Jul 2018 18:22:28 samples 31108 to 31117, avg = 1, stop = low batt
+* cast 117 22 Jul 2018 08:31:29 samples 31118 to 31121, avg = 1, stop = low batt
+* cast 118 22 Jul 2018 09:35:50 samples 31122 to 31129, avg = 1, stop = low batt
+* cast 119 22 Jul 2018 11:41:03 samples 31130 to 31197, avg = 1, stop = low batt
+* cast 120 22 Jul 2018 13:08:07 samples 31198 to 31206, avg = 1, stop = low batt
+* cast 121 22 Jul 2018 14:03:04 samples 31207 to 31218, avg = 1, stop = low batt
+* cast 122 23 Jul 2018 11:29:04 samples 31219 to 31225, avg = 1, stop = low batt
+* cast 123 23 Jul 2018 12:26:11 samples 31226 to 31251, avg = 1, stop = low batt
+* cast 124 23 Jul 2018 16:05:20 samples 31252 to 31264, avg = 1, stop = low batt
+* cast 125 23 Jul 2018 16:58:24 samples 31265 to 31273, avg = 1, stop = low batt
+* cast 126 23 Jul 2018 17:59:27 samples 31274 to 31282, avg = 1, stop = low batt
+* cast 127 23 Jul 2018 19:09:21 samples 31283 to 31300, avg = 1, stop = low batt
+* cast 128 24 Jul 2018 08:32:55 samples 31301 to 31328, avg = 1, stop = low batt
+* cast 129 24 Jul 2018 10:05:59 samples 31329 to 31332, avg = 1, stop = low batt
+* cast 130 24 Jul 2018 11:09:39 samples 31333 to 31340, avg = 1, stop = low batt
+* cast 131 24 Jul 2018 12:53:58 samples 31341 to 31353, avg = 1, stop = low batt
+* cast 132 25 Jul 2018 12:13:25 samples 31354 to 31371, avg = 1, stop = low batt
+* cast 133 25 Jul 2018 13:13:05 samples 31372 to 31378, avg = 1, stop = low batt
+* cast 134 25 Jul 2018 14:09:09 samples 31379 to 31386, avg = 1, stop = low batt
+* cast 135 25 Jul 2018 15:11:54 samples 31387 to 31395, avg = 1, stop = low batt
+* cast 136 26 Jul 2018 09:00:03 samples 31396 to 31410, avg = 1, stop = low batt
+* cast 137 26 Jul 2018 10:25:29 samples 31411 to 31432, avg = 1, stop = low batt
+* cast 138 26 Jul 2018 11:37:22 samples 31433 to 31442, avg = 1, stop = low batt
+* cast 139 26 Jul 2018 12:43:06 samples 31443 to 31457, avg = 1, stop = low batt
+* cast 140 26 Jul 2018 13:52:00 samples 31458 to 31462, avg = 1, stop = low batt
+* cast 141 26 Jul 2018 14:58:00 samples 31463 to 31476, avg = 1, stop = low batt
+* cast 142 27 Jul 2018 12:05:14 samples 31477 to 31527, avg = 1, stop = low batt
+* cast 143 27 Jul 2018 13:01:33 samples 31528 to 31536, avg = 1, stop = low batt
+* cast 144 27 Jul 2018 13:56:30 samples 31537 to 31549, avg = 1, stop = low batt
+* cast 145 27 Jul 2018 15:44:05 samples 31550 to 31566, avg = 1, stop = low batt
+* cast 146 27 Jul 2018 16:15:17 samples 31567 to 31578, avg = 1, stop = low batt
+* cast 147 27 Jul 2018 17:47:34 samples 31579 to 31586, avg = 1, stop = low batt
+* cast 148 28 Jul 2018 08:24:43 samples 31587 to 31608, avg = 1, stop = low batt
+* cast 149 28 Jul 2018 09:25:58 samples 31609 to 31634, avg = 1, stop = low batt
+* cast 150 28 Jul 2018 10:39:07 samples 31635 to 31641, avg = 1, stop = low batt
+* cast 151 28 Jul 2018 12:03:44 samples 31642 to 31650, avg = 1, stop = low batt
+* cast 152 28 Jul 2018 13:13:54 samples 31651 to 31659, avg = 1, stop = low batt
+* cast 153 28 Jul 2018 14:17:36 samples 31660 to 31667, avg = 1, stop = low batt
+* cast 154 29 Jul 2018 13:20:56 samples 31668 to 31702, avg = 1, stop = low batt
+* cast 155 29 Jul 2018 14:44:31 samples 31703 to 31719, avg = 1, stop = low batt
+* cast 156 29 Jul 2018 15:04:09 samples 31720 to 31739, avg = 1, stop = low batt
+* cast 157 29 Jul 2018 15:53:34 samples 31740 to 31749, avg = 1, stop = low batt
+* cast 158 29 Jul 2018 17:00:08 samples 31750 to 31762, avg = 1, stop = low batt
+* cast 159 29 Jul 2018 17:58:08 samples 31763 to 31779, avg = 1, stop = low batt
+* cast 160 30 Jul 2018 07:52:31 samples 31780 to 31799, avg = 1, stop = low batt
+* cast 161 30 Jul 2018 08:48:16 samples 31800 to 31816, avg = 1, stop = low batt
+* cast 162 30 Jul 2018 09:49:50 samples 31817 to 31830, avg = 1, stop = low batt
+* cast 163 30 Jul 2018 10:59:05 samples 31831 to 31840, avg = 1, stop = low batt
+* cast 164 30 Jul 2018 12:51:00 samples 31841 to 31854, avg = 1, stop = low batt
+* cast 165 30 Jul 2018 13:26:01 samples 31855 to 31866, avg = 1, stop = low batt
+
+* S>
+# nquan = 9
+# nvalues = 71                          
+# units = specified
+# name 0 = depSM: Depth [salt water, m], lat = 59.00
+# name 1 = prdE: Pressure, Strain Gauge [psi]
+# name 2 = tv290C: Temperature [ITS-90, deg C]
+# name 3 = flECO-AFL: Fluorescence, WET Labs ECO-AFL/FL [mg/m^3]
+# name 4 = sbeox0PS: Oxygen, SBE 43 [% saturation]
+# name 5 = oxsolMg/L: Oxygen Saturation, Garcia & Gordon [mg/l]
+# name 6 = par: PAR/Irradiance, Biospherical/Licor
+# name 7 = sal00: Salinity, Practical [PSU]
+# name 8 = flag: flag
+# span 0 =      1.000,     36.000       
+# span 1 =      1.742,     51.461       
+# span 2 =     9.3599,     9.4839       
+# span 3 =    30.6359,    34.7239       
+# span 4 =   76.91849,   93.38886       
+# span 5 =    9.33851,    9.36874       
+# span 6 = 1.6450e+00, 4.0797e+02       
+# span 7 =    31.3484,    31.5330       
+# span 8 = 0.0000e+00, 0.0000e+00       
+# interval = meters: 1                  
+# start_time = Jul 01 2018 11:51:14 [Instrument's time stamp, header]
+# bad_flag = -9.990e-29
+# <Sensors count="7" >
+#   <sensor Channel="1" >
+#     <!-- Count, Temperature -->
+#     <TemperatureSensor SensorID="58" >
+#       <SerialNumber>5061</SerialNumber>
+#       <CalibrationDate>14-Jun-12</CalibrationDate>
+#       <A0>1.25072100e-003</A0>
+#       <A1>2.60870100e-004</A1>
+#       <A2>3.78716600e-007</A2>
+#       <A3>1.37179300e-007</A3>
+#       <Slope>1.00000000</Slope>
+#       <Offset>0.0000</Offset>
+#     </TemperatureSensor>
+#   </sensor>
+#   <sensor Channel="2" >
+#     <!-- Frequency 0, Conductivity -->
+#     <ConductivitySensor SensorID="3" >
+#       <SerialNumber>5061</SerialNumber>
+#       <CalibrationDate>14-Jun-12</CalibrationDate>
+#       <UseG_J>1</UseG_J>
+#       <!-- Cell const and series R are applicable only for wide range sensors. -->
+#       <SeriesR>0.0000</SeriesR>
+#       <CellConst>2000.0000</CellConst>
+#       <ConductivityType>0</ConductivityType>
+#       <Coefficients equation="0" >
+#         <A>0.00000000e+000</A>
+#         <B>0.00000000e+000</B>
+#         <C>0.00000000e+000</C>
+#         <D>0.00000000e+000</D>
+#         <M>0.0</M>
+#         <CPcor>-9.57000000e-008</CPcor>
+#       </Coefficients>
+#       <Coefficients equation="1" >
+#         <G>-9.98183200e-001</G>
+#         <H>1.55698100e-001</H>
+#         <I>-5.53534000e-004</I>
+#         <J>6.77673600e-005</J>
+#         <CPcor>-9.57000000e-008</CPcor>
+#         <CTcor>3.2500e-006</CTcor>
+#         <!-- WBOTC not applicable unless ConductivityType = 1. -->
+#         <WBOTC>0.00000000e+000</WBOTC>
+#       </Coefficients>
+#       <Slope>1.00000000</Slope>
+#       <Offset>0.00000</Offset>
+#     </ConductivitySensor>
+#   </sensor>
+#   <sensor Channel="3" >
+#     <!-- Count, Pressure, Strain Gauge -->
+#     <PressureSensor SensorID="46" >
+#       <SerialNumber>5061</SerialNumber>
+#       <CalibrationDate>12-Jun-12</CalibrationDate>
+#       <PA0>1.64968300e-001</PA0>
+#       <PA1>2.65027800e-003</PA1>
+#       <PA2>1.52545000e-011</PA2>
+#       <PTEMPA0>-5.75908000e+001</PTEMPA0>
+#       <PTEMPA1>5.19603400e+001</PTEMPA1>
+#       <PTEMPA2>2.96879900e-002</PTEMPA2>
+#       <PTCA0>5.24324300e+005</PTCA0>
+#       <PTCA1>5.91065700e+000</PTCA1>
+#       <PTCA2>-1.46912900e-001</PTCA2>
+#       <PTCB0>2.53712500e+001</PTCB0>
+#       <PTCB1>-1.75000000e-003</PTCB1>
+#       <PTCB2>0.00000000e+000</PTCB2>
+#       <Offset>0.000000</Offset>
+#     </PressureSensor>
+#   </sensor>
+#   <sensor Channel="4" >
+#     <!-- A/D voltage 0, PAR/Irradiance, Biospherical/Licor -->
+#     <PAR_BiosphericalLicorChelseaSensor SensorID="42" >
+#       <SerialNumber>4751</SerialNumber>
+#       <CalibrationDate>08/10/06</CalibrationDate>
+#       <M>1.00000000</M>
+#       <B>0.00000000</B>
+#       <CalibrationConstant>2040816326.00000000</CalibrationConstant>
+#       <Multiplier>1.00000000</Multiplier>
+#       <Offset>0.76912300</Offset>
+#     </PAR_BiosphericalLicorChelseaSensor>
+#   </sensor>
+#   <sensor Channel="5" >
+#     <!-- A/D voltage 1, Oxygen, SBE 43 -->
+#     <OxygenSensor SensorID="38" >
+#       <SerialNumber>1081</SerialNumber>
+#       <CalibrationDate>26-Jun-12</CalibrationDate>
+#       <Use2007Equation>1</Use2007Equation>
+#       <CalibrationCoefficients equation="0" >
+#         <!-- Coefficients for Owens-Millard equation. -->
+#         <Boc>0.0000</Boc>
+#         <Soc>3.9290e-001</Soc>
+#         <offset>-0.5122</offset>
+#         <Pcor>1.35e-004</Pcor>
+#         <Tcor>0.0011</Tcor>
+#         <Tau>0.0</Tau>
+#       </CalibrationCoefficients>
+#       <CalibrationCoefficients equation="1" >
+#         <!-- Coefficients for Sea-Bird equation - SBE calibration in 2007 and later. -->
+#         <Soc>4.3660e-001</Soc>
+#         <offset>-0.4978</offset>
+#         <A>-2.3164e-003</A>
+#         <B> 1.2613e-004</B>
+#         <C>-2.4832e-006</C>
+#         <D0> 2.5826e+000</D0>
+#         <D1> 1.92634e-004</D1>
+#         <D2>-4.64803e-002</D2>
+#         <E> 3.6000e-002</E>
+#         <Tau20> 1.3300</Tau20>
+#         <H1>-3.3000e-002</H1>
+#         <H2> 5.0000e+003</H2>
+#         <H3> 1.4500e+003</H3>
+#       </CalibrationCoefficients>
+#     </OxygenSensor>
+#   </sensor>
+#   <sensor Channel="6" >
+#     <!-- A/D voltage 2, Fluorometer, WET Labs ECO-AFL/FL -->
+#     <FluoroWetlabECO_AFL_FL_Sensor SensorID="20" >
+#       <SerialNumber>0627</SerialNumber>
+#       <CalibrationDate>10/11/06</CalibrationDate>
+#       <ScaleFactor>1.00000000e+001</ScaleFactor>
+#       <!-- Dark output -->
+#       <Vblank>0.0860</Vblank>
+#     </FluoroWetlabECO_AFL_FL_Sensor>
+#   </sensor>
+#   <sensor Channel="7" >
+#     <!-- A/D voltage 3, User Polynomial -->
+#     <UserPolynomialSensor SensorID="61" >
+#       <SerialNumber>0627</SerialNumber>
+#       <CalibrationDate>10/11/06</CalibrationDate>
+#       <SensorName>Turbidity</SensorName>
+#       <A0>-17.94900000</A0>
+#       <A1>193.00000000</A1>
+#       <A2>0.00000000</A2>
+#       <A3>0.00000000</A3>
+#     </UserPolynomialSensor>
+#   </sensor>
+# </Sensors>
+# datcnv_date = May 20 2019 12:11:20, 7.21g [datcnv_vars = 8]
+# datcnv_in = C:\Sea-Bird\Northern OTF Data 2013\SO_OTF_2018.hex C:\Program Files\Sea-Bird\SBEDataProcessing-Win32\SBE19plus_5061.xmlcon
+# datcnv_skipover = 15966
+# datcnv_ox_hysteresis_correction = yes
+# datcnv_ox_tau_correction = yes
+# filter_date = Dec 26 2019 11:28:43, 7.21g
+# filter_in = C:\Sea-Bird\Northern OTF Data 2013\bob\cast56.cnv
+# filter_low_pass_tc_A = 1.000
+# filter_low_pass_tc_B = 0.150
+# filter_low_pass_A_vars = prdE
+# filter_low_pass_B_vars =
+# loopedit_date = Dec 26 2019 11:29:53, 7.21g
+# loopedit_in = C:\Sea-Bird\Northern OTF Data 2013\bob\cast56.cnv
+# loopedit_minVelocity = 0.250                                                                                            
+# loopedit_surfaceSoak: do not remove                                                                                     
+# loopedit_excl_bad_scans = yes
+# alignctd_date = Dec 26 2019 11:31:02, 7.21g
+# alignctd_in = C:\Sea-Bird\Northern OTF Data 2013\bob\cast56.cnv
+# alignctd_adv = tv290C 0.500, sbeox0PS 3.000                                                                                                                                                                                        
+# binavg_date = Dec 26 2019 11:32:01, 7.21g
+# binavg_in = C:\Sea-Bird\Northern OTF Data 2013\bob\cast56.cnv
+# binavg_bintype = meters
+# binavg_binsize = 1
+# binavg_excl_bad_scans = yes
+# binavg_skipover = 0
+# binavg_surface_bin = no, min = 0.000, max = 0.000, value = 0.000
+# file_type = ascii
+*END*
+      1.000      1.742     9.4002    33.2626   89.96626    9.35163 4.0797e+02    31.3665 0.0000e+00
+      2.000      3.017     9.3933    30.6359   85.29212    9.35687 2.2418e+02    31.4521 0.0000e+00
+      3.000      4.468     9.4839    33.4401   84.24785    9.34328 1.7500e+02    31.5330 0.0000e+00
+      4.000      5.997     9.4470    33.2450   87.98430    9.33851 1.4251e+02    31.4124 0.0000e+00
+      5.000      7.561     9.4005    33.3443   92.07240    9.35338 1.1583e+02    31.4190 0.0000e+00
+      6.000      8.998     9.3892    33.6706   92.32307    9.35805 9.5068e+01    31.4066 0.0000e+00
+      7.000     10.270     9.3811    33.7083   90.13897    9.36087 7.6764e+01    31.3924 0.0000e+00
+      8.000     11.541     9.3762    33.6929   87.80670    9.36222 6.2059e+01    31.3950 0.0000e+00
+      9.000     13.000     9.3748    34.0061   88.26752    9.36207 5.0837e+01    31.4134 0.0000e+00
+     10.000     14.705     9.3776    34.2695   91.39544    9.36179 4.2464e+01    31.4129 0.0000e+00
+     11.000     16.312     9.3729    34.3206   93.02467    9.36333 3.6494e+01    31.3878 0.0000e+00
+     12.000     17.740     9.3684    34.1401   93.31184    9.36498 3.1211e+01    31.3791 0.0000e+00
+     13.000     19.177     9.3666    33.7197   93.38886    9.36599 2.6441e+01    31.3747 0.0000e+00
+     14.000     20.592     9.3656    34.1824   93.09450    9.36652 2.2375e+01    31.3699 0.0000e+00
+     15.000     21.947     9.3656    34.4103   92.53507    9.36690 1.8872e+01    31.3667 0.0000e+00
+     16.000     23.330     9.3647    33.9176   92.18354    9.36687 1.5900e+01    31.3675 0.0000e+00
+     17.000     24.846     9.3643    34.0336   92.38828    9.36690 1.3383e+01    31.3700 0.0000e+00
+     18.000     26.394     9.3633    34.1354   92.62408    9.36703 1.1366e+01    31.3692 0.0000e+00
+     19.000     27.908     9.3617    34.2510   92.69261    9.36740 9.7214e+00    31.3678 0.0000e+00
+     20.000     29.374     9.3619    34.2730   92.78326    9.36770 8.3394e+00    31.3673 0.0000e+00
+     21.000     30.836     9.3626    34.2650   92.86529    9.36769 7.2021e+00    31.3653 0.0000e+00
+     22.000     32.263     9.3626    34.4583   92.84722    9.36764 6.2461e+00    31.3638 0.0000e+00
+     23.000     33.672     9.3625    34.2994   92.76110    9.36777 5.4612e+00    31.3621 0.0000e+00
+     24.000     35.112     9.3621    33.9692   92.53791    9.36785 4.7846e+00    31.3613 0.0000e+00
+     25.000     36.537     9.3622    34.1402   92.18542    9.36789 4.2352e+00    31.3618 0.0000e+00
+     26.000     37.920     9.3620    34.2393   91.82467    9.36792 3.7724e+00    31.3612 0.0000e+00
+     27.000     39.372     9.3615    34.0926   91.35590    9.36791 3.3742e+00    31.3626 0.0000e+00
+     28.000     40.870     9.3616    34.3617   91.34974    9.36789 3.0527e+00    31.3641 0.0000e+00
+     29.000     42.482     9.3625    34.3325   92.04228    9.36773 2.7850e+00    31.3653 0.0000e+00
+     30.000     44.041     9.3622    33.9425   92.49528    9.36770 2.5805e+00    31.3629 0.0000e+00
+     31.000     45.401     9.3612    34.0233   92.21390    9.36797 2.4088e+00    31.3611 0.0000e+00
+     32.000     46.697     9.3612    34.0861   91.95524    9.36812 2.2626e+00    31.3612 0.0000e+00
+     33.000     48.051     9.3610    34.3581   91.59386    9.36809 2.1434e+00    31.3619 0.0000e+00
+     34.000     49.350     9.3614    34.6500   89.95000    9.36806 2.0423e+00    31.3626 0.0000e+00
+     35.000     50.402     9.3650    34.7239   87.23511    9.36780 1.8921e+00    31.3658 0.0000e+00
+     36.000     51.461     9.4155    32.8797   85.80467    9.35756 1.6450e+00    31.3701 0.0000e+00
+     35.000     50.497     9.3963    34.2487   87.78641    9.36089 1.9677e+00    31.3771 0.0000e+00
+     34.000     49.499     9.3813    34.2819   89.10596    9.36181 1.9636e+00    31.3536 0.0000e+00
+     33.000     48.235     9.3708    34.0810   88.95913    9.36525 2.1666e+00    31.3576 0.0000e+00
+     32.000     46.894     9.3675    34.3953   88.32024    9.36644 2.2236e+00    31.3616 0.0000e+00
+     31.000     45.418     9.3668    34.5222   87.91092    9.36670 2.3706e+00    31.3647 0.0000e+00
+     30.000     43.777     9.3671    34.2683   87.98958    9.36660 2.5356e+00    31.3671 0.0000e+00
+     29.000     42.058     9.3672    33.9036   88.87370    9.36659 2.7229e+00    31.3656 0.0000e+00
+     28.000     40.313     9.3671    33.9869   90.68053    9.36661 2.8797e+00    31.3661 0.0000e+00
+     27.000     38.853     9.3663    34.0837   91.94599    9.36658 3.1934e+00    31.3660 0.0000e+00
+     26.000     37.642     9.3650    33.9644   92.42422    9.36735 3.6240e+00    31.3554 0.0000e+00
+     25.000     36.373     9.3638    33.8824   92.48032    9.36768 4.0808e+00    31.3546 0.0000e+00
+     24.000     35.071     9.3629    33.8792   92.24334    9.36803 4.6107e+00    31.3531 0.0000e+00
+     23.000     33.718     9.3622    33.6786   91.69484    9.36819 5.2975e+00    31.3535 0.0000e+00
+     22.000     32.334     9.3617    33.6823   91.08115    9.36834 6.1135e+00    31.3535 0.0000e+00
+     21.000     30.878     9.3613    33.8944   90.69171    9.36843 7.3331e+00    31.3543 0.0000e+00
+     20.000     29.419     9.3608    34.1027   90.54755    9.36848 8.3469e+00    31.3547 0.0000e+00
+     19.000     27.982     9.3603    34.0971   90.22366    9.36856 9.6868e+00    31.3552 0.0000e+00
+     18.000     26.548     9.3601    34.0287   89.66111    9.36864 1.1263e+01    31.3556 0.0000e+00
+     17.000     25.139     9.3599    34.0249   88.89969    9.36874 1.3505e+01    31.3547 0.0000e+00
+     16.000     23.580     9.3599    34.0251   88.50320    9.36872 1.5918e+01    31.3559 0.0000e+00
+     15.000     22.034     9.3612    34.1873   88.44727    9.36854 1.9332e+01    31.3584 0.0000e+00
+     14.000     20.613     9.3621    34.3528   87.94572    9.36829 2.3413e+01    31.3580 0.0000e+00
+     13.000     19.263     9.3621    34.2690   86.32360    9.36829 2.8674e+01    31.3559 0.0000e+00
+     12.000     17.838     9.3625    34.2553   83.85186    9.36817 3.4603e+01    31.3571 0.0000e+00
+     11.000     16.306     9.3638    34.0631   81.23478    9.36750 4.1460e+01    31.3660 0.0000e+00
+     10.000     14.668     9.3707    33.8867   78.93432    9.36640 4.9829e+01    31.3770 0.0000e+00
+      9.000     13.040     9.3808    33.7533   77.08738    9.36474 5.9285e+01    31.3658 0.0000e+00
+      8.000     11.511     9.3842    33.8204   76.91849    9.36380 7.0836e+01    31.3621 0.0000e+00
+      7.000     10.051     9.3872    33.9707   79.56267    9.36315 8.4735e+01    31.3622 0.0000e+00
+      6.000      8.642     9.3880    33.9952   84.53565    9.36253 1.0334e+02    31.3630 0.0000e+00
+      5.000      7.214     9.3794    33.6160   89.51917    9.36352 1.2804e+02    31.3515 0.0000e+00
+      4.000      5.933     9.3737    33.6499   91.43964    9.36505 1.6384e+02    31.3499 0.0000e+00
+      3.000      4.749     9.3705    33.7001   91.23920    9.36632 2.0699e+02    31.3484 0.0000e+00
+      2.000      3.625     9.3696    33.5949   88.78598    9.36683 2.5201e+02    31.3501 0.0000e+00
+      1.000      2.156     9.3691    33.3338   86.56935    9.36683 3.4609e+02    31.3548 0.0000e+00

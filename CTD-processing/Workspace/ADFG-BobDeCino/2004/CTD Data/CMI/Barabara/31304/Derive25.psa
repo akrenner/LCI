@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Derive >
+  <Version value="5.31a" />
+  <ServerName value="Derive" />
+  <InstrumentPath value="C:\Data\CMI\otf25c.con" />
+  <InstrumentMatch value="0" />
+  <InputDir value="C:\Data\CMI\Kennedy\71804" />
+  <InputFileArray size="9" GrowBy="-1" >
+    <ArrayItem index="0" value="ken001.cnv" />
+    <ArrayItem index="1" value="ken003.cnv" />
+    <ArrayItem index="2" value="ken005.cnv" />
+    <ArrayItem index="3" value="ken007.cnv" />
+    <ArrayItem index="4" value="ken009.cnv" />
+    <ArrayItem index="5" value="ken011.cnv" />
+    <ArrayItem index="6" value="ken013.cnv" />
+    <ArrayItem index="7" value="ken015.cnv" />
+    <ArrayItem index="8" value="ken017.cnv" />
+  </InputFileArray>
+  <OutputDir value="C:\Data\CMI\Kennedy\71804" />
+  <NameAppend value="" />
+  <OutputFile value="" />
+  <LastProcessed value="0" />
+  <CalcArray Size="3" >
+    <CalcArrayItem index="0" CalcID="17" >
+      <Calc UnitID="31" Ordinal="0" >
+        <FullName value="Depth [salt water, m]" />
+        <Latitude value="59.000000" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="1" CalcID="15" >
+      <Calc UnitID="53" Ordinal="0" >
+        <FullName value="Density [sigma-theta, Kg/m^3]" />
+      </Calc>
+    </CalcArrayItem>
+    <CalcArrayItem index="2" CalcID="70" >
+      <Calc UnitID="49" Ordinal="0" >
+        <FullName value="Salinity [PSU]" />
+      </Calc>
+    </CalcArrayItem>
+  </CalcArray>
+</Derive>
