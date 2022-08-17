@@ -1,5 +1,4 @@
-CTD-processing/allCTD/hex2process/
-CTD-processing/allCTD/hex2test/
+# CTD-processing/allCTD/
 CTD-processing/allCTD-del/
 field-notes/
 gebco/
@@ -7,7 +6,6 @@ presentations/
 GAK1-CTD/
 Cook_bathymetry_grid/
 Cook_bathymetry_grid.zip
-CTD-x/
 SWMP/
 other\ data/
 Zimmermann_CI_bathygrid.xml

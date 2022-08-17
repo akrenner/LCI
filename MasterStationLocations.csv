@@ -93,7 +93,7 @@ AlongBay,PTGR,,AlongBay_PTGR,-152.05,2.6,59.383,23,69,,,Port Graham
 AlongBay,POGI,,AlongBay_POGI,-152,0,59.445,26.7,106,,,Pogi Point
 AlongBay,Entrance,KB01,AlongBay_1,-151.888,53.28,59.5,30,70,Y,,
 AlongBay,N of Seldovia,KB02,AlongBay_2,-151.728,43.68,59.518,31.08,125,,,
-AlongBay,N of Barabara,KB03,AlongBay_3,-151.65,39,59.525,31.5,111,Y - during transect,,Same as Station 4-03
+AlongBay,N of Barabara,KB03,AlongBay_3,-151.65,39,59.525,31.5,111,Y,,Same as Station 4-03. Plankton only when on AlongBay transect
 AlongBay,Jakolof trench1,KB04,AlongBay_4,-151.53,31.8,59.552,33.12,157,,,
 AlongBay,Jakolof trench2,KB05,AlongBay_5,-151.46,27.6,59.563,33.78,172,Y,,
 AlongBay,Homer Spit,KB06,AlongBay_6,-151.385,23.1,59.5824,34.944,100,Y - during transect,,Same as station 9-06
