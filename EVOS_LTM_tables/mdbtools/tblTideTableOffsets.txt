@@ -1,0 +1,6 @@
+Transect,NearestStation,NOAAStationID,HighOffset,LowOffset
+3,"Ninilchik, AK","9455653",41,64
+4,"Seldovia, AK","9455500",0,0
+6,"Ushagat, AK","9455478",-8,-4
+7,"Illiamna Bay, AK","TWC2009",12,16
+9,"Homer, AK","9455557",5,3
