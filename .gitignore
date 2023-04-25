@@ -1,16 +1,13 @@
 CTD-processing/allCTD/
 CTD-processing/allCTD-del/
 field-notes/
-gebco/
 presentations/
 GAK1-CTD/
-Cook_bathymetry_grid/
-Cook_bathymetry_grid.zip
 SWMP/
 other\ data/
-Zimmermann_CI_bathygrid.xml
 .DS_Store
 EVOS_LTM.accdb
 Archive/
 zooplankton-versions
+bathymetry
 
