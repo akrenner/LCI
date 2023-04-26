@@ -5,7 +5,7 @@
 * Conductivity SN =  4141
 * System UpLoad Time = Apr 22 2023 18:09:55
 * ds
-* SeacatPlus V 1.6  SERIAL NO. 4141    15 Dec 2022  17:58:25
+* SeacatPlus V 1.6  SERIAL NO. 4141    22 Apr 2023  17:58:25
 * vbatt = 12.0, vlith =  7.7, ioper =  62.1 ma, ipump =  88.0 ma, 
 * iext01 =  77.9 ma
 * iext23 =   5.9 ma
@@ -21,11 +21,12 @@
 * SBE 38 = no, Gas Tension Device = no
 * Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
 * echo commands = yes
-* output format = raw HEX
+* output format = raw HEX
+
 
 * S>
 * 
-* SeacatPlus V 1.6  SERIAL NO. 4141    15 Dec 2022  17:59:03
+* SeacatPlus V 1.6  SERIAL NO. 4141    22 Apr 2023  17:59:03
 * temperature:  10-mar-21
 *     TA0 = 1.249679e-03
 *     TA1 = 2.684071e-04
@@ -59,9 +60,11 @@
 * volt 1: offset = -4.762667e-02, slope = 1.250671e+00
 * volt 2: offset = -4.803000e-02, slope = 1.250671e+00
 * volt 3: offset = 0.000000e+00, slope = 1.000000e+00
-*     EXTFREQSF = 9.999936e-01
+*     EXTFREQSF = 9.999936e-01
+
 * dh
-* cast 204 14 Dec 2022 13:31:41 samples 240576 to 241537, avg = 1, stop = mag switch
+* cast 204 21 Apr 2023 13:31:41 samples 240576 to 241537, avg = 1, stop = mag switch
+
 
 * S> 
 *END*
