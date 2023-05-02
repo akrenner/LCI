@@ -1,0 +1,76 @@
+* Sea-Bird SBE19plus Data File:
+* FileName = C:\GWA\CTD\2023\Feb\batch\2023_02-batch-Cast_122.hex
+* Software Version 1.59
+* Temperature SN =  4141
+* Conductivity SN =  4141
+* System UpLoad Time = Mar 02 2023 16:44:20
+** Cook Inlet LTM T6
+** Date: 2023-02-16
+** Station:S02
+** Start Time: 11:25
+** Depth (m): 53
+** Latitude:59.20495
+** Longitude:-151.951683
+* ds
+* SeacatPlus V 1.6  SERIAL NO. 4141    02 Mar 2023  16:42:43
+* vbatt = 12.5, vlith =  8.1, ioper =  62.1 ma, ipump =  65.4 ma, 
+* iext01 =  77.0 ma
+* iext23 =   5.6 ma
+* 
+* status = not logging
+* number of scans to average = 1
+* samples = 184525, free = 256980, casts = 161
+* number of correctable FLASH read errors = 1
+* mode = profile, minimum cond freq = 3178, pump delay = 60 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.3 volts
+* pressure sensor = strain gauge, range = 508.0
+* SBE 38 = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
+* echo commands = yes
+* output format = raw HEX
+* S>
+* 
+* SeacatPlus V 1.6  SERIAL NO. 4141    02 Mar 2023  16:43:41
+* temperature:  10-mar-21
+*     TA0 = 1.249679e-03
+*     TA1 = 2.684071e-04
+*     TA2 = -1.519966e-06
+*     TA3 = 2.137398e-07
+*     TOFFSET = 0.000000e+00
+* conductivity:  10-mar-21
+*     G = -1.001278e+00
+*     H = 1.402609e-01
+*     I = -3.427202e-04
+*     J = 4.425268e-05
+*     CF0 = 2.677689e+03
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     CSLOPE = 1.000000e+00
+* pressure S/N = 194, range = 508 psia:  03-feb-21
+*     PA0 = 3.554315e-02
+*     PA1 = 1.547110e-03
+*     PA2 = 4.606810e-12
+*     PTCA0 = 5.242054e+05
+*     PTCA1 = 1.858942e+00
+*     PTCA2 = -4.119449e-02
+*     PTCB0 = 2.509750e+01
+*     PTCB1 = -9.000000e-04
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = -5.849217e+01
+*     PTEMPA1 = 5.366070e+01
+*     PTEMPA2 = -2.297132e-01
+*     POFFSET = 0.000000e+00
+* volt 0: offset = -4.762667e-02, slope = 1.251779e+00
+* volt 1: offset = -4.762667e-02, slope = 1.250671e+00
+* volt 2: offset = -4.803000e-02, slope = 1.250671e+00
+* volt 3: offset = 0.000000e+00, slope = 1.000000e+00
+*     EXTFREQSF = 9.999936e-01
+* dh
+* cast 122 16 Feb 2023 11:26:16 samples 151901 to 151904, avg = 1, stop = low batt
+* S> 
+*END*
+09F3C10AA00C0815CB3A5100000000000049A5
+09F3A20A9FB107666E3A520000000000004A23
+09F3900A9F6B074C703A530000000000004AFA
+09F38C0A9F47066D893A530000000000004C2F
