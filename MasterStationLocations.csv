@@ -1,136 +1,136 @@
-Line,Station,New Station Name,Match_Name,Lon_decDegree,Lon min,Lat_decDegree,Lat min,Depth_m,Plankton,Number,interval2020,water2022,Comments,region
-3,39,3_1,3_1,-152.567,34.02,60.007,0.42,24,N,39,-,0,Northwest side,lower Cook Inlet
-3,40,3_2,3_2,-152.537,32.22,59.997,59.82,32,N,40,-,0,,lower Cook Inlet
-3,41,3_3,3_3,-152.51,30.6,59.987,59.22,35,N,41,-,0,,lower Cook Inlet
-3,42,3_4,3_4,-152.478,28.67,59.974,58.46,29,Y,42,-,0,Original is too far north and west.  Orig -152.482 W  59.987 N,lower Cook Inlet
-3,43,3_5,3_5,-152.422,25.32,59.957,57.42,27,N,43,-,0,,lower Cook Inlet
-3,44,3_6,3_6,-152.368,22.08,59.938,56.28,52,N,44,-,0,,lower Cook Inlet
-3,45,3_7,3_7,-152.308,18.48,59.918,55.08,112,N,45,-,0,,lower Cook Inlet
-3,46,3_8,3_8,-152.253,15.18,59.9,54,82,Y,46,-,0,,lower Cook Inlet
-3,47,3_9,3_9,-152.2,12,59.88,52.8,73,N,47,-,0,,lower Cook Inlet
-3,48,3_10,3_10,-152.145,8.7,59.863,51.78,52,N,48,-,0,,lower Cook Inlet
-3,49,3_11,3_11,-152.093,5.58,59.845,50.7,40,N,49,-,0,,lower Cook Inlet
-3,50,3_12,3_12,-152.04,2.4,59.827,49.62,38,N,50,-,0,,lower Cook Inlet
-3,51,3_13,3_13,-151.987,59.22,59.81,48.6,35,Y,51,-,0,,lower Cook Inlet
-3,52,3_14,3_14,-151.958,57.48,59.798,47.88,29,N,52,-,0,,lower Cook Inlet
-3,53,3_15,3_15,-151.935,56.1,59.79,47.4,22,N,53,-,0,,lower Cook Inlet
-3,54,3_16,3_16,-151.905,54.3,59.78,46.8,14,N,54,-,0,Southeast side.,lower Cook Inlet
-3,55,3_17,3_17,-151.883,52.98,59.772,46.32,12,N,55,-,0,Original Southeast side endpt.  Dropped: too shallow.,lower Cook Inlet
-4,56,4_1,4_1,-151.65,39,59.492,29.5,21,N,56,quarterly,0,South side.  Stations are all 1 nautical mile (1 min latitude) apart; except 4-10 is 0.5 nm. ,outer bay
-4,57,4_2,4_2,-151.65,39,59.508,30.5,102,Y,57,quarterly,0,,outer bay
-4,58,4_3,4_3,-151.65,39,59.525,31.5,107,N,58,quarterly,0,,outer bay
-4,59,4_4,4_4,-151.65,39,59.542,32.5,86,Y,59,quarterly,0,,outer bay
-4,60,4_5,4_5,-151.65,39,59.558,33.5,76,N,60,quarterly,0,,outer bay
-4,61,4_6,4_6,-151.65,39,59.575,34.5,63,N,61,quarterly,0,,outer bay
-4,62,4_7,4_7,-151.65,39,59.592,35.5,35,Y,62,quarterly,0,,outer bay
-4,63,4_8,4_8,-151.65,39,59.608,36.5,29,N,63,quarterly,0,,outer bay
-4,64,4_9,4_9,-151.65,39,59.625,37.5,27,N,64,quarterly,0,,outer bay
-4,65,4_10,4_10,-151.65,39,59.633,38,20,N,65,quarterly,0,North side.  Shorter dist on sta 4-10.  Stops approximately at 10 fathom contour along  longitude line 151d 39m W.  Original station was further north (1 nm spacing) but too shallow for larger boat.  Depth is approximate,outer bay
-6,90,6_1,6_1,-151.925,55.5,59.212,12.72,36,N,75,-,0,Northeast side,lower Cook Inlet
-6,91,6_2,6_2,-151.952,57.12,59.205,12.3,52,N,76,-,0,,lower Cook Inlet
-6,92,6_3,6_3,-151.98,58.8,59.197,11.82,104,N,77,quarterly,0,,lower Cook Inlet
-6,93,6_4,6_4,-152.007,0.42,59.19,11.4,106,N,78,-,0,,lower Cook Inlet
-6,94,6_5,6_5,-152.062,3.72,59.175,10.5,105,Y,79,-,0,,lower Cook Inlet
-6,95,6_6,6_6,-152.117,7.028,59.161,9.659,143,N,80,-,0,,lower Cook Inlet
-6,96,6_7,6_7,-152.172,10.32,59.147,8.82,125,N,81,-,0,,lower Cook Inlet
-6,97,6_8,6_8,-152.227,13.62,59.132,7.92,132,N,82,-,0,,lower Cook Inlet
-6,98,6_9,6_9,-152.282,16.92,59.118,7.08,127,N,83,-,0,,lower Cook Inlet
-6,99,6_10,6_10,-152.335,20.1,59.103,6.18,96,N,84,-,0,,lower Cook Inlet
-6,100,6_11,6_11,-152.39,23.4,59.088,5.28,113,Y,85,-,0,,lower Cook Inlet
-6,101,6_12,6_12,-152.445,26.7,59.075,4.5,140,N,86,-,0,,lower Cook Inlet
-6,102,6_13,6_13,-152.5,30,59.06,3.6,132,N,87,-,0,,lower Cook Inlet
-6,103,6_14,6_14,-152.555,33.3,59.045,2.7,138,N,88,-,0,,lower Cook Inlet
-6,104,6_15,6_15,-152.61,36.6,59.03,1.8,151,N,89,-,0,,lower Cook Inlet
-6,105,6_16,6_16,-152.665,39.9,59.017,1.02,155,N,90,-,0,,lower Cook Inlet
-6,106,6_17,6_17,-152.72,43.2,59.002,0.12,164,N,91,-,0,,lower Cook Inlet
-6,107,6_18,6_18,-152.773,46.38,58.988,59.28,175,N,92,-,0,,lower Cook Inlet
-6,108,6_19,6_19,-152.828,49.68,58.973,58.38,179,N,93,-,0,,lower Cook Inlet
-6,109,6_20,6_20,-152.883,52.98,58.958,57.48,175,N,94,-,0,,lower Cook Inlet
-6,110,6_21,6_21,-152.938,56.28,58.945,56.7,169,N,95,-,0,,lower Cook Inlet
-6,111,6_22,6_22,-152.993,59.58,58.93,55.8,167,N,96,-,0,,lower Cook Inlet
-6,112,6_23,6_23,-153.048,2.88,58.915,54.9,167,N,97,-,0,,lower Cook Inlet
-6,113,6_24,6_24,-153.103,6.18,58.902,54.12,170,N,98,-,0,,lower Cook Inlet
-6,114,6_25,6_25,-153.158,9.48,58.887,53.22,175,Y,99,-,0,,lower Cook Inlet
-6,115,6_26,6_26,-153.185,11.1,58.88,52.8,171,N,100,-,0,,lower Cook Inlet
-6,116,6_27,6_27,-153.212,12.72,58.872,52.32,129,N,101,-,0,,lower Cook Inlet
-6,117,6_28,6_28,-153.225,13.526,58.869,52.114,80,N,102,-,0,Southwest side.  Moved to bring it offshore away from shallower water.   Decimal degrees are calculated from minutes for this station (opposite of rest of stations). Original point was 153.212 W  58.865N.  Depth is approximate,lower Cook Inlet
-7,66,7_1,7_1,-153.302,18.12,59.35,21,28,N,103,-,0,West side.  First 3 stations have closer spacing.,lower Cook Inlet
-7,67,7_2,7_2,-153.268,16.08,59.348,20.88,42,N,104,-,0,,lower Cook Inlet
-7,68,7_3,7_3,-153.237,14.22,59.348,20.88,46,N,105,-,0,Original coordinate was too far north.  Original was 153.237W (14.22min)  59.355N (21.3min)  46m.  Station location was also done in between sta 7-2 and 7-4 on some early cruises (rather than closer to 7-2). Depth is approximate,lower Cook Inlet
-7,69,7_4,7_4,-153.172,10.32,59.347,20.82,50,Y,106,-,0,,lower Cook Inlet
-7,70,7_5,7_5,-153.107,6.42,59.343,20.58,50,N,107,-,0,,lower Cook Inlet
-7,71,7_6,7_6,-153.042,2.52,59.342,20.52,53,N,108,-,0,,lower Cook Inlet
-7,72,7_7,7_7,-152.977,58.62,59.34,20.4,56,N,109,-,0,,lower Cook Inlet
-7,73,7_8,7_8,-152.912,54.72,59.338,20.28,72,N,110,-,0,,lower Cook Inlet
-7,74,7_9,7_9,-152.847,50.82,59.335,20.1,77,N,111,-,0,,lower Cook Inlet
-7,75,7_10,7_10,-152.782,46.92,59.333,19.98,75,Y,112,-,0,,lower Cook Inlet
-7,76,7_11,7_11,-152.717,43.02,59.332,19.92,71,N,113,-,0,,lower Cook Inlet
-7,77,7_12,7_12,-152.652,39.12,59.33,19.8,72,N,114,-,0,,lower Cook Inlet
-7,78,7_13,7_13,-152.585,35.1,59.327,19.62,72,N,115,-,0,,lower Cook Inlet
-7,79,7_14,7_14,-152.52,31.2,59.325,19.5,70,N,116,-,0,,lower Cook Inlet
-7,80,7_15,7_15,-152.455,27.3,59.323,19.38,71,N,117,-,0,,lower Cook Inlet
-7,81,7_16,7_16,-152.39,23.4,59.32,19.2,85,N,118,-,0,,lower Cook Inlet
-7,82,7_17,7_17,-152.325,19.5,59.318,19.08,88,N,119,-,0,,lower Cook Inlet
-7,83,7_18,7_18,-152.26,15.6,59.317,19.02,82,N,120,-,0,,lower Cook Inlet
-7,84,7_19,7_19,-152.196,11.76,59.315,18.9,81,N,121,-,0,,lower Cook Inlet
-7,85,7_20,7_20,-152.13,7.8,59.313,18.78,85,Y,122,-,0,,lower Cook Inlet
-7,86,7_21,7_21,-152.097,5.82,59.312,18.72,76,N,123,-,0,,lower Cook Inlet
-7,87,7_22,7_22,-152.065,3.9,59.31,18.6,77,N,124,quarterly,1,,lower Cook Inlet
-7,88,7_23,7_23,-152.032,1.92,59.31,18.6,50,N,125,-,0,East side.  Moved station to west to get out of rip area. Original was 152.065 W  59.310 N  50m depth,lower Cook Inlet
-7,89,7_24,7_24,-152,0,59.308,18.48,27,N,126,-,0,East side -original endpt.  Station dropped - too shallow and rough in rip. ,lower Cook Inlet
-9,53,,9_53,,,,,,N,164,-,0,Number from old station 1 left in by accident  (shallow one by Mckeon that we have dropped),inner bay
-9,54,9_1,9_1,-151.3572,21.433,59.5702,34.209,67,Y,165,monthly,0,South side (near Mckeon Flat),inner bay
-9,55,9_2,9_2,-151.3624,21.746,59.5718,34.308,75,N,167,monthly,0,,inner bay
-9,57,9_3,9_3,-151.3688,22.127,59.5745,34.467,94,N,169,monthly,0,,inner bay
-9,59,9_4,9_4,-151.3734,22.406,59.5766,34.595,96,N,170,monthly,0,,inner bay
-9,60,9_5,9_5,-151.3794,22.765,59.5794,34.762,97,N,171,monthly,0,,inner bay
-9,61,9_6,9_6,-151.385,23.101,59.5824,34.945,103,Y,172,monthly,0,,inner bay
-9,62,9_7,9_7,-151.3896,23.376,59.5858,35.15,102,N,173,monthly,0,,inner bay
-9,63,9_8,9_8,-151.3944,23.661,59.5892,35.351,94,N,174,monthly,0,,inner bay
-9,64,9_9,9_9,-151.3992,23.953,59.5925,35.549,82,N,175,monthly,0,,inner bay
-9,65,9_10,9_10,-151.4038,24.228,59.596,35.761,62,Y,176,monthly,0,North side (near end of Homer Spit),inner bay
-AlongBay,PGRM,,AlongBay_POGI,-152.05,2.6,59.383,23,69,N,,quarterly,0,Port Graham,outer bay
-AlongBay,POGI,,AlongBay_PGRM,-152,0,59.445,26.7,106,N,,quarterly,0,Pogi Point,outer bay
-AlongBay,Entrance,KB01,AlongBay_1,-151.888,53.28,59.5,30,70,Y,,monthly,0,,outer bay
-AlongBay,N of Seldovia,KB02,AlongBay_2,-151.728,43.68,59.518,31.08,125,N,,monthly,0,,outer bay
-AlongBay,N of Barabara,KB03,AlongBay_3,-151.65,39,59.525,31.5,111,Y,,monthly,1,Same as Station 4-03. Plankton only when on AlongBay transect,outer bay
-AlongBay,Jakolof trench1,KB04,AlongBay_4,-151.53,31.8,59.552,33.12,157,N,,monthly,0,,outer bay
-AlongBay,Jakolof trench2,KB05,AlongBay_5,-151.46,27.6,59.563,33.78,172,Y,,monthly,0,,outer bay
-AlongBay,Homer Spit,KB06,AlongBay_6,-151.385,23.1,59.5824,34.944,100,Y - during transect,,monthly,1,Same as station 9-06,inner bay
-AlongBay,N of Gull Island,KB07,AlongBay_7,-151.35,21,59.592,35.52,144,N,,monthly,0,,inner bay
-AlongBay,N of Peterson Pt,KB08,AlongBay_8,-151.295,17.7,59.613,36.78,79,N,,monthly,0,,inner bay
-AlongBay,N of Halibut Cove,KB09,AlongBay_9,-151.25,15,59.632,37.92,65,Y,,monthly,0,,inner bay
-AlongBay,N of Glacier Spit,KB10,AlongBay_10,-151.2083,12.5,59.6583,39.5,62,N,,monthly,0,Pt location fixed in field with decimal minutes recorded and decimal degrees calculated. ,inner bay
-AlongBay,SW of McNeil,KB11,AlongBay_11,-151.165,9.9,59.687,41.22,52,Y,,monthly,1,,inner bay
-AlongBay,N of Aurora Lagoon,KB12,AlongBay_12,-151.116,6.96,59.712,42.72,75,N,,monthly,0,,inner bay
-AlongBay,Near Bear Cove,KB13,AlongBay_13,-151.057,3.42,59.742,44.52,26,Y,,monthly,0,,inner bay
-subbay,Seldovia inner,Seldovia B,Seldovia_B,-151.728,43.68,59.43,25.8,20,Y,,-,0,,
-subbay,Seldovia outer,Seldovia A,Seldovia_A,-151.728,43.68,59.45,27,10,Y,,-,0,,
-subbay,Kasitsna Bay inner,Kasitsna Bay B,Kasitsna_B,-151.5535,33.207,59.4692,28.152,7,N,,-,0,,
-subbay,Kasitsna Bay outer,Kasitsna Bay A,Kasitsna_A,-151.5454,32.723,59.4818,28.908,45,Y,,-,0,,
-subbay,Jakolof inner,Jakolof B,Jakolof_B,-151.5234,31.402,59.4596,27.573,7,N,,-,0,,
-subbay,Jakolof outer,Jakolof A,Jakolof_A,-151.5368,32.208,59.4708,28.246,12,Y,,-,0,,
-subbay,Tutka inner,Tutka C,Tutka_C,-151.3104,18.626,59.4197,25.18,35,Y,,-,0,,
-subbay,Tutka mid,Tutka B,Tutka_B,-151.4226,25.353,59.4598,27.586,150,Y,,-,0,,
-subbay,Tutka outer,Tutka A,Tutka_A,-151.4848,29.087,59.4821,28.924,24,Y,,-,0,,
-subbay,Sadie inner,Sadie C,Sadie_C,-151.3539,21.235,59.4706,28.235,28,Y,,-,0,,
-subbay,Sadie mid,Sadie B,Sadie_B,-151.376,22.562,59.5035,30.208,37,Y,,-,0,,
-subbay,Sadie outer,Sadie A,Sadie_A,-151.465,27.9,59.5075,30.452,35,Y,,-,0,,
-subbay,China Poot inner,China Poot B,Chinapoot_B,-151.2489,14.931,59.5622,33.732,13,N,,-,0,,
-subbay,China Poot outer,China Poot A,Chinapoot_A,-151.3274,19.644,59.5821,34.928,28,Y,,-,0,,
-subbay,Peterson inner,Peterson A,Peterson_A,-151.2948,17.687,59.5895,35.37,64,Y,,-,0,,
-subbay,Peterson outer,Peterson B,Peterson_B,-151.2764,16.584,59.5771,34.623,29,Y,,-,0,,
-subbay,Halibut outer,Halibut A,Halibut_A,-151.2436,14.616,59.6084,36.503,71,Y,,-,0,,
-subbay,Halibut east,Halibut B,Halibut_B,-151.1816,10.893,59.5979,35.875,51,Y,,-,0,,
-subbay,Halibut Cove Lagoon,Halibut C,Halibut_C,-151.1963,11.776,59.5712,34.272,72,N,,-,0,,
-subbay,Bear Cove inner,Bear Cove B,Bear_B,-151.0276,1.657,59.72,43.202,24,Y,,-,0,,
-subbay,Bear Cove outer,Bear Cove A,Bear_A,-151.057,3.422,59.7335,44.01,42,Y,,-,0,,
-land,Jackolof_Dock,Jakolof Bay Dock,Jakolof_Dock,-151.536,32.16,59.4657,27.941,,N,,-,0,,
-land,Kasitsna_Dock,Kasitsna Lab Dock,Kasitsna_Dock,-151.5528,33.165,59.4687,28.119,,N,,-,0,,
-SE Cook Inlet,Btwn T6 and T7,One time - May 2016,once_off-1,-152.0919,5.513,59.2667,16.004,,N,,-,0,,
-SE Cook Inlet,W of Port Graham,One time - May 2016,once_off-2,-152.0468,2.809,59.4144,24.863,,N,,-,0,,
-SE Cook Inlet,W of Pt Pogibshi,One time - May 2016,once_off-3,-151.9647,57.88,59.4515,27.092,,N,,-,0,,
-Kachemak Bay,SW of Seldovia,One time - May 2016,once_off-4,-151.8895,53.369,59.4851,29.106,,N,,-,0,,
-Kachemak Bay,Near Seldovia Pt,One time - May 2016,once_off-5,-151.7164,42.985,59.5034,30.205,,N,,-,0,,
-6,29,6_29,6_29,-153.240167,14.41,58.868883,52.133,,N,,-,0,extra station to find turbid outflow (not found),lower Cook Inlet
-AlongBay,14,AB_14,AlongBay_14,-151.124583,7.475,59.720267,43.216,,N,,-,0,extra station on trip back to Homer - marked edge of highest turbidity,inner bay
+Line,Station,New Station Name,Match_Name,Lon_decDegree,Lon min,Lat_decDegree,Lat min,Depth_m,Plankton,Number,interval2020,water2022,Comments,region,description
+3,39,3_1,3_1,-152.567,34.02,60.007,0.42,24,N,39,-,0,Northwest side,lower Cook Inlet,
+3,40,3_2,3_2,-152.537,32.22,59.997,59.82,32,N,40,-,0,,lower Cook Inlet,
+3,41,3_3,3_3,-152.51,30.6,59.987,59.22,35,N,41,-,0,,lower Cook Inlet,
+3,42,3_4,3_4,-152.478,28.67,59.974,58.46,29,Y,42,-,0,Original is too far north and west.  Orig -152.482 W  59.987 N,lower Cook Inlet,
+3,43,3_5,3_5,-152.422,25.32,59.957,57.42,27,N,43,-,0,,lower Cook Inlet,
+3,44,3_6,3_6,-152.368,22.08,59.938,56.28,52,N,44,-,0,,lower Cook Inlet,
+3,45,3_7,3_7,-152.308,18.48,59.918,55.08,112,N,45,-,0,,lower Cook Inlet,
+3,46,3_8,3_8,-152.253,15.18,59.9,54,82,Y,46,-,0,,lower Cook Inlet,
+3,47,3_9,3_9,-152.2,12,59.88,52.8,73,N,47,-,0,,lower Cook Inlet,
+3,48,3_10,3_10,-152.145,8.7,59.863,51.78,52,N,48,-,0,,lower Cook Inlet,
+3,49,3_11,3_11,-152.093,5.58,59.845,50.7,40,N,49,-,0,,lower Cook Inlet,
+3,50,3_12,3_12,-152.04,2.4,59.827,49.62,38,N,50,-,0,,lower Cook Inlet,
+3,51,3_13,3_13,-151.987,59.22,59.81,48.6,35,Y,51,-,0,,lower Cook Inlet,
+3,52,3_14,3_14,-151.958,57.48,59.798,47.88,29,N,52,-,0,,lower Cook Inlet,
+3,53,3_15,3_15,-151.935,56.1,59.79,47.4,22,N,53,-,0,,lower Cook Inlet,
+3,54,3_16,3_16,-151.905,54.3,59.78,46.8,14,N,54,-,0,Southeast side.,lower Cook Inlet,
+3,55,3_17,3_17,-151.883,52.98,59.772,46.32,12,N,55,-,0,Original Southeast side endpt.  Dropped: too shallow.,lower Cook Inlet,
+4,56,4_1,4_1,-151.65,39,59.492,29.5,21,N,56,quarterly,0,South side.  Stations are all 1 nautical mile (1 min latitude) apart; except 4-10 is 0.5 nm. ,outer bay,
+4,57,4_2,4_2,-151.65,39,59.508,30.5,102,Y,57,quarterly,0,,outer bay,
+4,58,4_3,4_3,-151.65,39,59.525,31.5,107,N,58,quarterly,0,,outer bay,
+4,59,4_4,4_4,-151.65,39,59.542,32.5,86,Y,59,quarterly,0,,outer bay,
+4,60,4_5,4_5,-151.65,39,59.558,33.5,76,N,60,quarterly,0,,outer bay,
+4,61,4_6,4_6,-151.65,39,59.575,34.5,63,N,61,quarterly,0,,outer bay,
+4,62,4_7,4_7,-151.65,39,59.592,35.5,35,Y,62,quarterly,0,,outer bay,
+4,63,4_8,4_8,-151.65,39,59.608,36.5,29,N,63,quarterly,0,,outer bay,
+4,64,4_9,4_9,-151.65,39,59.625,37.5,27,N,64,quarterly,0,,outer bay,
+4,65,4_10,4_10,-151.65,39,59.633,38,20,N,65,quarterly,0,North side.  Shorter dist on sta 4-10.  Stops approximately at 10 fathom contour along  longitude line 151d 39m W.  Original station was further north (1 nm spacing) but too shallow for larger boat.  Depth is approximate,outer bay,
+6,90,6_1,6_1,-151.925,55.5,59.212,12.72,36,N,75,-,0,Northeast side,lower Cook Inlet,
+6,91,6_2,6_2,-151.952,57.12,59.205,12.3,52,N,76,-,0,,lower Cook Inlet,
+6,92,6_3,6_3,-151.98,58.8,59.197,11.82,104,N,77,quarterly,0,,lower Cook Inlet,off Nanwalek
+6,93,6_4,6_4,-152.007,0.42,59.19,11.4,106,N,78,-,0,,lower Cook Inlet,
+6,94,6_5,6_5,-152.062,3.72,59.175,10.5,105,Y,79,-,0,,lower Cook Inlet,
+6,95,6_6,6_6,-152.117,7.028,59.161,9.659,143,N,80,-,0,,lower Cook Inlet,
+6,96,6_7,6_7,-152.172,10.32,59.147,8.82,125,N,81,-,0,,lower Cook Inlet,
+6,97,6_8,6_8,-152.227,13.62,59.132,7.92,132,N,82,-,0,,lower Cook Inlet,
+6,98,6_9,6_9,-152.282,16.92,59.118,7.08,127,N,83,-,0,,lower Cook Inlet,
+6,99,6_10,6_10,-152.335,20.1,59.103,6.18,96,N,84,-,0,,lower Cook Inlet,
+6,100,6_11,6_11,-152.39,23.4,59.088,5.28,113,Y,85,-,0,,lower Cook Inlet,
+6,101,6_12,6_12,-152.445,26.7,59.075,4.5,140,N,86,-,0,,lower Cook Inlet,
+6,102,6_13,6_13,-152.5,30,59.06,3.6,132,N,87,-,0,,lower Cook Inlet,
+6,103,6_14,6_14,-152.555,33.3,59.045,2.7,138,N,88,-,0,,lower Cook Inlet,
+6,104,6_15,6_15,-152.61,36.6,59.03,1.8,151,N,89,-,0,,lower Cook Inlet,
+6,105,6_16,6_16,-152.665,39.9,59.017,1.02,155,N,90,-,0,,lower Cook Inlet,
+6,106,6_17,6_17,-152.72,43.2,59.002,0.12,164,N,91,-,0,,lower Cook Inlet,
+6,107,6_18,6_18,-152.773,46.38,58.988,59.28,175,N,92,-,0,,lower Cook Inlet,
+6,108,6_19,6_19,-152.828,49.68,58.973,58.38,179,N,93,-,0,,lower Cook Inlet,
+6,109,6_20,6_20,-152.883,52.98,58.958,57.48,175,N,94,-,0,,lower Cook Inlet,
+6,110,6_21,6_21,-152.938,56.28,58.945,56.7,169,N,95,-,0,,lower Cook Inlet,
+6,111,6_22,6_22,-152.993,59.58,58.93,55.8,167,N,96,-,0,,lower Cook Inlet,
+6,112,6_23,6_23,-153.048,2.88,58.915,54.9,167,N,97,-,0,,lower Cook Inlet,
+6,113,6_24,6_24,-153.103,6.18,58.902,54.12,170,N,98,-,0,,lower Cook Inlet,
+6,114,6_25,6_25,-153.158,9.48,58.887,53.22,175,Y,99,-,0,,lower Cook Inlet,
+6,115,6_26,6_26,-153.185,11.1,58.88,52.8,171,N,100,-,0,,lower Cook Inlet,
+6,116,6_27,6_27,-153.212,12.72,58.872,52.32,129,N,101,-,0,,lower Cook Inlet,
+6,117,6_28,6_28,-153.225,13.526,58.869,52.114,80,N,102,-,0,Southwest side.  Moved to bring it offshore away from shallower water.   Decimal degrees are calculated from minutes for this station (opposite of rest of stations). Original point was 153.212 W  58.865N.  Depth is approximate,lower Cook Inlet,
+7,66,7_1,7_1,-153.302,18.12,59.35,21,28,N,103,-,0,West side.  First 3 stations have closer spacing.,lower Cook Inlet,
+7,67,7_2,7_2,-153.268,16.08,59.348,20.88,42,N,104,-,0,,lower Cook Inlet,
+7,68,7_3,7_3,-153.237,14.22,59.348,20.88,46,N,105,-,0,Original coordinate was too far north.  Original was 153.237W (14.22min)  59.355N (21.3min)  46m.  Station location was also done in between sta 7-2 and 7-4 on some early cruises (rather than closer to 7-2). Depth is approximate,lower Cook Inlet,
+7,69,7_4,7_4,-153.172,10.32,59.347,20.82,50,Y,106,-,0,,lower Cook Inlet,
+7,70,7_5,7_5,-153.107,6.42,59.343,20.58,50,N,107,-,0,,lower Cook Inlet,
+7,71,7_6,7_6,-153.042,2.52,59.342,20.52,53,N,108,-,0,,lower Cook Inlet,
+7,72,7_7,7_7,-152.977,58.62,59.34,20.4,56,N,109,-,0,,lower Cook Inlet,
+7,73,7_8,7_8,-152.912,54.72,59.338,20.28,72,N,110,-,0,,lower Cook Inlet,
+7,74,7_9,7_9,-152.847,50.82,59.335,20.1,77,N,111,-,0,,lower Cook Inlet,
+7,75,7_10,7_10,-152.782,46.92,59.333,19.98,75,Y,112,-,0,,lower Cook Inlet,
+7,76,7_11,7_11,-152.717,43.02,59.332,19.92,71,N,113,-,0,,lower Cook Inlet,
+7,77,7_12,7_12,-152.652,39.12,59.33,19.8,72,N,114,-,0,,lower Cook Inlet,
+7,78,7_13,7_13,-152.585,35.1,59.327,19.62,72,N,115,-,0,,lower Cook Inlet,
+7,79,7_14,7_14,-152.52,31.2,59.325,19.5,70,N,116,-,0,,lower Cook Inlet,
+7,80,7_15,7_15,-152.455,27.3,59.323,19.38,71,N,117,-,0,,lower Cook Inlet,
+7,81,7_16,7_16,-152.39,23.4,59.32,19.2,85,N,118,-,0,,lower Cook Inlet,
+7,82,7_17,7_17,-152.325,19.5,59.318,19.08,88,N,119,-,0,,lower Cook Inlet,
+7,83,7_18,7_18,-152.26,15.6,59.317,19.02,82,N,120,-,0,,lower Cook Inlet,
+7,84,7_19,7_19,-152.196,11.76,59.315,18.9,81,N,121,-,0,,lower Cook Inlet,
+7,85,7_20,7_20,-152.13,7.8,59.313,18.78,85,Y,122,-,0,,lower Cook Inlet,
+7,86,7_21,7_21,-152.097,5.82,59.312,18.72,76,N,123,-,0,,lower Cook Inlet,
+7,87,7_22,7_22,-152.065,3.9,59.31,18.6,77,N,124,quarterly,1,,lower Cook Inlet,off Flat Island
+7,88,7_23,7_23,-152.032,1.92,59.31,18.6,50,N,125,-,0,East side.  Moved station to west to get out of rip area. Original was 152.065 W  59.310 N  50m depth,lower Cook Inlet,
+7,89,7_24,7_24,-152,0,59.308,18.48,27,N,126,-,0,East side -original endpt.  Station dropped - too shallow and rough in rip. ,lower Cook Inlet,
+9,53,,9_53,,,,,,N,164,-,0,Number from old station 1 left in by accident  (shallow one by Mckeon that we have dropped),inner bay,
+9,54,9_1,9_1,-151.3572,21.433,59.5702,34.209,67,Y,165,monthly,0,South side (near Mckeon Flat),inner bay,
+9,55,9_2,9_2,-151.3624,21.746,59.5718,34.308,75,N,167,monthly,0,,inner bay,
+9,57,9_3,9_3,-151.3688,22.127,59.5745,34.467,94,N,169,monthly,0,,inner bay,
+9,59,9_4,9_4,-151.3734,22.406,59.5766,34.595,96,N,170,monthly,0,,inner bay,
+9,60,9_5,9_5,-151.3794,22.765,59.5794,34.762,97,N,171,monthly,0,,inner bay,
+9,61,9_6,9_6,-151.385,23.101,59.5824,34.945,103,Y,172,monthly,0,,inner bay,
+9,62,9_7,9_7,-151.3896,23.376,59.5858,35.15,102,N,173,monthly,0,,inner bay,
+9,63,9_8,9_8,-151.3944,23.661,59.5892,35.351,94,N,174,monthly,0,,inner bay,
+9,64,9_9,9_9,-151.3992,23.953,59.5925,35.549,82,N,175,monthly,0,,inner bay,
+9,65,9_10,9_10,-151.4038,24.228,59.596,35.761,62,Y,176,monthly,0,North side (near end of Homer Spit),inner bay,
+AlongBay,PGRM,,AlongBay_POGI,-152.05,2.6,59.383,23,69,N,,quarterly,0,Port Graham,outer bay,
+AlongBay,POGI,,AlongBay_PGRM,-152,0,59.445,26.7,106,N,,quarterly,0,Pogi Point,outer bay,
+AlongBay,Entrance,KB01,AlongBay_1,-151.888,53.28,59.5,30,70,Y,,monthly,0,,outer bay,
+AlongBay,N of Seldovia,KB02,AlongBay_2,-151.728,43.68,59.518,31.08,125,N,,monthly,0,,outer bay,
+AlongBay,N of Barabara,KB03,AlongBay_3,-151.65,39,59.525,31.5,111,Y,,monthly,1,Same as Station 4-03. Plankton only when on AlongBay transect,outer bay,
+AlongBay,Jakolof trench1,KB04,AlongBay_4,-151.53,31.8,59.552,33.12,157,N,,monthly,0,,outer bay,
+AlongBay,Jakolof trench2,KB05,AlongBay_5,-151.46,27.6,59.563,33.78,172,Y,,monthly,0,,outer bay,
+AlongBay,Homer Spit,KB06,AlongBay_6,-151.385,23.1,59.5824,34.944,100,Y - during transect,,monthly,1,Same as station 9-06,inner bay,
+AlongBay,N of Gull Island,KB07,AlongBay_7,-151.35,21,59.592,35.52,144,N,,monthly,0,,inner bay,
+AlongBay,N of Peterson Pt,KB08,AlongBay_8,-151.295,17.7,59.613,36.78,79,N,,monthly,0,,inner bay,
+AlongBay,N of Halibut Cove,KB09,AlongBay_9,-151.25,15,59.632,37.92,65,Y,,monthly,0,,inner bay,
+AlongBay,N of Glacier Spit,KB10,AlongBay_10,-151.2083,12.5,59.6583,39.5,62,N,,monthly,0,Pt location fixed in field with decimal minutes recorded and decimal degrees calculated. ,inner bay,
+AlongBay,SW of McNeil,KB11,AlongBay_11,-151.165,9.9,59.687,41.22,52,Y,,monthly,1,,inner bay,
+AlongBay,N of Aurora Lagoon,KB12,AlongBay_12,-151.116,6.96,59.712,42.72,75,N,,monthly,0,,inner bay,
+AlongBay,Near Bear Cove,KB13,AlongBay_13,-151.057,3.42,59.742,44.52,26,Y,,monthly,0,,inner bay,
+subbay,Seldovia inner,Seldovia B,Seldovia_B,-151.728,43.68,59.43,25.8,20,Y,,-,0,,,
+subbay,Seldovia outer,Seldovia A,Seldovia_A,-151.728,43.68,59.45,27,10,Y,,-,0,,,
+subbay,Kasitsna Bay inner,Kasitsna Bay B,Kasitsna_B,-151.5535,33.207,59.4692,28.152,7,N,,-,0,,,
+subbay,Kasitsna Bay outer,Kasitsna Bay A,Kasitsna_A,-151.5454,32.723,59.4818,28.908,45,Y,,-,0,,,
+subbay,Jakolof inner,Jakolof B,Jakolof_B,-151.5234,31.402,59.4596,27.573,7,N,,-,0,,,
+subbay,Jakolof outer,Jakolof A,Jakolof_A,-151.5368,32.208,59.4708,28.246,12,Y,,-,0,,,
+subbay,Tutka inner,Tutka C,Tutka_C,-151.3104,18.626,59.4197,25.18,35,Y,,-,0,,,
+subbay,Tutka mid,Tutka B,Tutka_B,-151.4226,25.353,59.4598,27.586,150,Y,,-,0,,,
+subbay,Tutka outer,Tutka A,Tutka_A,-151.4848,29.087,59.4821,28.924,24,Y,,-,0,,,
+subbay,Sadie inner,Sadie C,Sadie_C,-151.3539,21.235,59.4706,28.235,28,Y,,-,0,,,
+subbay,Sadie mid,Sadie B,Sadie_B,-151.376,22.562,59.5035,30.208,37,Y,,-,0,,,
+subbay,Sadie outer,Sadie A,Sadie_A,-151.465,27.9,59.5075,30.452,35,Y,,-,0,,,
+subbay,China Poot inner,China Poot B,Chinapoot_B,-151.2489,14.931,59.5622,33.732,13,N,,-,0,,,
+subbay,China Poot outer,China Poot A,Chinapoot_A,-151.3274,19.644,59.5821,34.928,28,Y,,-,0,,,
+subbay,Peterson inner,Peterson A,Peterson_A,-151.2948,17.687,59.5895,35.37,64,Y,,-,0,,,
+subbay,Peterson outer,Peterson B,Peterson_B,-151.2764,16.584,59.5771,34.623,29,Y,,-,0,,,
+subbay,Halibut outer,Halibut A,Halibut_A,-151.2436,14.616,59.6084,36.503,71,Y,,-,0,,,
+subbay,Halibut east,Halibut B,Halibut_B,-151.1816,10.893,59.5979,35.875,51,Y,,-,0,,,
+subbay,Halibut Cove Lagoon,Halibut C,Halibut_C,-151.1963,11.776,59.5712,34.272,72,N,,-,0,,,
+subbay,Bear Cove inner,Bear Cove B,Bear_B,-151.0276,1.657,59.72,43.202,24,Y,,-,0,,,
+subbay,Bear Cove outer,Bear Cove A,Bear_A,-151.057,3.422,59.7335,44.01,42,Y,,-,0,,,
+land,Jackolof_Dock,Jakolof Bay Dock,Jakolof_Dock,-151.536,32.16,59.4657,27.941,,N,,-,0,,,
+land,Kasitsna_Dock,Kasitsna Lab Dock,Kasitsna_Dock,-151.5528,33.165,59.4687,28.119,,N,,-,0,,,
+SE Cook Inlet,Btwn T6 and T7,One time - May 2016,once_off-1,-152.0919,5.513,59.2667,16.004,,N,,-,0,,,
+SE Cook Inlet,W of Port Graham,One time - May 2016,once_off-2,-152.0468,2.809,59.4144,24.863,,N,,-,0,,,
+SE Cook Inlet,W of Pt Pogibshi,One time - May 2016,once_off-3,-151.9647,57.88,59.4515,27.092,,N,,-,0,,,
+Kachemak Bay,SW of Seldovia,One time - May 2016,once_off-4,-151.8895,53.369,59.4851,29.106,,N,,-,0,,,
+Kachemak Bay,Near Seldovia Pt,One time - May 2016,once_off-5,-151.7164,42.985,59.5034,30.205,,N,,-,0,,,
+6,29,6_29,6_29,-153.240167,14.41,58.868883,52.133,,N,,-,0,extra station to find turbid outflow (not found),lower Cook Inlet,
+AlongBay,14,AB_14,AlongBay_14,-151.124583,7.475,59.720267,43.216,,N,,-,0,extra station on trip back to Homer - marked edge of highest turbidity,inner bay,
