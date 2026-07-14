@@ -5,7 +5,7 @@
 * Conductivity SN =  4141
 * System UpLoad Time = Nov 20 2012 18:19:57
 ** Cook Inlet EVOSTC Transect 3 Anchor Pt west to east
-** Date:  29 Oct 2012
+** Date:  2012-10-29
 ** Station:  3-06
 ** Start time (AKDT-24 hr):  1009
 ** Depth (m):  49
@@ -27,7 +27,8 @@
 * SBE 38 = no, Gas Tension Device = no
 * Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
 * echo commands = yes
-* output format = raw HEX
+* output format = raw HEX
+
 
 * S>
 * 
@@ -65,9 +66,11 @@
 * volt 1: offset = -4.762667e-02, slope = 1.250671e+00
 * volt 2: offset = -4.803000e-02, slope = 1.250671e+00
 * volt 3: offset = 0.000000e+00, slope = 1.000000e+00
-*     EXTFREQSF = 9.999936e-01
+*     EXTFREQSF = 9.999936e-01
+
 * dh
-* cast  51 29 Oct 2012 10:08:20 samples 61290 to 62215, avg = 1, stop = mag switch
+* cast  51 29 Oct 2012 10:08:20 samples 61290 to 62215, avg = 1, stop = mag switch
+
 
 * S> 
 *END*

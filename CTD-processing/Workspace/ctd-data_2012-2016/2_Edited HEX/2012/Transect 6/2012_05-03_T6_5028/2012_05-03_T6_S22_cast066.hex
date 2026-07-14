@@ -5,7 +5,7 @@
 * Conductivity SN =  5028
 * System UpLoad Time = May 31 2012 02:57:00
 ** LTM Transect6- Pt Adam to Cape Douglas
-** Date: 05-03
+** Date: 2012-05-03
 ** Station: 6-22
 ** Start time (AKDT-24hr): 23:56
 ** Depth (m): 167
@@ -26,7 +26,8 @@
 * SBE 38 = no, Gas Tension Device = no
 * Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
 * echo commands = yes
-* output format = raw HEX
+* output format = raw HEX
+
 
 * S>
 * 
@@ -64,9 +65,11 @@
 * volt 1: offset = -4.700947e-02, slope = 1.248613e+00
 * volt 2: offset = -4.668421e-02, slope = 1.248633e+00
 * volt 3: offset = 0.000000e+00, slope = 1.000000e+00
-*     EXTFREQSF = 9.999914e-01
+*     EXTFREQSF = 9.999914e-01
+
 * dh
-* cast  66 03 May 2012 23:56:25 samples 60366 to 62170, avg = 1, stop = mag switch
+* cast  66 03 May 2012 23:56:25 samples 60366 to 62170, avg = 1, stop = mag switch
+
 
 * S> 
 *END*

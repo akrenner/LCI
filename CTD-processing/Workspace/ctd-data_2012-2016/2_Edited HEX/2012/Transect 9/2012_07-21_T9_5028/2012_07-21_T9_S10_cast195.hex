@@ -5,7 +5,7 @@
 * Conductivity SN =  5028
 * System UpLoad Time = Jul 28 2012 16:10:17
 ** Kachemak Bay - CTD data - upload all 2012-07-28
-** Date:  2012-07-x21   xxxx Tide (x of 2 lines)
+** Date:  2012-07-21
 ** Station: 9-10
 ** Start time (AKDT-24 hr): 1803
 ** Depth (ft):206
@@ -26,7 +26,8 @@
 * SBE 38 = no, Gas Tension Device = no
 * Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
 * echo commands = yes
-* output format = raw HEX
+* output format = raw HEX
+
 
 * S>
 * 
@@ -64,9 +65,11 @@
 * volt 1: offset = -4.700947e-02, slope = 1.248613e+00
 * volt 2: offset = -4.668421e-02, slope = 1.248633e+00
 * volt 3: offset = 0.000000e+00, slope = 1.000000e+00
-*     EXTFREQSF = 9.999914e-01
+*     EXTFREQSF = 9.999914e-01
+
 * dh
-* cast 195 21 Jul 2012 18:04:24 samples 206208 to 207386, avg = 1, stop = mag switch
+* cast 195 21 Jul 2012 18:04:24 samples 206208 to 207386, avg = 1, stop = mag switch
+
 
 * S> 
 *END*

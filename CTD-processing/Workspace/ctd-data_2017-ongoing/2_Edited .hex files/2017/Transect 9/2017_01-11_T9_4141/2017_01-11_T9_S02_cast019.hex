@@ -5,7 +5,7 @@
 * Conductivity SN =  4141
 * System UpLoad Time = Jan 17 2017 14:58:29
 ** Cook Inlet LTM Transect 9 Homer Spit
-** Date: (YYYY-MM-DD): 2017-01-11
+** Date: 2017-01-11
 ** Station: (eg. 9-01): 9-02
 ** Start time (AKST): 14:11
 ** Depth (m): 78.6
@@ -27,7 +27,8 @@
 * SBE 38 = no, Gas Tension Device = no
 * Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
 * echo commands = yes
-* output format = raw HEX
+* output format = raw HEX
+
 
 * S>
 * 
@@ -65,9 +66,11 @@
 * volt 1: offset = -4.762667e-02, slope = 1.250671e+00
 * volt 2: offset = -4.803000e-02, slope = 1.250671e+00
 * volt 3: offset = 0.000000e+00, slope = 1.000000e+00
-*     EXTFREQSF = 9.999936e-01
+*     EXTFREQSF = 9.999936e-01
+
 * dh
-* cast  19 11 Jan 2017 14:12:05 samples 21315 to 22349, avg = 1, stop = mag switch
+* cast  19 11 Jan 2017 14:12:05 samples 21315 to 22349, avg = 1, stop = mag switch
+
 
 * S> 
 *END*

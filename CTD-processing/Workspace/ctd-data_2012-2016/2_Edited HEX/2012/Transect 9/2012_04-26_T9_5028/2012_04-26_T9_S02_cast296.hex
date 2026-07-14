@@ -5,7 +5,7 @@
 * Conductivity SN =  5028
 * System UpLoad Time = Apr 29 2012 21:18:52
 ** Cruise: Homer Spit Transect
-** Date: 04-26
+** Date: 2012-04-26
 ** Station: 02
 ** Start time (AKDT): 18:21
 ** Depth (m): 76.2
@@ -25,7 +25,8 @@
 * SBE 38 = no, Gas Tension Device = no
 * Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
 * echo commands = yes
-* output format = raw HEX
+* output format = raw HEX
+
 
 * S>
 * 
@@ -63,9 +64,11 @@
 * volt 1: offset = -4.700947e-02, slope = 1.248613e+00
 * volt 2: offset = -4.668421e-02, slope = 1.248633e+00
 * volt 3: offset = 0.000000e+00, slope = 1.000000e+00
-*     EXTFREQSF = 9.999914e-01
+*     EXTFREQSF = 9.999914e-01
+
 * dh
-* cast 296 27 Apr 2012 02:23:01 samples 298189 to 299459, avg = 1, stop = mag switch
+* cast 296 27 Apr 2012 02:23:01 samples 298189 to 299459, avg = 1, stop = mag switch
+
 
 * S> 
 *END*

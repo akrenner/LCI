@@ -5,7 +5,7 @@
 * Conductivity SN =  5028
 * System UpLoad Time = Dec 29 2020 12:08:35
 ** Cook Inlet LTM Transect 9
-** Date: 12-28-2020
+** Date: 2020-12-28
 ** Station:S10
 ** Start Time (AKST):10:51
 ** Depth (m):67
@@ -27,7 +27,8 @@
 * SBE 38 = no, Gas Tension Device = no
 * Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
 * echo commands = yes
-* output format = raw HEX
+* output format = raw HEX
+
 
 * S>
 * 
@@ -65,9 +66,11 @@
 * volt 1: offset = -4.700947e-02, slope = 1.248613e+00
 * volt 2: offset = -4.668421e-02, slope = 1.248633e+00
 * volt 3: offset = 0.000000e+00, slope = 1.000000e+00
-*     EXTFREQSF = 9.999914e-01
+*     EXTFREQSF = 9.999914e-01
+
 * dh
-* cast  86 28 Dec 2020 10:50:36 samples 98923 to 99887, avg = 1, stop = mag switch
+* cast  86 28 Dec 2020 10:50:36 samples 98923 to 99887, avg = 1, stop = mag switch
+
 
 * S> 
 *END*

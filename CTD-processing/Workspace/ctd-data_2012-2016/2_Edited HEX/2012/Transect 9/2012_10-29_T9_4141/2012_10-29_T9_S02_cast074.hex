@@ -5,7 +5,7 @@
 * Conductivity SN =  4141
 * System UpLoad Time = Nov 20 2012 20:48:59
 ** Cook Inlet EVOSTC Transect 9 Spit Line south to north
-** Date:  29 Oct 2012
+** Date:  2012-10-29
 ** Station:  9-02
 ** Start time (AKDT-24 hr):  1929
 ** Depth (m): 68
@@ -27,7 +27,8 @@
 * SBE 38 = no, Gas Tension Device = no
 * Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
 * echo commands = yes
-* output format = raw HEX
+* output format = raw HEX
+
 
 * S>
 * 
@@ -65,9 +66,11 @@
 * volt 1: offset = -4.762667e-02, slope = 1.250671e+00
 * volt 2: offset = -4.803000e-02, slope = 1.250671e+00
 * volt 3: offset = 0.000000e+00, slope = 1.000000e+00
-*     EXTFREQSF = 9.999936e-01
+*     EXTFREQSF = 9.999936e-01
+
 * dh
-* cast  74 29 Oct 2012 19:29:24 samples 82285 to 83389, avg = 1, stop = mag switch
+* cast  74 29 Oct 2012 19:29:24 samples 82285 to 83389, avg = 1, stop = mag switch
+
 
 * S> 
 *END*

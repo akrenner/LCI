@@ -5,7 +5,7 @@
 * Conductivity SN =  4141
 * System UpLoad Time = Aug 23 2012 23:00:53
 ** Kachemak Bay Outer Subbays
-** Date:  08-15
+** Date:  2012-08-15
 ** Station:  Seldovia B
 ** Start time (AKDT-24 hr): 08:55
 ** Depth (m): 14
@@ -26,7 +26,8 @@
 * SBE 38 = no, Gas Tension Device = no
 * Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
 * echo commands = yes
-* output format = raw HEX
+* output format = raw HEX
+
 
 * S>
 * 
@@ -64,9 +65,11 @@
 * volt 1: offset = -4.762667e-02, slope = 1.250671e+00
 * volt 2: offset = -4.803000e-02, slope = 1.250671e+00
 * volt 3: offset = 0.000000e+00, slope = 1.000000e+00
-*     EXTFREQSF = 9.999936e-01
+*     EXTFREQSF = 9.999936e-01
+
 * dh
-* cast 109 15 Aug 2012 08:55:14 samples 129446 to 130215, avg = 1, stop = mag switch
+* cast 109 15 Aug 2012 08:55:14 samples 129446 to 130215, avg = 1, stop = mag switch
+
 
 * S> 
 *END*

@@ -5,7 +5,7 @@
 * Conductivity SN =  5028
 * System UpLoad Time = Feb 12 2013 10:25:01
 ** Kachemak Bay Spit Line  North to south
-** Date:  12 Feb 2013
+** Date:  2013-02-12
 ** Station:  9-02
 ** Start time (AKDT-24 hr):  0915
 ** Depth (m):  72
@@ -26,7 +26,8 @@
 * SBE 38 = no, Gas Tension Device = no
 * Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
 * echo commands = yes
-* output format = raw HEX
+* output format = raw HEX
+
 
 * S>
 * 
@@ -64,9 +65,11 @@
 * volt 1: offset = -4.700947e-02, slope = 1.248613e+00
 * volt 2: offset = -4.668421e-02, slope = 1.248633e+00
 * volt 3: offset = 0.000000e+00, slope = 1.000000e+00
-*     EXTFREQSF = 9.999914e-01
+*     EXTFREQSF = 9.999914e-01
+
 * dh
-* cast  21 12 Feb 2013 11:15:41 samples 26177 to 27224, avg = 1, stop = mag switch
+* cast  21 12 Feb 2013 11:15:41 samples 26177 to 27224, avg = 1, stop = mag switch
+
 
 * S> 
 *END*

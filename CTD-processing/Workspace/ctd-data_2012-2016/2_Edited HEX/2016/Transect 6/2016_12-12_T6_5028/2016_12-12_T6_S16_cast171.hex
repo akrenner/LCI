@@ -5,7 +5,7 @@
 * Conductivity SN =  5028
 * System UpLoad Time = Dec 12 2016 22:21:07
 ** Cook Inlet LTM Tran 6 Douglas east to west, partial 
-** Date: (YYYY-MM-DD): 2016-12-12
+** Date:  2016-12-12
 ** Station: (eg. 9-01): 6-16
 ** Start time (AKST): 21:08
 ** Depth (m): 155.1
@@ -27,7 +27,8 @@
 * SBE 38 = no, Gas Tension Device = no
 * Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
 * echo commands = yes
-* output format = raw HEX
+* output format = raw HEX
+
 
 * S>
 * 
@@ -65,9 +66,11 @@
 * volt 1: offset = -4.700947e-02, slope = 1.248613e+00
 * volt 2: offset = -4.668421e-02, slope = 1.248633e+00
 * volt 3: offset = 0.000000e+00, slope = 1.000000e+00
-*     EXTFREQSF = 9.999914e-01
+*     EXTFREQSF = 9.999914e-01
+
 * dh
-* cast 171 12 Dec 2016 22:07:52 samples 185987 to 188113, avg = 1, stop = mag switch
+* cast 171 12 Dec 2016 22:07:52 samples 185987 to 188113, avg = 1, stop = mag switch
+
 
 * S> 
 *END*

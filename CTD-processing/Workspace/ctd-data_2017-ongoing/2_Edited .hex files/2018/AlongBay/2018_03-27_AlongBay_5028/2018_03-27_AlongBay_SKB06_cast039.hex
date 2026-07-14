@@ -5,7 +5,7 @@
 * Conductivity SN =  5028
 * System UpLoad Time = Mar 28 2018 11:53:54
 ** Cook Inlet LTM Along-Bay (T7-22 to KB12)
-** Date: 2018_03-27
+** Date: 2018-03-27
 ** Station: (eg. 9-01): KB06
 ** Start time (AKDT): 15:19
 ** Depth (m): 102.1
@@ -27,7 +27,8 @@
 * SBE 38 = no, Gas Tension Device = no
 * Ext Volt 0 = yes, Ext Volt 1 = yes, Ext Volt 2 = yes, Ext Volt 3 = yes
 * echo commands = yes
-* output format = raw HEX
+* output format = raw HEX
+
 
 * S>
 * 
@@ -65,9 +66,11 @@
 * volt 1: offset = -4.700947e-02, slope = 1.248613e+00
 * volt 2: offset = -4.668421e-02, slope = 1.248633e+00
 * volt 3: offset = 0.000000e+00, slope = 1.000000e+00
-*     EXTFREQSF = 9.999914e-01
+*     EXTFREQSF = 9.999914e-01
+
 * dh
-* cast  39 27 Mar 2018 15:20:07 samples 50816 to 52100, avg = 1, stop = mag switch
+* cast  39 27 Mar 2018 15:20:07 samples 50816 to 52100, avg = 1, stop = mag switch
+
 
 * S> 
 *END*
