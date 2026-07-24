@@ -1,0 +1,76 @@
+* Sea-Bird SBE19plus Data File:
+* FileName = C:\Users\Martin.Renner\Documents\GISdata\LCI\CTD-processing\Workspace\ctd-data_2017-ongoing\1_Unedited .hex files\2026\2026-07\2026-07-20_cast-021.hex
+* Software Version 1.59
+* Temperature SN =  8138
+* Conductivity SN =  8138
+* System UpLoad Time = Jul 21 2026 13:40:39
+** Ship:
+** Cruise:
+** Station:
+** Latitude:
+** Longitude:
+* ds
+* SBE 19plus V 3.1.8  SERIAL NO. 8138    21 Jul 2026 13:38:21
+* vbatt = 13.6, vlith =  8.1, ioper =  60.7 ma, ipump =  50.3 ma, 
+* iext01 =   3.8 ma, iext2345 =  34.7 ma
+* status = not logging
+* number of scans to average = 1
+* samples = 22456, free = 3440604, casts = 30
+* mode = profile, minimum cond freq = 3100, pump delay = 60 sec
+* autorun = no, ignore magnetic switch = no
+* battery type = alkaline, battery cutoff =  7.5 volts
+* pressure sensor = strain gauge, range = 500.0
+* SBE 38 = no, WETLABS = no, OPTODE = no, SBE63 = no, SeaFET = no, Gas Tension Device = no
+* Ext Volt 0 = yes, Ext Volt 1 = no
+* Ext Volt 2 = yes, Ext Volt 3 = no
+* Ext Volt 4 = yes, Ext Volt 5 = yes
+* echo characters = yes
+* output format = raw HEX
+
+* S>
+* 
+* SBE 19plus V 3.1.8  SERIAL NO. 8138    21 Jul 2026 13:38:42
+* temperature:  12-Aug-21
+*     TA0 = 1.205720e-03
+*     TA1 = 2.788617e-04
+*     TA2 = -9.359207e-07
+*     TA3 = 1.773131e-07
+*     TOFFSET = 0.000000e+00
+* conductivity:  12-Aug-21
+*     G = -1.008961e+00
+*     H = 1.496753e-01
+*     I = -2.906800e-04
+*     J = 4.469486e-05
+*     CPCOR = -9.570000e-08
+*     CTCOR = 3.250000e-06
+*     CSLOPE = 1.000000e+00
+* pressure S/N = 11992165, range = 500 psia:  09-Aug-21
+*     PA0 = 6.941918e-02
+*     PA1 = 1.542752e-03
+*     PA2 = 6.790849e-12
+*     PTCA0 = 5.245309e+05
+*     PTCA1 = 5.155849e+00
+*     PTCA2 = -1.310006e-01
+*     PTCB0 = 2.514637e+01
+*     PTCB1 = 4.750000e-04
+*     PTCB2 = 0.000000e+00
+*     PTEMPA0 = -7.677473e+01
+*     PTEMPA1 = 4.832059e+01
+*     PTEMPA2 = -1.897768e-01
+*     POFFSET = 0.000000e+00
+* volt 0: offset = -4.500900e-02, slope = 1.248852e+00
+* volt 1: offset = -4.651100e-02, slope = 1.250256e+00
+* volt 2: offset = -4.508700e-02, slope = 1.249270e+00
+* volt 3: offset = -4.587400e-02, slope = 1.250369e+00
+* volt 4: offset = -4.683200e-02, slope = 1.249528e+00
+* volt 5: offset = -4.578700e-02, slope = 1.250057e+00
+*     EXTFREQSF = 1.000021e+00
+* dh
+* cast  21 20 Jul 2026 13:26:36 samples 22417 to 22420, avg = 1, stop = low batt
+
+* S> 
+*END*
+05DE3E0A28560825F35EA400010003000C0005
+05DE3A0A28560825F45EA50007000000060005
+05DE330A28560825F55EA5000E000700090001
+05DE2A0A28580825F25EA5000B000700030005
